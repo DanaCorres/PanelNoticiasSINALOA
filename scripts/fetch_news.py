@@ -84,11 +84,21 @@ SOURCES = [
      "scrape_only": True, "tipo": "Impreso", "zona": "Sinaloa"},
 
     # El Sol de Sinaloa y El Sol de Mazatlán (Organización Editorial Mexicana).
-    # Sus sitios viven dentro de oem.com.mx; se lee la sección Local de cada uno.
-    {"name": "El Sol de Sinaloa", "url": "https://oem.com.mx/elsoldesinaloa/local",
-     "scrape_only": True, "tipo": "Impreso", "zona": "Centro"},
-    {"name": "El Sol de Mazatlán", "url": "https://oem.com.mx/elsoldemazatlan/local",
-     "scrape_only": True, "tipo": "Impreso", "zona": "Sur"},
+    # Sus sitios (dentro de oem.com.mx) responden 403 a los servidores de
+    # GitHub, así que se leen vía Google News. "exigir_sufijo" descarta lo que
+    # no sea de ese periódico (Google a veces mezcla otros diarios de OEM).
+    {"name": "El Sol de Sinaloa (vía Google News)", "tipo": "Impreso", "zona": "Centro",
+     "quitar_sufijo": " - El Sol de Sinaloa", "exigir_sufijo": True,
+     "feeds": [
+         gnews("site:oem.com.mx/elsoldesinaloa"),
+         gnews("\"El Sol de Sinaloa\" Culiacán OR Sinaloa"),
+     ]},
+    {"name": "El Sol de Mazatlán (vía Google News)", "tipo": "Impreso", "zona": "Sur",
+     "quitar_sufijo": " - El Sol de Mazatlán", "exigir_sufijo": True,
+     "feeds": [
+         gnews("site:oem.com.mx/elsoldemazatlan"),
+         gnews("\"El Sol de Mazatlán\" Mazatlán OR Sinaloa"),
+     ]},
 
     # Ríodoce: semanario de investigación de Culiacán, referente nacional en
     # cobertura de narcotráfico y derechos humanos. Publica menos notas que
@@ -106,24 +116,24 @@ SOURCES = [
     # caminos, porque su robots.txt restringe el acceso automatizado y es
     # probable que bloquee algunas peticiones:
     #
-    # 1. Directo a sus secciones por ciudad (patrón /seccion/<ciudad>/).
-    #    Si en el log salen con 403 o con 0 notas, es que bloquea a GitHub
-    #    Actions y estas entradas se pueden comentar.
-    {"name": "El Debate (Culiacán)", "url": "https://www.debate.com.mx/seccion/culiacan/",
-     "scrape_only": True, "tipo": "Impreso", "zona": "Centro"},
-    {"name": "El Debate (Mazatlán)", "url": "https://www.debate.com.mx/seccion/mazatlan/",
-     "scrape_only": True, "tipo": "Impreso", "zona": "Sur"},
-    {"name": "El Debate (Los Mochis)", "url": "https://www.debate.com.mx/seccion/los-mochis/",
-     "scrape_only": True, "tipo": "Impreso", "zona": "Norte"},
-    {"name": "El Debate (Guasave)", "url": "https://www.debate.com.mx/seccion/guasave/",
-     "scrape_only": True, "tipo": "Impreso", "zona": "Norte"},
-    {"name": "El Debate (Guamúchil)", "url": "https://www.debate.com.mx/seccion/guamuchil/",
-     "scrape_only": True, "tipo": "Impreso", "zona": "Centro"},
+    # 1. Directo a sus secciones por ciudad: DESACTIVADO. En la primera
+    #    corrida (6 oct 2026) las cinco secciones dieron 403 desde GitHub.
+    #    Si El Debate autoriza el acceso, se reactivan quitando el #.
+    # {"name": "El Debate (Culiacán)", "url": "https://www.debate.com.mx/seccion/culiacan/",
+    #  "scrape_only": True, "tipo": "Impreso", "zona": "Centro"},
+    # {"name": "El Debate (Mazatlán)", "url": "https://www.debate.com.mx/seccion/mazatlan/",
+    #  "scrape_only": True, "tipo": "Impreso", "zona": "Sur"},
+    # {"name": "El Debate (Los Mochis)", "url": "https://www.debate.com.mx/seccion/los-mochis/",
+    #  "scrape_only": True, "tipo": "Impreso", "zona": "Norte"},
+    # {"name": "El Debate (Guasave)", "url": "https://www.debate.com.mx/seccion/guasave/",
+    #  "scrape_only": True, "tipo": "Impreso", "zona": "Norte"},
+    # {"name": "El Debate (Guamúchil)", "url": "https://www.debate.com.mx/seccion/guamuchil/",
+    #  "scrape_only": True, "tipo": "Impreso", "zona": "Centro"},
     #
-    # 2. Respaldo vía Google News: se piden a Google los titulares de
+    # 2. Vía Google News (camino activo): se piden a Google los titulares de
     #    debate.com.mx del último día. No toca el sitio de El Debate, trae
-    #    fecha de publicación (así el filtro de "solo hoy" funciona bien) y
-    #    sigue funcionando aunque el camino 1 esté bloqueado. Los enlaces
+    #    fecha de publicación (así el filtro de "solo hoy" funciona bien).
+    #    Los enlaces
     #    pasan por news.google.com antes de llegar a la nota.
     {"name": "El Debate (vía Google News)", "tipo": "Impreso", "zona": "Sinaloa",
      "quitar_sufijo": " - El Debate", "max": 30,
@@ -160,9 +170,10 @@ SOURCES = [
     {"name": "Café Negro", "url": "https://cafenegroportal.com/category/sinaloa/",
      "tipo": "Digital", "zona": "Centro"},
 
-    # TV Pacífico: televisión regional con noticias por plaza.
-    {"name": "TV Pacífico", "url": "https://tvpacifico.mx/noticias/sinaloa",
-     "scrape_only": True, "tipo": "TV", "zona": "Sinaloa"},
+    # TV Pacífico FUERA: 403 desde GitHub en la primera corrida y no aparece
+    # de forma consistente en Google News.
+    # {"name": "TV Pacífico", "url": "https://tvpacifico.mx/noticias/sinaloa",
+    #  "scrape_only": True, "tipo": "TV", "zona": "Sinaloa"},
 
     # Noticias Digitales Sinaloa: cubre el sur profundo (Escuinapa, Rosario,
     # Concordia, San Ignacio, Elota), que casi nadie más cubre a diario.
@@ -337,6 +348,8 @@ def recolectar(source, cache):
             continue
         vistos.add(clave)
         sufijo = source.get("quitar_sufijo")
+        if sufijo and source.get("exigir_sufijo") and not it.get("title", "").endswith(sufijo):
+            continue
         if sufijo and it.get("title", "").endswith(sufijo):
             it["title"] = it["title"][: -len(sufijo)].strip()
         # Google News repite la misma nota entre consultas con URLs distintas.
