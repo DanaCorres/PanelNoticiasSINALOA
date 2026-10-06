@@ -58,6 +58,22 @@ def gnews(consulta):
     return f"https://news.google.com/rss/search?q={q}&hl=es-419&gl=MX&ceid=MX:es-419"
 
 
+def _norm(texto):
+    import unicodedata
+    texto = unicodedata.normalize("NFD", texto or "").lower()
+    return "".join(c for c in texto if unicodedata.category(c) != "Mn")
+
+
+def es_del_medio(item, medio):
+    """True si la nota es del medio indicado (por el dato de Google News o
+    por el sufijo del titular). Ignora mayúsculas y acentos."""
+    m = _norm(medio)
+    if m in _norm(item.get("medio", "")):
+        return True
+    cola = _norm(item.get("title", "")).rsplit(" - ", 1)
+    return len(cola) == 2 and m in cola[1]
+
+
 # "feeds": lista de URLs de RSS ya confirmadas (se usan tal cual).
 # Sin "feeds": se intenta descubrir el RSS y, si no hay, se scrapea el home.
 # "zona" es informativo: se le pasa al modelo para que pueda agrupar.
@@ -85,19 +101,20 @@ SOURCES = [
 
     # El Sol de Sinaloa y El Sol de Mazatlán (Organización Editorial Mexicana).
     # Sus sitios (dentro de oem.com.mx) responden 403 a los servidores de
-    # GitHub, así que se leen vía Google News. "exigir_sufijo" descarta lo que
-    # no sea de ese periódico (Google a veces mezcla otros diarios de OEM).
+    # GitHub, así que se leen vía Google News. Las búsquedas son amplias a
+    # propósito (todo oem.com.mx sobre Sinaloa) y luego "solo_medio" deja
+    # solo las notas de ese periódico, según el medio que reporta Google.
     {"name": "El Sol de Sinaloa (vía Google News)", "tipo": "Impreso", "zona": "Centro",
-     "quitar_sufijo": " - El Sol de Sinaloa", "exigir_sufijo": True,
+     "quitar_sufijo": " - El Sol de Sinaloa", "solo_medio": "El Sol de Sinaloa",
      "feeds": [
-         gnews("site:oem.com.mx/elsoldesinaloa"),
-         gnews("\"El Sol de Sinaloa\" Culiacán OR Sinaloa"),
+         gnews("site:oem.com.mx Culiacán OR Sinaloa OR Navolato OR Guamúchil"),
+         gnews("\"El Sol de Sinaloa\""),
      ]},
     {"name": "El Sol de Mazatlán (vía Google News)", "tipo": "Impreso", "zona": "Sur",
-     "quitar_sufijo": " - El Sol de Mazatlán", "exigir_sufijo": True,
+     "quitar_sufijo": " - El Sol de Mazatlán", "solo_medio": "El Sol de Mazatlán",
      "feeds": [
-         gnews("site:oem.com.mx/elsoldemazatlan"),
-         gnews("\"El Sol de Mazatlán\" Mazatlán OR Sinaloa"),
+         gnews("site:oem.com.mx Mazatlán OR Escuinapa OR Rosario OR Concordia"),
+         gnews("\"El Sol de Mazatlán\""),
      ]},
 
     # Ríodoce: semanario de investigación de Culiacán, referente nacional en
@@ -227,14 +244,15 @@ def parece_nota(texto: str) -> bool:
 # RSS: lectura y autodescubrimiento
 # --------------------------------------------------------------------------
 
-def leer_feed(url, nombre):
+def leer_feed(url, nombre, limite=None):
     """Lee un feed y devuelve sus entradas. Lista vacía si no sirve."""
     items = []
+    limite = limite or MAX_PER_SOURCE
     try:
         feed = feedparser.parse(url, agent=HEADERS["User-Agent"])
         # feedparser no truena con HTML: simplemente no trae entries. Eso es
         # exactamente lo que pasaba con una página que lista feeds en vez de un feed real.
-        for entry in feed.entries[:MAX_PER_SOURCE]:
+        for entry in feed.entries[:limite]:
             titulo = entry.get("title", "").strip()
             if not titulo:
                 continue
@@ -242,6 +260,8 @@ def leer_feed(url, nombre):
                 "title": titulo,
                 "url": entry.get("link", ""),
                 "published": entry.get("published", "") or entry.get("updated", ""),
+                # Google News indica aparte qué medio publicó la nota.
+                "medio": (entry.get("source") or {}).get("title", ""),
             })
     except Exception as e:
         print(f"[aviso] RSS falló para {nombre} ({url}): {e}")
@@ -329,8 +349,11 @@ def recolectar(source, cache):
     crudos = []
 
     if source.get("feeds"):
+        # Si hay que filtrar por medio, se lee todo el feed (hasta 100) para
+        # no quedarse solo con las primeras notas, que pueden ser de otros.
+        limite = 100 if source.get("solo_medio") else None
         for f in source["feeds"]:
-            crudos.extend(leer_feed(f, source["name"]))
+            crudos.extend(leer_feed(f, source["name"], limite))
     elif not source.get("scrape_only"):
         feed = descubrir_feed(source, cache)
         if feed:
@@ -338,6 +361,16 @@ def recolectar(source, cache):
 
     if not crudos and source.get("url"):
         crudos = fetch_html(source)
+
+    medio = source.get("solo_medio")
+    if medio:
+        total = len(crudos)
+        vistos_medios = {it.get("medio") or "(sin medio)" for it in crudos}
+        crudos = [it for it in crudos if es_del_medio(it, medio)]
+        print(f"  [{source['name']}] Google News trajo {total} notas; "
+              f"{len(crudos)} son de {medio}.")
+        if not crudos and total:
+            print(f"    medios que sí aparecieron: {', '.join(sorted(vistos_medios)[:12])}")
 
     # Dedup por URL dentro de la misma fuente.
     vistos = set()
@@ -348,10 +381,9 @@ def recolectar(source, cache):
             continue
         vistos.add(clave)
         sufijo = source.get("quitar_sufijo")
-        if sufijo and source.get("exigir_sufijo") and not it.get("title", "").endswith(sufijo):
-            continue
         if sufijo and it.get("title", "").endswith(sufijo):
             it["title"] = it["title"][: -len(sufijo)].strip()
+        it.pop("medio", None)
         # Google News repite la misma nota entre consultas con URLs distintas.
         clave_titulo = it.get("title", "").lower()
         if clave_titulo in vistos:
