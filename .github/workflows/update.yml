@@ -2,10 +2,10 @@ name: Actualizar panel de noticias — Sinaloa
 
 on:
   schedule:
-    # 3 veces al día: 9am, 3pm y 7:30pm hora de Sinaloa (UTC-7 todo el año,
+    # 3 veces al día: 7:00, 15:00 y 19:45 hora de Sinaloa (UTC-7 todo el año,
     # México eliminó el horario de verano en 2022, así que esto no se corre).
-    - cron: "0 16,22 * * *"
-    - cron: "30 2 * * *"
+    - cron: "0 14,22 * * *"
+    - cron: "45 2 * * *"
   workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
 
 permissions:
@@ -72,7 +72,7 @@ jobs:
             echo "Otra corrida publicó primero; rehago el commit encima."
             git fetch origin ${{ github.ref_name }}
             git reset --soft origin/${{ github.ref_name }}
-            publicar || { echo "Nada que publicar."; exit 0; }
+            publicar || { echo "Nada que publicar." ; exit 0; }
           done
 
           echo "No se pudo publicar tras tres intentos."
