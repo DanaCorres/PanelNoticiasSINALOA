@@ -1,0 +1,79 @@
+name: Actualizar panel de noticias — Sinaloa
+
+on:
+  schedule:
+    # 3 veces al día: 9am, 3pm y 7:30pm hora de Sinaloa (UTC-7 todo el año,
+    # México eliminó el horario de verano en 2022, así que esto no se corre).
+    - cron: "0 16,22 * * *"
+    - cron: "30 2 * * *"
+  workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+# Dos corridas a la vez acabarían peleándose por el mismo data/today.json.
+concurrency:
+  group: panel
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Recolectar titulares
+        run: python scripts/fetch_news.py
+
+      - name: Curar con Claude y regenerar index.html
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/curate_and_render.py
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git config user.name "panel-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          # "data" completo, no solo today.json: ahí vive también
+          # data/urls_vistas.json, el historial que permite saber si una nota
+          # ya estaba en la portada en días anteriores. Sin guardarlo, el
+          # filtro de fecha pierde su tercer criterio.
+          publicar() {
+            git add index.html raw_items.json data
+            git diff --cached --quiet && return 1
+            git commit -q -m "Actualización automática del panel"
+            return 0
+          }
+
+          if ! publicar; then
+            echo "Sin cambios."
+            exit 0
+          fi
+
+          # Son archivos generados: si otra corrida publicó primero, no tiene
+          # sentido fusionar, se rehace el commit encima de lo último.
+          for intento in 1 2 3; do
+            if git push; then
+              echo "Publicado en el intento $intento."
+              exit 0
+            fi
+            echo "Otra corrida publicó primero; rehago el commit encima."
+            git fetch origin ${{ github.ref_name }}
+            git reset --soft origin/${{ github.ref_name }}
+            publicar || { echo "Nada que publicar."; exit 0; }
+          done
+
+          echo "No se pudo publicar tras tres intentos."
+          exit 1
