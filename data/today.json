@@ -1,8 +1,16 @@
 {
   "date": "2026-10-06",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "politica": [
+      {
+        "title": "Iniciativa de beca Rita Cetina comienza dispersión de pagos",
+        "summary": "Gobierno inicia pago de beca Rita Cetina a 343 mil 796 familias sinaloenses para apoyo educativo.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/inicia-pago-de-beca-rita-cetina-a-343-mil-796-familias-en-sinaloa-OB26275218",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
       {
         "title": "Aspirantes a alcaldía de Culiacán por oposición listos para 2027",
         "summary": "Candidatos de coaliciones opositoras se declaran preparados para competir por la alcaldía de Culiacán en próximas elecciones.",
@@ -62,6 +70,22 @@
     ],
     "seguridad": [
       {
+        "title": "Violencia deja huérfanos sin registro ni atención institucional",
+        "summary": "Diputada Paola Gárate denuncia que menores huérfanos por violencia carecen de registro oficial y servicios de apoyo estatal.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/06/violencia-deja-huerfanos-en-sinaloa-sin-registro-ni-atencion-institucional-paola-garate/",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
+        "title": "Ejército asegura arsenal en Rosario: explosivos y drones",
+        "summary": "Operativo castrense en Rosario decomisa 42 explosivos, 15 drones y material bélico durante desplegue de seguridad.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/ejercito-asegura-arsenal-en-rosario-decomisa-42-explosivos-y-drones-GB26276527",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
         "title": "Semana cierra con 38 muertes violentas en Sinaloa",
         "summary": "Cifras acumuladas muestran incremento de 9 muertes violentas respecto a semana anterior, con 4 homicidios y hallazgo de cuerpo el domingo.",
         "zona": "Estatal",
@@ -120,6 +144,14 @@
     ],
     "economia": [
       {
+        "title": "Laboratorio de insectos benéficos fortalece agricultura",
+        "summary": "Ismael Bello inaugura laboratorio de insectos benéficos en valle del Évora para mejorar sanidad vegetal en cultivos.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/inaugura-ismael-bello-esquivel-laboratorio-de-insectos-beneficos-para-la-agricultura-en-la-region-del-evora/",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
         "title": "Temporada de camarón inicia miércoles en Océano Pacífico",
         "summary": "Barcos se preparan y zargan por lastre para buscar zona de pesca tras aceptación de veda en Mazatlán.",
         "zona": "Sur",
@@ -169,6 +201,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Desazolve de laguna del Camarón en Mazatlán",
+        "summary": "Autoridades realizan labores de desazolve en laguna del Camarón para atender desbordamientos tras lluvias intensas.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/realizan-desazolve-de-ducto-para-atender-desbordamiento-de-agua-de-la-laguna-del-camaron-hacia-vialidades-JB26276438",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
+        "title": "Ciclon Simón podría impactar sur de Sinaloa",
+        "summary": "Meteorólogo de Protección Civil advierte que ciclón Simón podría afectar región sur de Sinaloa tras su formación.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-06/sinaloa/ciclon-simon-podria-impactar-el-sur-de-sinaloa-tras-su-formacion-meteorologo-de-proteccion-civil/308452",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
+        "title": "Octubre Rosa: servicios gratuitos para detectar cáncer",
+        "summary": "Anuncian servicios médicos sin costo durante Octubre Rosa para prevención y detección temprana de cáncer de mama.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/anuncian-servicios-gratuitos-para-prevenir-y-detectar-el-cancer-de-mama-durante-el-mes-rosa-en-sinaloa-2026-10-06__1715201",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
+        "title": "Sinaloa se prepara para restringir celulares en escuelas",
+        "summary": "Estado diseña políticas para limitar uso de teléfonos celulares en escuelas e instituciones educativas para mejorar concentración.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/se-prepara-sinaloa-para-restringir-uso-de-celulares-en-escuelas/",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
+        "title": "Restauranteros de Guasave limpian playas por marejadas",
+        "summary": "Comerciantes de Las Glorias en Guasave realizan labores de limpieza por su cuenta tras daños de marejadas.",
+        "zona": "Norte",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/restauranteros-de-las-glorias-guasave-realizan-por-su-cuenta-labores-de-limpieza-tras-afectaciones-de-marejadas-1143191/",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
+      {
+        "title": "Desplazamiento forzado en Sinaloa durante Espejo",
+        "summary": "Festival Espejo presenta informe sobre crisis de desplazamiento forzado en Sinaloa por violencia y persecución.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/06/cuando-quedarse-deja-de-ser-opcion-presentan-en-festival-espejo-informe-sobre-desplazamiento-forzado/",
+        "_added_at": "2026-10-06T16:27:33.449872-07:00"
+      },
       {
         "title": "Adolescente muere arrollado por tren Chepe en Ahome",
         "summary": "Menor de 17 años es atropellado mortalmente por locomotora en ejido La Arrocera; autoridades acodonan zona.",
@@ -227,5 +307,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-06T16:16:35.033872-07:00"
+  "last_updated": "2026-10-06T16:27:33.449872-07:00"
 }
