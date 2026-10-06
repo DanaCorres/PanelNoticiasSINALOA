@@ -1,8 +1,16 @@
 {
   "date": "2026-10-06",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "politica": [
+      {
+        "title": "Guerreros Azules protestan por incumplimiento de acuerdos",
+        "summary": "Policías jubilados se manifiestan ante Congreso acusando gobierno de incumplir compromisos en Mocorito y Angostura.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/guerreros-azules-se-manifiestan-en-el-congreso-acusan-incumplimiento-de-acuerdos-por-parte-de-la-administracion-estatal-1143098/",
+        "_added_at": "2026-10-06T16:42:36.840869-07:00"
+      },
       {
         "title": "Iniciativa de beca Rita Cetina comienza dispersión de pagos",
         "summary": "Gobierno inicia pago de beca Rita Cetina a 343 mil 796 familias sinaloenses para apoyo educativo.",
@@ -69,6 +77,14 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Feminicidios en Mazatlán superan capacidad de colectivas",
+        "summary": "Septiembre cerró con 12 feminicidios en Mazatlán; activista alerta sobre crisis de violencia de género.",
+        "zona": "Sur",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckJCM3ktdGVsSEJiQ2RrWXNlWWU4aEFmaG9adXZILTNMTFBfdjRkZ2tSUHpqalJKeVhNWk9yaXp3MlI1NDlqMUJMbGdRWG1fWE95V1dRbzVlRnEtZEZlT1JCemJNeUp1WHpUT2pEbTE0bFJjUlVRTHhXdkd0eFM4MUZpelhtMzdGNkliY2txQ0pJV1FyQ0c0NHQ0R280ZS1MaXUyaUMtak9KdG1HeWNyLWhXcy1LZXVQLV9DSFRfOWtuVnZMN0NIOHVMRl9oWVUtX3F4dk9YQQ?oc=5",
+        "_added_at": "2026-10-06T16:42:36.840869-07:00"
+      },
       {
         "title": "Violencia deja huérfanos sin registro ni atención institucional",
         "summary": "Diputada Paola Gárate denuncia que menores huérfanos por violencia carecen de registro oficial y servicios de apoyo estatal.",
@@ -144,6 +160,30 @@
     ],
     "economia": [
       {
+        "title": "Productores de frijol protestan contra importaciones; Sinaloa se suma",
+        "summary": "Agricultores sinaloenses se unen a movimiento nacional contra importaciones de frijol y exigen protección.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/productores-de-frijol-van-contra-importaciones-sinaloa-se-suma-a-frente-nacional-2026-10-06__1715297",
+        "_added_at": "2026-10-06T16:42:36.840869-07:00"
+      },
+      {
+        "title": "Gobierno promueve tianguis para incentivar consumo en Culiacán",
+        "summary": "Ayuntamiento de Culiacán prepara campaña de promoción de tianguis tras reporte de caída de ventas.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/ayuntamiento-prepara-campana-para-promover-tianguis-de-culiacan-tras-reporte-de-caida-de-ventas-DB26273761",
+        "_added_at": "2026-10-06T16:42:36.840869-07:00"
+      },
+      {
+        "title": "Incertidumbre persiste sobre desarrollo económico del norte sinaloense",
+        "summary": "Consejo Estatal de Recursos advierte sobre falta de claridad en perspectivas de crecimiento económico regional.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/persiste-incertidumbre-sobre-el-desarrollo-economico-del-norte-de-sinaloa-cer-2026-10-06__1715300",
+        "_added_at": "2026-10-06T16:42:36.840869-07:00"
+      },
+      {
         "title": "Laboratorio de insectos benéficos fortalece agricultura",
         "summary": "Ismael Bello inaugura laboratorio de insectos benéficos en valle del Évora para mejorar sanidad vegetal en cultivos.",
         "zona": "Centro",
@@ -201,6 +241,14 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno y avicultores revisan medidas contra influenza aviar",
+        "summary": "Estado y sector agrícola coordinan estrategias de vigilancia y protección ante riesgo de contagio.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/gobierno-y-avicultores-revisan-medidas-para-proteger-a-sinaloa-de-la-influenza-aviar-2026-10-06__1715301",
+        "_added_at": "2026-10-06T16:42:36.840869-07:00"
+      },
       {
         "title": "Desazolve de laguna del Camarón en Mazatlán",
         "summary": "Autoridades realizan labores de desazolve en laguna del Camarón para atender desbordamientos tras lluvias intensas.",
@@ -307,5 +355,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-06T16:27:33.449872-07:00"
+  "last_updated": "2026-10-06T16:42:36.840869-07:00"
 }
