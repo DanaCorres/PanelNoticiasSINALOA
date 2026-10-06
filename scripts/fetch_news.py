@@ -101,20 +101,15 @@ SOURCES = [
 
     # El Sol de Sinaloa y El Sol de Mazatlán (Organización Editorial Mexicana).
     # Sus sitios (dentro de oem.com.mx) responden 403 a los servidores de
-    # GitHub, así que se leen vía Google News. Las búsquedas son amplias a
-    # propósito (todo oem.com.mx sobre Sinaloa) y luego "solo_medio" deja
-    # solo las notas de ese periódico, según el medio que reporta Google.
-    {"name": "El Sol de Sinaloa (vía Google News)", "tipo": "Impreso", "zona": "Centro",
-     "quitar_sufijo": " - El Sol de Sinaloa", "solo_medio": "El Sol de Sinaloa",
+    # GitHub, así que se leen vía Google News. Google atribuye TODO oem.com.mx
+    # a "El Sol de México", así que no se puede separar por periódico: se
+    # buscan notas de OEM con localidades de Sinaloa y el modelo descarta las
+    # nacionales que solo mencionen al estado de paso.
+    {"name": "El Sol de Sinaloa/Mazatlán (OEM, vía Google News)", "tipo": "Impreso",
+     "zona": "Sinaloa", "quitar_sufijo": " - El Sol de México", "max": 20,
      "feeds": [
-         gnews("site:oem.com.mx Culiacán OR Sinaloa OR Navolato OR Guamúchil"),
-         gnews("\"El Sol de Sinaloa\""),
-     ]},
-    {"name": "El Sol de Mazatlán (vía Google News)", "tipo": "Impreso", "zona": "Sur",
-     "quitar_sufijo": " - El Sol de Mazatlán", "solo_medio": "El Sol de Mazatlán",
-     "feeds": [
-         gnews("site:oem.com.mx Mazatlán OR Escuinapa OR Rosario OR Concordia"),
-         gnews("\"El Sol de Mazatlán\""),
+         gnews("site:oem.com.mx Culiacán OR Navolato OR Guamúchil OR \"Los Mochis\" OR Guasave"),
+         gnews("site:oem.com.mx Mazatlán OR Escuinapa OR Rosario OR Concordia OR Elota"),
      ]},
 
     # Ríodoce: semanario de investigación de Culiacán, referente nacional en
