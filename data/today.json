@@ -1,8 +1,48 @@
 {
   "date": "2026-10-07",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
+      {
+        "title": "Paloma Sánchez declara estar lista para gobernar Sinaloa",
+        "summary": "La aspirante manifiesta su disponibilidad para participar en el proceso electoral 2027 como candidata a gobernadora del estado.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-07/politica/paloma-sanchez-estoy-lista-para-ser-gobernadora-de-sinaloa/308678",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Mario Zamora promete paz y tranquilidad en Sinaloa",
+        "summary": "Otro aspirante al gobierno estatal asegura que con su administración regresarán la seguridad y la tranquilidad a la entidad.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-07/politica/conmigo-la-paz-y-la-tranquilidad-van-a-regresar-a-sinaloa-mario-zamora/308565",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Convocatoria busca renovar participación en órgano de vigilancia de seguridad",
+        "summary": "El estado abre inscripciones para integrar nuevas voces ciudadanas en el CESP, comisión que monitorea políticas de seguridad.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/buscan-nuevas-voces-ciudadanas-que-integren-el-cesp-para-vigilar-seguridad-en-sinaloa-MO26283492",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Familias de policías caídos piden apoyo para pensiones",
+        "summary": "La asociación de deudos de efectivos fallecidos solicita a la gobernadora intervención para asegurar el pago de prestaciones.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/asociacion-de-familias-de-policias-caidos-solicita-pide-apoyo-a-la-gobernadora-para-pago-de-pensiones-2026-10-07__1715634",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Nuncio apostólico visita Sinaloa y bendice centro para personas sin hogar",
+        "summary": "Joseph Spiteri, enviado del Vaticano, fue recibido por la gobernadora Graciela Domínguez e inauguró una obra de asistencia social.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/graciela-dominguez-recibe-al-nuncio-apostolico-joseph-spiteri-en-sinaloa/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
       {
         "title": "Pucheta anuncia nueva etapa con Partido Verde rumbo a 2027",
         "summary": "Fernando Pucheta señala que inicia etapa con responsabilidad y cercanía ciudadana de cara al proceso electoral 2027.",
@@ -13,6 +53,70 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Evacúan 900 alumnos de Escuela Normal por amenazas de ataque",
+        "summary": "Autoridades desalojaron el plantel en Culiacán tras recibir reportes de amenaza contra dos estudiantes; se reforzó vigilancia.",
+        "zona": "Centro",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-07/policiaca/evacuan-a-900-alumnos-de-la-escuela-normal-en-culiacan-tras-amenazas-de-ataque/308674",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Continúan balaceras y asesinatos en Mazatlán; siete homicidios en un día",
+        "summary": "Se registraron múltiples delitos en la zona, incluyendo homicidios y robos vehiculares, como parte de la ola de violencia.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-continuan-balaceras-y-asesinatos-en-mazatlan-7-homicidios-y-9-vehiculos-robados-el-martes-FP26294643",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Inhabilitan narcolaboratorio en Elota; aseguran químicos y equipo",
+        "summary": "Operativo de autoridades federales desmanteló un laboratorio clandestino de drogas sintéticas en la región centro.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/07/inhabilitan-narcolaboratorio-en-elota-aseguran-precursores-y-equipo/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Hombre es asesinado a balazos cerca de primaria en Escuinapa",
+        "summary": "Ataque armado ocurrió en colonia Emiliano Zapata, próximo a institución educativa, sin víctimas civiles adicionales.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/matan-a-un-hombre-a-balazos-cerca-de-escuela-primaria-en-escuinapa-EO26281306",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Camión urbano atacado a balazos en Culiacán; chofer herido grave",
+        "summary": "Unidad de transporte recibió múltiples disparos; conductor resultó con lesiones de gravedad tras incidente en avenida.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/07/atacan-camion-urbano-en-culiacan-disparan-mas-de-6-veces-y-hieren-al-chofer/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Aseguran armas, químicos y vehículos en cateo en Carboneras",
+        "summary": "Operativo federal en Culiacán incautó arsenal, precursores químicos y unidades motorizadas tras orden de cateo.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/aseguran-armas-quimicos-droga-y-vehiculos-tras-cateo-en-carboneras-culiacan-HP26295442",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Hallan mujer sin vida bajo puente de La Marina en Mazatlán",
+        "summary": "Cuerpo localizado con huellas de violencia; investigación abierta por autoridades para esclarecer circunstancias.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/hallan-a-mujer-sin-vida-y-con-huellas-de-violencia-bajo-puente-de-la-avenida-la-marina-en-mazatlan-AP26294774",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Marina destruye siete artefactos explosivos en Mazatlán",
+        "summary": "Autoridades navales aseguró y detonó dispositivos improvisados localizados en zona rural portuaria.",
+        "zona": "Sur",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/marina-asegura-y-destruye-siete-artefactos-explosivos-en-zona-rural-de-mazatlan/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
       {
         "title": "Convocan a ciudadanía para integrar Consejo Estatal de Seguridad",
         "summary": "Se buscan nuevas voces ciudadanas para renovar participación en órgano que vigila políticas de seguridad estatal.",
@@ -40,6 +144,54 @@
     ],
     "economia": [
       {
+        "title": "Secretario de Economía fortalece vínculos con sector industrial sinaloense",
+        "summary": "Diego Armando Aguerrebere se reunió con Canacintra y alianzas empresariales para impulsar manufactura local.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/buscan-fortalecer-en-sinaloa-manufactura-con-mas-proveedores-locales-y-tecnologia-FP26293530",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Mazatlán recibe crucero Carnival Radiance con más de cuatro mil visitantes",
+        "summary": "Arribo del navío turístico suma al puerto su centésima escala del año, impulsando dinamismo económico.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/recibe-mazatlan-a-mas-de-4-mil-visitantes-a-bordo-del-carnival-radiance-KP26293911",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Amoníaco llega por Topolobampo; reduce costos para productores agrícolas",
+        "summary": "Entrada de insumo fertilizante vía puerto del norte abarataría gastos de operación para el sector agropecuario.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-07/agro/llegada-de-amoniaco-por-topolobampo-reduce-costos-para-productores-de-sinaloa/308682",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Pescadores de Guasave reportan pésimo arranque de temporada de camarón",
+        "summary": "Flota enfrenta marejadas y baja producción en altamar, afectando ingresos de cooperativas pesqueras.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/pescadores-de-guasave-califican-de-pesimo-el-arranque-de-la-pesca-de-camaron-en-altamar-2026-10-07__1715675",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Sinaloa define ciclo agrícola 2026-2027 la próxima semana",
+        "summary": "Autoridades estatales establecerán directrices para siembras y calendarios de producción en el nuevo periodo.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-07/sinaloa/sinaloa-definira-ciclo-agricola-2026-2027-la-proxima-semana/308680",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Culiacán Posible reúne sectores productivos para definir acciones ante crisis económica",
+        "summary": "Colectivo empresarial y social se convoca para diseñar estrategias ante la contracción económica del estado.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/07/culiacan-posible-reune-a-sectores-productivos-para-definir-acciones-ante-la-crisis-economica/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
         "title": "Mazatlán alcanza 100 cruceros en lo que va del año",
         "summary": "Llegada de buques turísticos con presencia de fuerzas federales; puerto cumple meta anual de arribos.",
         "zona": "Sur",
@@ -48,7 +200,72 @@
         "_added_at": "2026-10-07T02:19:04.458673-07:00"
       }
     ],
-    "sociedad": []
+    "sociedad": [
+      {
+        "title": "Depresión tropical Veinte-E mantiene trayectoria hacia Sinaloa; podría intensificarse",
+        "summary": "Sistema potencialmente convertible a huracán mantiene rumbo al estado; gobernadora convoca Consejo Estatal de PC.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/07/depresion-tropical-veinte-e-mantiene-trayectoria-hacia-sinaloa-podria-ser-huracan/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Se desprenden techos en escuela emblemática de Guasave; desalojan alumnos",
+        "summary": "Deterioro infrastructural en ESGI genera riesgo; autoridades evacuaron planteles por peligro de desprendimientos.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/zona-de-riesgo-se-desprenden-techos-en-la-emblematica-esgi-de-guasave-2026-10-07__1715689",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Tianguistas bloquean Obregón en Culiacán; exigen apoyos emergentes municipales",
+        "summary": "Comerciantes ambulantes cierran vía principal para presionar al ayuntamiento por asistencia económica.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/tianguistas-bloquean-la-obregon-en-culiacan-para-exigir-apoyos-emergentes-del-ayuntamiento-2026-10-07__1715766",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Vecinos de Costa Rica demandan servicios públicos y calles dignos en Culiacán",
+        "summary": "Manifestación en Palacio Municipal reclama atención a infraestructura y abandono de comunidad periférica.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/costa-rica-esta-olvidada-vecinos-se-manifiestan-en-el-ayuntamiento-de-culiacan-y-exigen-mejores-servicios-y-calles-dignas-1143786/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Madre de Paulina Castillo exige investigación sobre muerte e custodia de nieto",
+        "summary": "Familiar pide que Fiscalía amplíe pesquisa por inconsistencias en certificado de defunción y versiones oficiales.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/madre-de-joven-pide-investigar-su-muerte-tras-inconsistencias-entre-version-de-suicidio-y-certificado-de-defuncion-EP26294088",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "DIF Sinaloa sin registro sobre huérfanos de la narcoguerra",
+        "summary": "Institución estatal no posee datos sobre menores afectados por violencia criminal; denuncia vacío institucional.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/07/dif-sinaloa-sin-registro-sobre-huerfanos-de-la-narcoguerra/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Colectiva feminista ofrece apoyo psicológico a desplazados del sur",
+        "summary": "Organización de mujeres brinda servicios de salud mental a población afectada por desplazamiento forzado.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/07/colectiva-feminista-ofrece-apoyo-psicologico-a-personas-desplazadas-en-el-sur-de-sinaloa/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      },
+      {
+        "title": "Guerreros Azules rechaza oferta municipal y pide cinco ascensos en Mocorito",
+        "summary": "Sindicato de trabajadores rechaza propuesta del ayuntamiento; negociaciones estancadas por demandas laborales.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/guerreros-azules-rechaza-solo-el-10-y-pide-cinco-ascensos-para-destrabar-toma-del-ayuntamiento-de-mocorito-aun-no-se-llega-a-ningun-acuerdo-1143745/",
+        "_added_at": "2026-10-07T12:39:48.772868-07:00"
+      }
+    ]
   },
-  "last_updated": "2026-10-07T02:19:04.458673-07:00"
+  "last_updated": "2026-10-07T12:39:48.772868-07:00"
 }
