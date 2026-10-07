@@ -1,359 +1,54 @@
 {
-  "date": "2026-10-06",
-  "run_count": 4,
+  "date": "2026-10-07",
+  "run_count": 1,
   "notes": {
     "politica": [
       {
-        "title": "Guerreros Azules protestan por incumplimiento de acuerdos",
-        "summary": "Policías jubilados se manifiestan ante Congreso acusando gobierno de incumplir compromisos en Mocorito y Angostura.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/guerreros-azules-se-manifiestan-en-el-congreso-acusan-incumplimiento-de-acuerdos-por-parte-de-la-administracion-estatal-1143098/",
-        "_added_at": "2026-10-06T16:42:36.840869-07:00"
-      },
-      {
-        "title": "Iniciativa de beca Rita Cetina comienza dispersión de pagos",
-        "summary": "Gobierno inicia pago de beca Rita Cetina a 343 mil 796 familias sinaloenses para apoyo educativo.",
-        "zona": "Estatal",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/inicia-pago-de-beca-rita-cetina-a-343-mil-796-familias-en-sinaloa-OB26275218",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Aspirantes a alcaldía de Culiacán por oposición listos para 2027",
-        "summary": "Candidatos de coaliciones opositoras se declaran preparados para competir por la alcaldía de Culiacán en próximas elecciones.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlRQNGt0R1c5dnIzQUxZVEg5T1c5aUt1dmd2YXZjNEZHQzE1S1VFWFhVWHoyelNNcjRCVEVZdHBaVDNuWnF6OW1QclRkam1sbmRZYmpnMk4tOTh0YUY2T2hLVkxjNVNGRTVVUUNEWVhqSUo1VmloQ2wxaDRCc2V2dkpTeEE4aE1qVTVYVTZUdXVMb3JMTVI1TUFGRXEydVNsdjFMdnNEYnh4bFlNaDFMYjNvQ2hzZ0EzaGVmSGtCc2h2c2hjOGxpM0JuYjVoU3B0QklFZXpZMWdjdVNvWTN0bQ?oc=5",
-        "_added_at": "2026-10-06T16:16:35.033872-07:00"
-      },
-      {
-        "title": "Diputado federal del PRI busca liderar frente opositor 2027",
-        "summary": "Mario Zamora manifiesta intención de encabezar coalición opositora rumbo a elecciones 2027 en Sinaloa, con respaldo de Aaron Irizar.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/mario-zamora-busca-encabezar-frente-opositor-rumbo-a-2027-lo-respalda-aaron-irizar-IF26239625",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Exalcalde Pucheta se suma a Partido Verde para 2027",
-        "summary": "Fernando Pucheta se afilia al Partido Verde y busca la alcaldía de Mazatlán en elecciones 2027.",
+        "title": "Pucheta anuncia nueva etapa con Partido Verde rumbo a 2027",
+        "summary": "Fernando Pucheta señala que inicia etapa con responsabilidad y cercanía ciudadana de cara al proceso electoral 2027.",
         "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/hoy-toca-construir-y-trabajar-por-mazatlan-exalcalde-fernando-pucheta-se-suma-al-partido-verde-2026-10-06__1715269",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Congreso aprueba ley para proteger derechos de comunidad LGBTTTIQ+",
-        "summary": "Sinaloa aprueba nueva ley para reconocer y proteger los derechos de personas LGBTTTIQ+, generando polémica entre sectores conservadores.",
-        "zona": "Estatal",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/congreso-de-sinaloa-aprueba-dictamen-para-reconocer-juridicamente-los-derechos-de-las-personas-de-la-comunidad-lgbttiq-1143108/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "PAN y Vía Familia preparan amparo contra Ley LGBT",
-        "summary": "Organizaciones conservadoras anuncian juicio de amparo contra nueva ley LGBT de Sinaloa por presunta exclusión de otros sectores.",
-        "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/pan-y-via-familia-preparan-amparo-contra-ley-lgbt-en-sinaloa-por-excluir-a-otros-sectores-FB26275257",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Sinaloa es 'patito feo' en presupuesto federal: PRI",
-        "summary": "Priistas critican que presupuesto federal para Sinaloa solo contempla inflación sin inversión adicional para desarrollo estatal.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/sinaloa-es-el-patito-feo-del-presupuesto-federal-unicamente-se-contempla-la-inflacion-pri-2026-10-06__1715236",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Oposición acusa a Morena de jugar a la 'dictadura'",
-        "summary": "Partidos de oposición denuncian maniobras mayoritarias en Congreso estatal que limitan su participación democrática.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/06/oposicion-acusa-a-la-4t-de-jugar-a-la-dictadura-en-el-congreso/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/anuncia-fernando-pucheta-nueva-etapa-con-partido-verde-de-cara-al-proceso-electoral-de-2027-DB26279956",
+        "_added_at": "2026-10-07T02:19:04.458673-07:00"
       }
     ],
     "seguridad": [
       {
-        "title": "Feminicidios en Mazatlán superan capacidad de colectivas",
-        "summary": "Septiembre cerró con 12 feminicidios en Mazatlán; activista alerta sobre crisis de violencia de género.",
-        "zona": "Sur",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckJCM3ktdGVsSEJiQ2RrWXNlWWU4aEFmaG9adXZILTNMTFBfdjRkZ2tSUHpqalJKeVhNWk9yaXp3MlI1NDlqMUJMbGdRWG1fWE95V1dRbzVlRnEtZEZlT1JCemJNeUp1WHpUT2pEbTE0bFJjUlVRTHhXdkd0eFM4MUZpelhtMzdGNkliY2txQ0pJV1FyQ0c0NHQ0R280ZS1MaXUyaUMtak9KdG1HeWNyLWhXcy1LZXVQLV9DSFRfOWtuVnZMN0NIOHVMRl9oWVUtX3F4dk9YQQ?oc=5",
-        "_added_at": "2026-10-06T16:42:36.840869-07:00"
-      },
-      {
-        "title": "Violencia deja huérfanos sin registro ni atención institucional",
-        "summary": "Diputada Paola Gárate denuncia que menores huérfanos por violencia carecen de registro oficial y servicios de apoyo estatal.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/06/violencia-deja-huerfanos-en-sinaloa-sin-registro-ni-atencion-institucional-paola-garate/",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Ejército asegura arsenal en Rosario: explosivos y drones",
-        "summary": "Operativo castrense en Rosario decomisa 42 explosivos, 15 drones y material bélico durante desplegue de seguridad.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/ejercito-asegura-arsenal-en-rosario-decomisa-42-explosivos-y-drones-GB26276527",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Semana cierra con 38 muertes violentas en Sinaloa",
-        "summary": "Cifras acumuladas muestran incremento de 9 muertes violentas respecto a semana anterior, con 4 homicidios y hallazgo de cuerpo el domingo.",
-        "zona": "Estatal",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-cierra-semana-con-38-muertes-violentas-9-mas-que-la-anterior-4-homicidios-y-1-hallazgo-de-un-cuerpo-el-domingo-JF26235268",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Ejército asegura arsenal en Rosario: 42 explosivos y 15 drones",
-        "summary": "Fuerzas castrenses decomisan material bélico significativo incluyendo explosivos, armamento y drones en operativo en Rosario.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/ejercito-asegura-arsenal-en-rosario-decomisa-42-explosivos-y-15-drones-GB26276527",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Arsenal hallado en auto abandonado en Culiacán centro",
-        "summary": "Autoridades aseguran vehículo robado con dos fusiles lanzagranadas y una granada en el centro de Culiacán.",
+        "title": "Convocan a ciudadanía para integrar Consejo Estatal de Seguridad",
+        "summary": "Se buscan nuevas voces ciudadanas para renovar participación en órgano que vigila políticas de seguridad estatal.",
         "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/revelan-arsenal-hallado-en-auto-abandonado-en-el-centro-de-culiacan-tenia-dos-fusiles-lanzagranadas-y-una-granada-PB26277833",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
+        "url": "https://www.noroeste.com.mx/culiacan/buscan-nuevas-voces-ciudadanas-que-integren-el-cesp-para-vigilar-seguridad-en-sinaloa-MO26283492",
+        "_added_at": "2026-10-07T02:19:04.458673-07:00"
       },
       {
-        "title": "Sentencian a 86 años a Juan Francisco por secuestros",
-        "summary": "Tribunal impone pena máxima a delincuente por secuestro de dos personas en Guamúchil y Angostura.",
+        "title": "Cinco homicidios en menos de 24 horas en Mazatlán",
+        "summary": "Asesinan a pareja en estacionamiento de departamentos; suman cinco muertes violentas en poco más de un día.",
+        "zona": "Sur",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQT1paMzFwMmg5Z0hvS2VZT1FldUY1andxc29uVkNFZG53cXNERllTMFJibVA4Q3F6YmR0MVNXMUdhbDJfeVlXd014blBtTTgzamtDM2lndlhhVW1xaFpkUmlRMEVUVWJyajltSEFLbDJZb1ZPd2o2Rng3cHdSellYRWFWR1VlaVR1YjI5RnZCWmhaNUZXeHI5TUNQZkt6Sl9RT2ZIVUxTVlBJc0JhcVdqY0FveEg1YVJaTXhsRlZYTlRUSjUtcmVhdFdsWTdXLWhqT2o1bXpSNEdvSks5WFZBQ2FiRnYtUnlxbDQ1UEx6X2x5VzVUQ25mMVVQQWhWYVluRlE?oc=5",
+        "_added_at": "2026-10-07T02:19:04.458673-07:00"
+      },
+      {
+        "title": "Hallan sustancia en vehículo de víctima de homicidio en Culiacán",
+        "summary": "En peritajes al auto de hombre asesinado en Tres Ríos encontraron bolsas con presunta droga.",
         "zona": "Centro",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/06/dan-86-anos-de-prision-a-juan-francisco-por-secuestro-de-2-personas-en-guamuchil-y-angostura/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Buscadoras de Sinaloa rastrean víctimas en Chihuahua",
-        "summary": "Colectivos de búsqueda locales desplazan operativos a Chihuahua para rastrear posibles víctimas de reclutamiento forzado.",
-        "zona": "Centro",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/06/buscadoras-de-sinaloa-rastrean-en-chihuahua-a-posibles-victimas-de-reclutamiento-forzado/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Inseguridad genera pérdidas de 124 mil mdp a empresas",
-        "summary": "Canacintra reporta que violencia causa daños económicos severos, afectando operaciones y productividad empresarial.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/06/inseguridad-genera-perdidas-por-124-mil-mdp-a-empresas-en-mexico-canacintra/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Crece impunidad por rezago y falta de presupuesto fiscal",
-        "summary": "Fiscalía enfrenta limitaciones en capacitación y recursos que permiten que delitos queden sin resolver en Sinaloa.",
-        "zona": "Estatal",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/politica/crece-la-impunidad-en-sinaloa-ante-el-rezago-la-falta-de-capacitacion-y-presupuesto-de-la-fiscalia-paola-garate/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/hallan-presunto-cristal-en-auto-de-alfredo-asesinado-en-el-desarrollo-urbano-tres-rios-en-culiacan-KO26284970",
+        "_added_at": "2026-10-07T02:19:04.458673-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Productores de frijol protestan contra importaciones; Sinaloa se suma",
-        "summary": "Agricultores sinaloenses se unen a movimiento nacional contra importaciones de frijol y exigen protección.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/productores-de-frijol-van-contra-importaciones-sinaloa-se-suma-a-frente-nacional-2026-10-06__1715297",
-        "_added_at": "2026-10-06T16:42:36.840869-07:00"
-      },
-      {
-        "title": "Gobierno promueve tianguis para incentivar consumo en Culiacán",
-        "summary": "Ayuntamiento de Culiacán prepara campaña de promoción de tianguis tras reporte de caída de ventas.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/ayuntamiento-prepara-campana-para-promover-tianguis-de-culiacan-tras-reporte-de-caida-de-ventas-DB26273761",
-        "_added_at": "2026-10-06T16:42:36.840869-07:00"
-      },
-      {
-        "title": "Incertidumbre persiste sobre desarrollo económico del norte sinaloense",
-        "summary": "Consejo Estatal de Recursos advierte sobre falta de claridad en perspectivas de crecimiento económico regional.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/persiste-incertidumbre-sobre-el-desarrollo-economico-del-norte-de-sinaloa-cer-2026-10-06__1715300",
-        "_added_at": "2026-10-06T16:42:36.840869-07:00"
-      },
-      {
-        "title": "Laboratorio de insectos benéficos fortalece agricultura",
-        "summary": "Ismael Bello inaugura laboratorio de insectos benéficos en valle del Évora para mejorar sanidad vegetal en cultivos.",
-        "zona": "Centro",
-        "source": "Café Negro",
-        "url": "https://cafenegroportal.com/inaugura-ismael-bello-esquivel-laboratorio-de-insectos-beneficos-para-la-agricultura-en-la-region-del-evora/",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Temporada de camarón inicia miércoles en Océano Pacífico",
-        "summary": "Barcos se preparan y zargan por lastre para buscar zona de pesca tras aceptación de veda en Mazatlán.",
+        "title": "Mazatlán alcanza 100 cruceros en lo que va del año",
+        "summary": "Llegada de buques turísticos con presencia de fuerzas federales; puerto cumple meta anual de arribos.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/iniciara-este-miercoles-temporada-de-camaron-en-altamar-en-el-oceano-pacifico-MB26275786",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Módulos de riego tecnificados sin restricciones en otoño-invierno",
-        "summary": "AARFS anuncia que agricultores con sistemas tecnificados podrán sembrar sin limitaciones en próxima temporada.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/modulos-de-riego-tecnificados-no-tendran-restricciones-en-siembras-de-otono-invierno-aarfs-2026-10-06__1715259",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Mazatlán alcanza 100 cruceros con 367 mil visitantes",
-        "summary": "Puerto turístico marca hito con 100 cruceros en 2026 y derrama económica superior a 587 millones de pesos.",
-        "zona": "Sur",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/el-sur/mazatlan-alcanza-los-100-cruceros-turisticos-en-el-ano-con-mas-de-367-mil-visitantes-y-una-derrama-superior-a-587-millones-de-pesos/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Contadores prevén recuperación económica en Mazatlán para 2027",
-        "summary": "Sector contable proyecta curva de recuperación económica lenta que se reflejará más claramente el próximo año.",
-        "zona": "Sur",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/contadores-del-sur-de-sinaloa-preven-curva-de-recuperacion-economica-para-mazatlan-en-2027-se-ira-reflejando-aclaran-1143103/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Canaco alerta por deterioro de infraestructura en Los Mochis",
-        "summary": "Cámara de Comercio denuncia mal estado de calles y accesos en Los Mochis que afecta imagen y negocios.",
-        "zona": "Norte",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/canaco-alerta-por-deterioro-de-calles-e-infraestructura-urbana-de-los-mochis-sinaloa-1143195/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Sader lanza plataforma para abaratar insumos agrícolas",
-        "summary": "Dependencia federal crea portal para que productores accedan a insumos a precios menores que mercado.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/sader-lanza-plataforma-para-que-productores-compren-insumos-agricolas-a-menor-precio-2026-10-06__1715113",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/con-presencia-de-fuerzas-federales-cruceristas-recorren-atractivos-de-mazatlan-IO26281867",
+        "_added_at": "2026-10-07T02:19:04.458673-07:00"
       }
     ],
-    "sociedad": [
-      {
-        "title": "Gobierno y avicultores revisan medidas contra influenza aviar",
-        "summary": "Estado y sector agrícola coordinan estrategias de vigilancia y protección ante riesgo de contagio.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/gobierno-y-avicultores-revisan-medidas-para-proteger-a-sinaloa-de-la-influenza-aviar-2026-10-06__1715301",
-        "_added_at": "2026-10-06T16:42:36.840869-07:00"
-      },
-      {
-        "title": "Desazolve de laguna del Camarón en Mazatlán",
-        "summary": "Autoridades realizan labores de desazolve en laguna del Camarón para atender desbordamientos tras lluvias intensas.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/realizan-desazolve-de-ducto-para-atender-desbordamiento-de-agua-de-la-laguna-del-camaron-hacia-vialidades-JB26276438",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Ciclon Simón podría impactar sur de Sinaloa",
-        "summary": "Meteorólogo de Protección Civil advierte que ciclón Simón podría afectar región sur de Sinaloa tras su formación.",
-        "zona": "Sur",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-06/sinaloa/ciclon-simon-podria-impactar-el-sur-de-sinaloa-tras-su-formacion-meteorologo-de-proteccion-civil/308452",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Octubre Rosa: servicios gratuitos para detectar cáncer",
-        "summary": "Anuncian servicios médicos sin costo durante Octubre Rosa para prevención y detección temprana de cáncer de mama.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/anuncian-servicios-gratuitos-para-prevenir-y-detectar-el-cancer-de-mama-durante-el-mes-rosa-en-sinaloa-2026-10-06__1715201",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Sinaloa se prepara para restringir celulares en escuelas",
-        "summary": "Estado diseña políticas para limitar uso de teléfonos celulares en escuelas e instituciones educativas para mejorar concentración.",
-        "zona": "Estatal",
-        "source": "Café Negro",
-        "url": "https://cafenegroportal.com/se-prepara-sinaloa-para-restringir-uso-de-celulares-en-escuelas/",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Restauranteros de Guasave limpian playas por marejadas",
-        "summary": "Comerciantes de Las Glorias en Guasave realizan labores de limpieza por su cuenta tras daños de marejadas.",
-        "zona": "Norte",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/restauranteros-de-las-glorias-guasave-realizan-por-su-cuenta-labores-de-limpieza-tras-afectaciones-de-marejadas-1143191/",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Desplazamiento forzado en Sinaloa durante Espejo",
-        "summary": "Festival Espejo presenta informe sobre crisis de desplazamiento forzado en Sinaloa por violencia y persecución.",
-        "zona": "Centro",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/06/cuando-quedarse-deja-de-ser-opcion-presentan-en-festival-espejo-informe-sobre-desplazamiento-forzado/",
-        "_added_at": "2026-10-06T16:27:33.449872-07:00"
-      },
-      {
-        "title": "Adolescente muere arrollado por tren Chepe en Ahome",
-        "summary": "Menor de 17 años es atropellado mortalmente por locomotora en ejido La Arrocera; autoridades acodonan zona.",
-        "zona": "Norte",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/muere-adolescente-de-17-anos-tras-ser-arrollado-por-el-tren-chepe-en-ahome-MH26214822",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Laguna del Camarón desbordada por lluvias en Mazatlán",
-        "summary": "Lluvia fuerte causa desborde que inunda vialidades en Mazatlán; autoridades realizan desazolve de cauce.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/desborde-de-laguna-del-camaron-inunda-vialidades-y-oculta-riesgos-en-mazatlan-LA26264953",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Inician pagos de Beca Rita Cetina a 343 mil familias",
-        "summary": "Gobierno comienza dispersión de apoyo educativo que beneficia a casi 344 mil familias en Sinaloa.",
-        "zona": "Estatal",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/inicia-pago-de-beca-rita-cetina-a-343-mil-796-familias-en-sinaloa-OB26275218",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Suspenden clases por lluvias en norte de Sinaloa",
-        "summary": "Autoridades educativas cierran escuelas presenciales en Ahome, El Fuerte y Juan José Ríos por precipitaciones.",
-        "zona": "Norte",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/norte/suspenden-clases-presenciales-este-lunes-en-ahome-el-fuerte-y-juan-jose-rios-EF26230073",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Culiacán construirá cancha de goalball por 287 millones",
-        "summary": "Ayuntamiento anuncia construcción de Unidad Deportiva Inclusiva con instalación para deporte paralímpico.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/ayuntamiento-de-culiacan-construira-cancha-de-goalball-por-287-millones-IB26275841",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Sinaloa registra casi 8 mil picaduras de alacrán en 2026",
-        "summary": "Salud alerta sobre prevalencia de accidentes por alacrán y recomienda evitar remedios caseros.",
-        "zona": "Estatal",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/sinaloa-registra-casi-8-mil-picaduras-de-alacran-en-lo-que-va-del-2026-salud-llama-a-evitar-remedios-caseros-1143069/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      },
-      {
-        "title": "Semujeres busca justicia en caso de María Fernanda en Los Mochis",
-        "summary": "Institución estatal mantiene firmeza en investigación de muerte de mujer y su bebé en municipio norteño.",
-        "zona": "Norte",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/semujeres-en-sinaloa-mantiene-firmeza-para-que-haya-justicia-sobre-muerte-de-maria-fernanda-y-su-bebe-en-los-mochis-1143100/",
-        "_added_at": "2026-10-06T16:12:36.205668-07:00"
-      }
-    ]
+    "sociedad": []
   },
-  "last_updated": "2026-10-06T16:42:36.840869-07:00"
+  "last_updated": "2026-10-07T02:19:04.458673-07:00"
 }
