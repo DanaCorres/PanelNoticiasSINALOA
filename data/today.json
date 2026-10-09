@@ -1,407 +1,87 @@
 {
-  "date": "2026-10-08",
-  "run_count": 3,
+  "date": "2026-10-09",
+  "run_count": 1,
   "notes": {
     "politica": [
       {
-        "title": "Fox pide alianza opositora para sacar a Morena de Sinaloa",
-        "summary": "Ex presidente Vicente Fox visita Culiacán y llama a la oposición a cerrar filas contra Morena rumbo a 2027.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/fox-pide-a-oposicion-cerrar-filas-para-sacar-a-morena-de-sinaloa-FF26327763",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Morena abre registro para coordinaciones municipales hasta 18 octubre",
-        "summary": "Partido abre convocatoria para aspirantes a coordinar estructuras municipales en el estado.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/08/abre-morena-el-registro-de-aspirantes-a-las-coordinaciones-municipales-concluira-el-18-de-octubre/",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "PRI busca proceso abierto para elegir candidato a gobernatura",
-        "summary": "Paloma Sánchez avala selección transparente del aspirante priista para la gubernatura 2027.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/paloma-sanchez-avala-un-proceso-abierto-para-elegir-al-candidato-del-pri-a-la-gubernatura-de-sinaloa-2026-10-08__1716715",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Martha Reyes de Coparmex descarta candidatura para 2027",
-        "summary": "Líder empresarial rechaza ofertas de candidaturas y enfatiza enfoque en sector privado.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/martha-reyes-dice-que-le-ofrecen-candidaturas-pero-teme-participar-en-politica-FE26335819",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Pedro Lobo obtiene licencia y se registra como coordinador federal",
-        "summary": "Diputado local tramita separación de cargo para participar en proceso de Morena a nivel federal.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/jucopo-confirma-licencia-de-pedro-lobo-se-registra-para-coordinar-el-distrito-5-federal-por-morena-2026-10-08__1716734",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "García Harfuch descarta agenda electoral tras comparecencia",
-        "summary": "Secretario de Seguridad estatal reitera enfoque exclusivo en tareas de seguridad pública.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/08/mi-tarea-es-la-seguridad-garcia-harfuch-descarta-agenda-electoral-tras-comparecencia/",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Vicente Fox pide alianza opositora para frenar a Morena en 2027",
-        "summary": "Ex presidente mexicano visita Culiacán y llama a cerrar filas de PRI-PAN para sacar a Morena del estado en próximas elecciones.",
-        "zona": "Centro",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/vicente-fox-llama-a-una-gran-alianza-opositora-en-sinaloa-en-el-2027-no-mas-morena-en-esta-tierra-2026-10-08__1716420",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Roxana Rubio confirma reparto de candidaturas en alianza PRI-PAN",
-        "summary": "Dirigente del PAN asegura que si PRI obtiene gubernatura, PAN tendría Culiacán en acuerdo electoral rumbo a 2027.",
-        "zona": "Centro",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/roxana-rubio-sobre-alianza-si-al-pri-le-toca-la-gubernatura-al-pan-le-tocara-culiacan-si-o-si-LF26327185",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Eligio López responde a Fox: Morena tiene futuro en Sinaloa",
-        "summary": "Presidente de la Junta de Coordinación Política del Congreso niega que Morena pierda fuerza en el estado ante críticas opositoras.",
-        "zona": "Centro",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-08/politica/eligio-lopez-responde-a-vicente-fox-morena-tiene-larga-vida-en-sinaloa/308851",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Coparmex Sinaloa: todos los partidos ofertan candidaturas",
-        "summary": "Presidenta de la cámara empresarial asegura recibir propuestas de candidatura de todos los partidos políticos para 2027.",
-        "zona": "Estatal",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-08/politica/presidenta-de-coparmex-sinaloa-asegura-que-todos-los-partidos-politicos-le-han-ofrecido-candidaturas/308847",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Solo un diputado pide licencia para proceso de selección de Morena",
-        "summary": "En la semana, apenas un legislador ha solicitado permiso para participar en designación de candidatos de Morena en Sinaloa.",
-        "zona": "Centro",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/solo-un-diputado-ha-pedido-licencia-esta-semana-para-participar-en-proceso-de-morena-jucopo-PF26327585",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Regidora cuestiona compra de bicicletas para Guardia Nacional",
-        "summary": "Maribel Chollet señala diferencia entre precio pagado y valor de mercado en adquisición de 50 bicicletas; pide transparencia en gasto.",
+        "title": "Alcaldesa de Mazatlán recibe críticas del PAN en segundo informe",
+        "summary": "Regidor panista cuestiona que informe de Estrella Palacios no refleja realidad de mazatlecos ni avances en seguridad y servicios.",
         "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/cuestiona-maribel-chollet-compra-de-50-bicicletas-para-la-guardia-nacional-y-piden-transparentar-el-gasto-EG26314536",
-        "_added_at": "2026-10-08T02:29:35.340114-07:00"
-      },
-      {
-        "title": "Regidora denuncia condiciones precarias de militares en Mazatlán",
-        "summary": "Chollet Morán cuestiona las condiciones en que permanecen elementos del Ejército Mexicano desplegados para reforzar seguridad en la ciudad.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/senala-maribel-chollet-falta-de-condiciones-dignas-para-militares-en-mazatlan-BG26314599",
-        "_added_at": "2026-10-08T02:29:35.340114-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/manifiesta-regidor-que-segundo-informe-de-estrella-palacios-no-contiene-la-realidad-que-viven-los-mazatlecos-AE26338549",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       }
     ],
     "seguridad": [
       {
-        "title": "Riña en penal de Mazatlán deja 10 muertos y 16 heridos",
-        "summary": "Enfrentamiento en Centro de Reinserción El Castillo causa 10 fallecidos, entre ellos un menor visitante, y múltiples heridos.",
-        "zona": "Sur",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/08/rina-en-penal-de-el-castillo-deja-10-muertos-y-16-heridos-en-sinaloa",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Arsenal con 80 explosivos para drones decomisado en Concordia",
-        "summary": "Operativos estatales aseguran equipo táctico y armamento en municipio del sur.",
+        "title": "Motín en Penal El Castillo de Mazatlán deja 9 muertos e internos heridos",
+        "summary": "Agresión armada en módulos 4 y 5 causó nueve muertes de internos, 16 heridos y un niño de dos años fallecido.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/aseguran-arsenal-con-mas-de-80-explosivos-para-drones-en-concordia-KF26324934",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
+        "url": "https://www.noroeste.com.mx/seguridad/identifican-a-los-9-internos-muertos-y-16-heridos-en-penal-de-mazatlan-HE26339385",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       },
       {
-        "title": "Vinculan a proceso a Brian Alonso N por desaparición en Culiacán",
-        "summary": "Juez ordena prisión preventiva contra sospechoso en caso de desaparición de persona.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGdnbGp6N2NuV0U0OE1CM3NKNzNBelhVYzljT2ZUeGJraDd5eEtXTWo4cXg0V1QyTkhJbEplQ1kzNWlPVGFwWkhCeW5aT2hwTy1yeUtnM3BJbDRlX3R4S1ZCdjBOelhDZWxaVnFMa2d0N0txTWRVX3hFVVhyNVc1enU4OEhKUGpsejA5WG5KNkFrU21FZUtkMDNlRjBBdEdyTXpaXzFYR2hUZjAtSEVBOVdreVlyV3lZcTNERlE0M0JwUGltVHc?oc=5",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "CEDH acompaña a madre de niño asesinado en penal",
-        "summary": "Comisión de Derechos Humanos brinda apoyo a familiar de menor fallecido en riña penitenciaria.",
+        "title": "Familiares irrumpen en Penal El Castillo por falta de información",
+        "summary": "Parientes de privados de la libertad ingresaron primera barrera perimetral demandando noticias de desaparecidos tras conflicto carcelario.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/cedh-acompana-a-madre-de-nino-asesinado-en-rina-dentro-del-penal-de-mazatlan-NE26338216",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
+        "url": "https://www.noroeste.com.mx/seguridad/irrumpen-familiares-en-el-penal-de-mazatlan-ante-falta-de-informacion-sobre-victimas-de-rina-OE26339513",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       },
       {
-        "title": "Seis muertos y 15 heridos en motín de Penal de Mazatlán",
-        "summary": "Disturbio y balacera al interior de El Castillo dejan saldo de víctimas; autoridades despliegan operativo con helicóptero.",
+        "title": "Ataque armado en autobaño de Mazatlán deja tres muertos",
+        "summary": "Tercera víctima fatal en tiroteo ocurrido en Colonia Flores Magón frente a primaria en Mazatlán.",
         "zona": "Sur",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/reportan-6-muertos-y-15-heridos-en-el-interior-del-penal-de-mazatlan-EF26327605",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Ejército asegura 12 kilos de metanfetamina en El Rosario",
-        "summary": "Operativo decomisa drogas, armas y municiones en colonias del sur; importante incautación de estupefacientes.",
-        "zona": "Sur",
-        "source": "Noroeste (El Sur)",
-        "url": "https://www.noroeste.com.mx/seguridad/ejercito-asegura-12-kilos-de-metanfetamina-y-miles-de-dosis-de-cocaina-en-rosario-KF26326279",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Arsenal y 82 explosivos asegurados en Concordia",
-        "summary": "Operativo interinstitucional en Pánuco decomisa armas, cargadores y explosivos para drones; vehículo asegurado.",
-        "zona": "Centro",
-        "source": "Café Negro",
-        "url": "https://cafenegroportal.com/aseguran-arsenal-y-82-explosivos-durante-operativo-en-panuco-concordia/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Sedena detiene a dos tras intento de asalto en Culiacán",
-        "summary": "Operativo de Ejército frustra robo a tienda; uno de los presuntos asaltantes resulta herido.",
-        "zona": "Centro",
-        "source": "Café Negro",
-        "url": "https://cafenegroportal.com/sedena-detiene-a-dos-tras-intento-de-asalto-a-tienda-en-culiacan-aseguran-motocicleta/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Recuperan 12 vehículos robados en Escuinapa y Rosario",
-        "summary": "Autoridades estatales recuperan autos con reporte de robo durante despliegues en el sur de Sinaloa.",
-        "zona": "Sur",
-        "source": "Noroeste (El Sur)",
-        "url": "https://www.noroeste.com.mx/seguridad/recuperan-12-vehiculos-robados-en-escuinapa-y-rosario-FF26325606",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Captura de 'R1' expone red de comandantes del CJNG",
-        "summary": "Detención revela estructura de mando vinculada a la 'R' dentro de organización criminal de alcance nacional.",
-        "zona": "Estatal",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/08/la-captura-de-r1-expone-la-red-de-comandantes-vinculados-a-la-r-del-cjng/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Dictan prisión preventiva al 'Capitán Sol' por hidrocarburos",
-        "summary": "Imposición de medida cautelar a presunto delincuente por operaciones ilícitas de combustible.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/08/dictan-prision-preventiva-al-capitan-sol-por-delitos-de-hidrocarburos/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Encuentro de oración por la paz en Culiacán",
-        "summary": "Nuncio Apostólico y Obispo encabezan encuentro de oración con víctimas de violencia; rechazan \"paz de cementerios\".",
-        "zona": "Centro",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/no-queremos-la-paz-de-cementerios-nuncio-apostolico-ante-victimas-de-la-violencia-en-culiacan-IG26315962",
-        "_added_at": "2026-10-08T02:29:35.340114-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/muere-tercera-victima-tras-ataque-armado-en-autobano-de-la-flores-magon-en-mazatlan-DE26339875",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Gobierno apoya 10 empresas para desarrollar modelo franquicia",
-        "summary": "Secretaría de Economía impulsa expansión empresarial con apoyo a pequeños y medianos negocios.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/gobierno-de-sinaloa-apoyara-a-10-empresas-para-desarrollar-franquicias-JE26332586",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Encuentros Debate impulsa negocios e inteligencia artificial",
-        "summary": "Foro en Culiacán reúne líderes para promover innovación tecnológica y oportunidades comerciales.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX3RmaG5fWkRvMXN6dWtMVEgtX3prOW1mTjVvdkU1NlBDak5qUzJkWkFWYmQxd0R0MFZybS0tVUhCWko5Z1FsQndtc2JtWXdzbnhhNEktZ3Q5Z1ZVOUc1VlM5X3l2eno4RjV5dzBSd2JTR1lmcVJ3MkM0MlBCR3Zaa1E1U25HN1czMVI4QnA1NDdoekxKdGE3WUM5UlpvY2FUeHVveWY4TmxEck1BOHpsUS1HT25JVnVUSl9jVFZ1eFZ0M1k1czhIWXdqVDlwSWFybjg2LWdWaHNlZllIZnBjQ2tBMW1nZw?oc=5",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Reunión definitiva con empresa china por sorgo de Sinaloa",
-        "summary": "Secretaría de Agricultura coordina negociación comercial con importador chino para próxima semana.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/reunion-definitiva-con-empresa-china-que-quiere-sorgo-de-sinaloa-es-la-proxima-semana-agricultura-2026-10-08__1716698",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Mazatlán muestra cifras positivas pese a retos globales",
-        "summary": "Secretaría de Turismo reporta desempeño favorable en el cierre de 2026 para puerto vacacional.",
+        "title": "Adeudos a jubilados de Jumapae en Elota se remontan a años anteriores",
+        "summary": "Gerente de empresa de agua aclara que atrasos salariales a personal jubilado corresponden a ejercicios fiscales previos.",
         "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/pese-a-retos-globales-mazatlan-muestra-cifras-positivas-para-el-cierre-del-2026-sectur-2026-10-08__1716719",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Rezago tecnológico frena crecimiento de pequeñas manufactureras",
-        "summary": "Industria sinaloense enfrenta limitaciones en adopción de tecnología para competir.",
-        "zona": "Estatal",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbXBGMFRJOFNfdEQwSGJpUFItMXNZdEFsTGRsRnJhUmpvdkJCbzFkVFFtcXBkUnZNcWFfR280cnB6R2Vnc1M5UXZfNThTczgxcWtDeXNFdnd5c0QtbDNCa2RjVkIyT1p5b2JmYmp6RG1Md0ZSbWtnZE9sa1o3T2xZd1J0eklJZ3dxeWVBWWlCWG1IS0lqWldBMDRId0FabUt1TTR6TVA4WmgzWXgtRENFcEYwQjFRVm0xUXNfN3oyVzluZjA1eDVZTm9R?oc=5",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Conagua asegura agua suficiente para ciclo otoño-invierno 2026-2027",
-        "summary": "Dependencia federal confirma disponibilidad de recursos hídricos para el próximo ciclo agrícola sin problemas.",
-        "zona": "Estatal",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/el-agua-no-sera-problema-para-el-ciclo-agricola-otono-invierno-2026-2027-afirma-la-conagua-2026-10-08__1716382",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Rezago tecnológico frena crecimiento de manufactureras sinaloenses",
-        "summary": "Pequeñas empresas del sector enfrentan limitaciones en actualización tecnológica para competir.",
-        "zona": "Estatal",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbXBGMFRJOFNfdEQwSGJpUFItMXNZdEFsTGRsRnJhUmpvdkJCbzFkVFFtcXBkUnZNcWFfR280cnB6R2Vnc1M5UXZfNThTczgxcWtDeXNFdnd5c0QtbDNCa2RjVkIyT1p5b2JmYmp6RG1Md0ZSbWtnZE9sa1o3T2xZd1J0eklJZ3dxeWVBWWlCWG1IS0lqWldBMDRId0FabUt1TTR6TVA4WmgzWXgtRENFcEYwQjFRVm0xUXNfN3oyVzluZjA1eDVZTm9R",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Capital privado financiará expansión de CFE con alerta por gas de EU",
-        "summary": "Inversión privada impulsará obras de la comisión federal en contexto de tensiones comerciales transfronterizas.",
-        "zona": "Estatal",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3NrUVUzWV9GZlpFZ2h0NzdPNWN1S2xHQWVHLUJFV2ppUGtaVEVudENOSlpXdjhKTXBHbjEyZ0RSQUVwS0VqQmxVbklWUEhqZ1NzWDExNG5OQW0xVWJDWHo3eF9jSi1lWDNtdFZvY0VCM2hEOElXWW9EaU1sSWNqbGxEN05vQVRGVmJINi1SSWotVlA2Z1l5cVhkZ2sxX2FqTDBMRWdib3VTbGFFSWVoWkN3QVo4XzhVZEpNMnNKVFFodWpWQnc",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Encuentros Debate 2026 reúne empresarios para impulsar negocios con IA",
-        "summary": "Evento en Culiacán congrega líderes de negocios para explorar oportunidades de innovación tecnológica.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOXFUdE01c3kwY3YycWt4eTliQS1mS3IycHNDMmlpUnRxUWtWdUdsdmVFY2NScXo5N0wwMTUyN2o5Zl9oTE1mTDBWSno1SGlHUVBlZFoxd2ZVS3cyZjNrbG91TFlpVWR3Mk5qUDBRbHp5eVBjNjRZQmFpaWxhNlk0eThfS2NjREVCbnJfLTYwOGxZWHptWVI3SUU4RW5BVlpSSjhrWmpuR002N25tWVZUT25naWdDcWpkR1FEWHQ2b3FXX3VobTg2RlhJcUdKUy1GcFF3bFVLX2VHQUZOOHNjYlJjN0RBcXJHYjhuNlZFS3F4WGd2SUE",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/adeudos-a-jubilados-de-jumapae-corresponde-a-anos-anteriores-aclara-gerente-FE26338629",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Tormenta tropical Simón activa sesión permanente de autoridades",
-        "summary": "Gobierno estatal declara sesión permanente y habilita refugios temporales ante amenaza del ciclón.",
-        "zona": "Estatal",
+        "title": "Gobierno de Culiacán activa operativo por tormenta tropical Simón",
+        "summary": "Consejo Municipal de Protección Civil coordina acciones preventivas con más de 500 elementos ante posibles efectos del fenómeno.",
+        "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/declaran-sesion-permanente-por-huracan-simon-en-sinaloa-habilitan-refugios-temporales-en-el-sur-EE26336147",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
+        "url": "https://www.noroeste.com.mx/culiacan/activa-gobierno-de-culiacan-operativo-con-mas-de-500-elementos-ante-la-tormenta-simon-DE26338821",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       },
       {
-        "title": "Cetmar Teacapán sufre afectaciones por marejadas",
-        "summary": "Instalaciones de centro educativo marino en sur de Sinaloa registran daños por oleaje.",
+        "title": "Escuinapa prepara albergues y protocolos ante Huracán Simón",
+        "summary": "Consejo Municipal de Protección Civil de Escuinapa sesiona para coordinar acciones de respuesta ante fenómeno meteorológico.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/marejadas-en-teacapan-dejan-afectaciones-en-el-cetmar-JE26333857",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
+        "url": "https://www.noroeste.com.mx/elsur/preparan-albergues-en-escuinapa-y-activan-protocolos-preventivos-ante-el-huracan-simon-EE26339926",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       },
       {
-        "title": "Localizan con vida a Yazmin Yamileth en Guasave",
-        "summary": "FGE desactiva Alerta Amber tras hallazgo seguro de adolescente desaparecida en el norte.",
+        "title": "Trabajadores del IMSS en Mazatlán protestan por derechos laborales",
+        "summary": "Personal del Hospital General de Zona número 3 se manifiesta para exigir mejores condiciones de trabajo y prestaciones.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/trabajadores-del-imss-en-mazatlan-se-suman-a-protestas-por-sus-derechos-laborales-ND26340904",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
+      },
+      {
+        "title": "Nuncio Apostólico pide frenar violencia en Sinaloa durante misa",
+        "summary": "Joseph Spiteri oficia multitudinaria misa en Los Mochis llamando a trabajar por la paz en la entidad.",
         "zona": "Norte",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/localizan-con-vida-a-yazmin-yamileth-en-guasave-fge-desactiva-alerta-amber-IE26331955",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "DIF Sinaloa apoya a familias afectadas por marea alta en Navolato",
-        "summary": "Instituto brinda asistencia a residentes de Avándaro impactados por inundación costera.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/dif-sinaloa-lleva-apoyos-a-familias-de-avandaro-afectadas-por-marea-alta-en-navolato-2026-10-08__1716651",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Nuncio apostólico llama a construir paz desde el amor",
-        "summary": "Joseph Spiteri pronuncia mensaje de reconciliación en misa multitudinaria en Los Mochis.",
-        "zona": "Norte",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/llama-nuncio-apostolico-a-construir-la-paz-desde-el-amor-de-dios-en-misa-multitudinaria-de-los-mochis-1144771/",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Proponen iniciativa para proteger legalmente a mujeres violentadas",
-        "summary": "Congreso estatal recibe iniciativa para evitar criminalización de víctimas que se defienden.",
-        "zona": "Estatal",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/proponen-ante-el-congreso-de-sinaloa-iniciativa-para-que-mujeres-victimas-de-violencia-no-sean-criminalizadas-por-defenderse-1144798/",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Semujeres refuerza acciones de prevención de violencia",
-        "summary": "Secretaría intensifica programas y campañas para protección de mujeres en el estado.",
-        "zona": "Estatal",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/semujeres-refuerza-acciones-para-prevenir-la-violencia-contra-las-mujeres-en-sinaloa-1144773/",
-        "_added_at": "2026-10-08T18:35:28.325680-07:00"
-      },
-      {
-        "title": "Malecón de Mazatlán colapsa nuevamente por fuerte oleaje",
-        "summary": "Tercer tramo del malecón se hunde; afecta 100 metros lineales y obliga cierre de Avenida del Mar.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/colapsa-nuevo-tramo-del-malecon-de-mazatlan-por-el-fuerte-oleaje-PF26323518",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Tormenta tropical Simón amenaza con oleaje de hasta 4 metros",
-        "summary": "Sistema se fortalece en el Pacífico y alcanzaría categoría 4; Sinaloa se prepara ante pronóstico de lluvias torrenciales.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/08/tormenta-tropical-simon-amenaza-con-lluvias-torrenciales-y-oleaje-de-hasta-4-metros/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Jubilados de la UAS protestan contra reingeniería financiera",
-        "summary": "Personal pensionado se manifiesta en Palacio de Gobierno pidiendo audiencia con gobernadora sobre recortes.",
-        "zona": "Centro",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/jubilados-de-la-uas-llevan-a-gobernadora-de-sinaloa-reclamo-contra-reingenieria-financiera-IF26326970",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Vulnerabilidad en transporte: ataque armado a chofer de camión urbano",
-        "summary": "Incidente en Culiacán evidencia riesgos a los que se enfrentan operadores de transporte público.",
-        "zona": "Centro",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/ataque-armado-a-chofer-de-camion-urbano-en-culiacan-evidencia-la-vulnerabilidad-en-el-transporte-cesp-2026-10-08__1716477",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Inicia vacunación invernal en región del Évora: influenza y covid",
-        "summary": "Campaña de inmunización arranca el lunes en el centro de Sinaloa con aplicación de dos vacunas.",
-        "zona": "Centro",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/arranca-el-lunes-la-vacunacion-invernal-en-la-region-del-evora-aplicaran-influenza-y-covid-2026-10-08__1716471",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Nuncio apostólico llama a construir paz y fraternidad en territorio",
-        "summary": "Represenante del Papa visita Los Mochis y urge a agentes de pastoral a no perder esperanza ante desafíos.",
-        "zona": "Norte",
-        "source": "Línea Directa (Norte)",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/llama-nuncio-a-agentes-de-pastoral-a-no-perder-la-esperanza-ante-los-desafios-sociales-1144580/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Ceci Flores e hija: primeras buscadoras certificadas en Sinaloa",
-        "summary": "Colectivistas obtienen certificación oficial para labores de búsqueda de desaparecidos en el estado.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/08/ceci-flores-y-su-hija-hacen-historia-como-las-primeras-buscadoras-certificadas/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
-      },
-      {
-        "title": "Iluminarán 10 colonias de Los Mochis con nuevas lámparas",
-        "summary": "Servicios Públicos distribuye luminarias para mejorar seguridad e infraestructura en la zona norte.",
-        "zona": "Norte",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/iluminaran-10-colonias-de-los-mochis-servicios-publicos-ya-distribuyo-estas-lamparas-para-comenzar-a-instalarse-1144566/",
-        "_added_at": "2026-10-08T12:35:23.843224-07:00"
+        "url": "https://www.noroeste.com.mx/norte/nuncio-apostolico-oficia-multitudinaria-misa-en-los-mochis-pide-a-frenar-la-violencia-en-sinaloa-BE26339998",
+        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-08T18:35:28.325680-07:00"
+  "last_updated": "2026-10-09T02:39:37.797024-07:00"
 }
