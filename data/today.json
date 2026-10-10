@@ -1,8 +1,72 @@
 {
   "date": "2026-10-09",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "politica": [
+      {
+        "title": "Regidora Zulma Gámez busca alcaldía de Guasave en 2027",
+        "summary": "Se registra en convocatoria de Morena para contender por la presidencia municipal de Guasave en el proceso electoral 2027.",
+        "zona": "Norte",
+        "source": "Línea Directa (Norte)",
+        "url": "https://lineadirectaportal.com/sinaloa/regidora-zulma-gamez-busca-la-alcaldia-de-guasave-en-2027-se-registra-en-convocatoria-de-morena-2026-10-09__1717569",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Diputado Jesús Ibarra reclama error en encuesta estatal de Morena",
+        "summary": "Exige a Morena corrección tras ser retirado de encuesta para candidatos en 2027 y sustituido por otro aspirante.",
+        "zona": "Centro",
+        "source": "Noroeste (Culiacán)",
+        "url": "https://www.noroeste.com.mx/culiacan/exige-jesus-ibarra-a-morena-corregir-error-en-encuesta-estatal-lugar-fue-sustituido-por-omar-lopez-acusa-JC26359365",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Tere Guerra confirma candidatura por alcaldía de Culiacán",
+        "summary": "Formaliza su intención de contender por la presidencia municipal de Culiacán en próximas elecciones.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/tere-guerra-confirma-que-va-por-la-alcaldia-de-culiacan/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "María José Salazar se registra para coordinación de Morena en Mazatlán",
+        "summary": "Formaliza registro para la Coordinación Municipal de la Transformación en Mazatlán rumbo a 2027.",
+        "zona": "Sur",
+        "source": "Línea Directa (Sur)",
+        "url": "https://lineadirectaportal.com/sinaloa/se-registra-maria-josee-salazar-para-la-coordinacion-municipal-de-la-transformacion-en-mazatlan-2026-10-09__1717553",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Pío Esquer llama a defender el voto en 2027",
+        "summary": "Líder de Movimiento Ciudadano propone formar alianza ciudadana para blindar elecciones 2027 en Sinaloa.",
+        "zona": "Sur",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/pio-esquer-llama-a-formar-una-alianza-ciudadana-para-defender-el-voto-en-sinaloa-en-2027/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "PRI presenta plan integral para seguridad en Culiacán",
+        "summary": "Noé Heredia propone estrategia para reforzar seguridad en la capital estatal ante crisis de violencia.",
+        "zona": "Centro",
+        "source": "Noroeste (Culiacán)",
+        "url": "https://www.noroeste.com.mx/culiacan/propone-pri-plan-integral-para-reforzar-la-seguridad-en-culiacan-DB26365530",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "PAN: Morena ha fracasado en materia de seguridad",
+        "summary": "Líder panista cuestiona el desempeño gubernamental en combate a la violencia y crimen organizado.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/morena-es-un-fracaso-en-materia-de-seguridad-cuestiona-lider-del-pan/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Nueva penitenciaría será ubicada en Culiacán",
+        "summary": "Gobernadora Graciela Domínguez confirma que el nuevo centro penitenciario autorizado por gobierno federal se construirá en la capital.",
+        "zona": "Centro",
+        "source": "Noroeste (El Sur)",
+        "url": "https://www.noroeste.com.mx/elsur/construiran-un-nuevo-penal-que-se-ubicaria-en-culiacan-anuncia-graciela-dominguez-nava-PC26357976",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
       {
         "title": "Tere Guerra formaliza registro para coordinación municipal de Culiacán por Morena",
         "summary": "Candidata de Morena confirma participación en proceso interno para alcaldía de Culiacán rumbo a 2027.",
@@ -53,6 +117,46 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Tarde violenta en Mazatlán: cinco personas asesinadas",
+        "summary": "Ataques armados en colonias Alborada y Villa Verde dejan múltiples víctimas mortales en un solo día.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-09/policiaca/tarde-violenta-en-mazatlan-asesinan-a-cinco-personas-en-ataques-armados-en-alborada-y-villa-verde-/309097",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "CEDH exige medidas urgentes de seguridad en penal de Mazatlán",
+        "summary": "Comisión de Derechos Humanos demanda garantizar seguridad y gobernabilidad tras riña con 12 fallecidos.",
+        "zona": "Sur",
+        "source": "Noroeste (Culiacán)",
+        "url": "https://www.noroeste.com.mx/culiacan/exige-cedh-garantizar-seguridad-y-gobernabilidad-en-penal-de-mazatlan-NC26358126",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Menor de 15 años herido en ataque armado en Culiacán",
+        "summary": "Joven resulta lesionado en colonia Aurora tras incidente de violencia en la capital estatal.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/09/ataque-armado-deja-a-un-menor-de-15-anos-herido-en-la-colonia-aurora-en-culiacan/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Feminicidios en Escuinapa: alcaldesa reconoce crisis",
+        "summary": "Autoridad municipal admite situación crítica de violencia contra mujeres en el municipio sur.",
+        "zona": "Sur",
+        "source": "Noroeste (El Sur)",
+        "url": "https://www.noroeste.com.mx/elsur/las-mujeres-tienen-miedo-exigen-a-graciela-dominguez-frenar-violencia-y-mejorar-la-salud-en-escuinapa-IB26368990",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Nuncio Apostólico llama a frenar la violencia en Sinaloa",
+        "summary": "Joseph Spiteri oficia multitudinaria misa en Los Mochis pidiendo trabajar por la paz en el estado.",
+        "zona": "Norte",
+        "source": "Noroeste (Norte)",
+        "url": "https://www.noroeste.com.mx/norte/nuncio-apostolico-oficia-multitudinaria-misa-en-los-mochis-pide-a-frenar-la-violencia-en-sinaloa-BE26339998",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
       {
         "title": "Riña en penal de Mazatlán deja 10 muertos, entre ellos menor de dos años",
         "summary": "Violento enfrentamiento en Centro Penitenciario El Castillo causa 10 decesos y 17 heridos en motín.",
@@ -132,17 +236,57 @@
         "source": "Noroeste",
         "url": "https://www.noroeste.com.mx/seguridad/irrumpen-familiares-en-el-penal-de-mazatlan-ante-falta-de-informacion-sobre-victimas-de-rina-OE26339513",
         "_added_at": "2026-10-09T02:39:37.797024-07:00"
-      },
-      {
-        "title": "Ataque armado en autobaño de Mazatlán deja tres muertos",
-        "summary": "Tercera víctima fatal en tiroteo ocurrido en Colonia Flores Magón frente a primaria en Mazatlán.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/muere-tercera-victima-tras-ataque-armado-en-autobano-de-la-flores-magon-en-mazatlan-DE26339875",
-        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Feria de empleo en Mazatlán oferta 400 vacantes",
+        "summary": "Treinta y ocho empresas participan en última jornada laboral del año en el puerto.",
+        "zona": "Sur",
+        "source": "Noroeste (Mazatlán)",
+        "url": "https://www.noroeste.com.mx/mazatlan/ofertan-mas-de-400-vacantes-en-feria-del-empleo-en-mazatlan-LB26364791",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Cruceros en Mazatlán rompen récord: 102 en 2026",
+        "summary": "Incremento significativo de turismo de cruceros con llegada del Ruby Princess con casi 2 mil 900 turistas.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/mazatlan-sinaloa-suma-ya-102-cruceros-este-2026-ruby-princess-llega-con-mas-de-2-mil-900-turistas-1145554/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Presas se recuperan; agricultores piden no desperdiciar agua",
+        "summary": "Mejora en niveles de almacenamiento, pero productores advierten sobre uso eficiente en siembras.",
+        "zona": "Norte",
+        "source": "Línea Directa (Norte)",
+        "url": "https://lineadirectaportal.com/sinaloa/presas-se-recuperan-en-sinaloa-pero-agricultores-llaman-a-no-desperdiciar-agua-en-las-siembras-2026-10-09__1717436",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Productores sin créditos no pueden acceder a plataforma Sader",
+        "summary": "Agrosin advierte que falta de financiamiento limita aprovechamiento de compra de insumos en línea.",
+        "zona": "Norte",
+        "source": "Línea Directa (Norte)",
+        "url": "https://lineadirectaportal.com/sinaloa/sin-creditos-productores-no-podran-aprovechar-plataforma-de-sader-para-comprar-insumos-agrosin-2026-10-09__1717409",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Ayuntamiento de Salvador Alvarado carece de parque vehicular",
+        "summary": "Municipio opera con maquinaria prestada y busca alternativas para fortalecer su infraestructura.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/ayuntamiento-de-salvador-alvarado-busca-alternativas-para-fortalecer-su-parque-vehicular-operan-con-maquinaria-prestada-1145605/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Presupuesto 2027 debe reactivar sectores productivos de Sinaloa",
+        "summary": "Senadora demanda asignación de recursos para revitalizar economía y empleo en el estado.",
+        "zona": "Estatal",
+        "source": "Línea Directa (Norte)",
+        "url": "https://lineadirectaportal.com/sinaloa/sinaloa-requiere-de-un-presupuesto-2027-que-permita-reactivar-los-sectores-productivos-senadora-2026-10-09__1717482",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
       {
         "title": "Exportaciones de vehículos pesados crecen 144.6 por ciento en septiembre",
         "summary": "Sector exportador de Sinaloa registra importante crecimiento en envíos de vehículos pesados.",
@@ -193,6 +337,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Inundación histórica en Cospita afecta a 75 familias",
+        "summary": "Agua sube 80 centímetros en Culiacán, causando daños significativos a viviendas tras lluvia torrencial.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/inundacion-historica-en-cospita-culiacan-agua-sube-hasta-80-centimetros-y-afecta-a-75-familias-1145618/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Huracán Simón: cuatro municipios de Sinaloa en alerta azul",
+        "summary": "Marina activa Plan de Prevención ante amenaza del fenómeno; Mazatlán, Rosario y otros en vigilancia.",
+        "zona": "Sur",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/09/instala-marina-el-plan-de-prevencion-por-amenaza-de-simon-4-municipios-de-sinaloa-en-alerta-azul/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Rosario habilita cinco albergues temporales por huracán",
+        "summary": "Municipio prepara refugios ante posible impacto del fenómeno natural y ordena evacuaciones preventivas.",
+        "zona": "Sur",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/09/habilitan-en-rosario-cinco-albergues-temporales-por-simon/",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Centro LIBRE inaugura atención a mujeres en Escuinapa",
+        "summary": "Gobernadora abre nuevo centro para fortalecer servicios de apoyo y justicia para mujeres en el sur.",
+        "zona": "Sur",
+        "source": "Línea Directa (Sur)",
+        "url": "https://lineadirectaportal.com/sinaloa/graciela-dominguez-inaugura-en-escuinapa-el-centro-libre-para-fortalecer-la-atencion-a-las-mujeres-2026-10-09__1717606",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Proponen proteger a mujeres que se defiendan de violencia",
+        "summary": "Iniciativa busca blindar legalmente a mujeres que ejerzan defensa contra violencia física, sexual o feminicida.",
+        "zona": "Estatal",
+        "source": "Línea Directa (Centro)",
+        "url": "https://lineadirectaportal.com/sinaloa/proponen-proteger-a-mujeres-que-se-defiendan-de-violencia-fisica-sexual-o-feminicida-en-sinaloa-2026-10-09__1717490",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Mesa de Justicia y Seguridad para mujeres en Escuinapa",
+        "summary": "Gobernadora Domínguez encabeza reunión de seguridad enfocada en atender crisis de feminicidios.",
+        "zona": "Sur",
+        "source": "Línea Directa (Sur)",
+        "url": "https://lineadirectaportal.com/sinaloa/graciela-nava-dominguez-encabeza-la-mesa-de-seguridad-y-de-justicia-para-las-mujeres-en-escuinapa-2026-10-09__1717636",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
+      {
+        "title": "Apoyo a familia del menor fallecido en penal de Mazatlán",
+        "summary": "Gobernadora compromete ayuda a familia del niño de 2 años que falleció en riña carcelaria.",
+        "zona": "Sur",
+        "source": "Línea Directa (Sur)",
+        "url": "https://lineadirectaportal.com/sinaloa/gobernadora-graciela-se-dara-apoyo-a-familia-del-menor-de-2-anos-fallecido-en-el-penal-de-mazatlan-2026-10-09__1717215",
+        "_added_at": "2026-10-09T18:25:40.617967-07:00"
+      },
       {
         "title": "Culiacán activa operativo preventivo ante huracán Simón con 600 elementos",
         "summary": "Ayuntamiento despliega personal y 25 refugios temporales para enfrentar llegada de fenómeno meteorológico.",
@@ -256,24 +456,8 @@
         "source": "Noroeste",
         "url": "https://www.noroeste.com.mx/elsur/preparan-albergues-en-escuinapa-y-activan-protocolos-preventivos-ante-el-huracan-simon-EE26339926",
         "_added_at": "2026-10-09T02:39:37.797024-07:00"
-      },
-      {
-        "title": "Trabajadores del IMSS en Mazatlán protestan por derechos laborales",
-        "summary": "Personal del Hospital General de Zona número 3 se manifiesta para exigir mejores condiciones de trabajo y prestaciones.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/trabajadores-del-imss-en-mazatlan-se-suman-a-protestas-por-sus-derechos-laborales-ND26340904",
-        "_added_at": "2026-10-09T02:39:37.797024-07:00"
-      },
-      {
-        "title": "Nuncio Apostólico pide frenar violencia en Sinaloa durante misa",
-        "summary": "Joseph Spiteri oficia multitudinaria misa en Los Mochis llamando a trabajar por la paz en la entidad.",
-        "zona": "Norte",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/norte/nuncio-apostolico-oficia-multitudinaria-misa-en-los-mochis-pide-a-frenar-la-violencia-en-sinaloa-BE26339998",
-        "_added_at": "2026-10-09T02:39:37.797024-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-09T12:10:11.570444-07:00"
+  "last_updated": "2026-10-09T18:25:40.617967-07:00"
 }
