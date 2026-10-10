@@ -1,8 +1,16 @@
 {
   "date": "2026-10-10",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
+      {
+        "title": "Clausura cursos de capacitación en Escuinapa",
+        "summary": "Graciela Domínguez clausuró programas de corte de cabello; 16 mujeres recibieron constancias en Cristo Rey.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/clausura-graciela-dominguez-cursos-de-corte-de-cabello-en-cristo-rey-escuinapa-16-mujeres-reciben-constancias-1145888/",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
       {
         "title": "Alcaldesa de Mazatlán rinde segundo informe de gobierno",
         "summary": "Estrella Palacios presentó su segundo informe ante ciudadanos y representantes de sectores diversos en Mazatlán.",
@@ -21,6 +29,38 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Marina detiene infractores y asegura armas en operativo estatal",
+        "summary": "Operativo en distintas zonas de Sinaloa resultó en detenciones, aseguro de vehículos, armamento y sustancias ilícitas.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/marina-detiene-a-presuntos-infractores-de-la-ley-y-asegura-vehiculos-armamento-y-sustancias-ilicitas-en-sinaloa-BP26384621",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Aseguran droga y armas en sur de Sinaloa",
+        "summary": "Operativo resulta en detención de dos personas y aseguro de más de 103 mil dosis de metanfetamina.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-10/policiaca/detienen-a-dos-personas-y-aseguran-mas-de-103-mil-dosis-de-metanfetamina-en-sinaloa/309163",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Restablecen visitas en penal de El Castillo tras inspecciones",
+        "summary": "Después de hechos violentos, se reactivan visitas familiares en Mazatlán; continúan inspecciones de seguridad.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/restablecen-visitas-en-el-penal-de-el-castillo-en-mazatlan-inspecciones-de-seguridad-continuan-2026-10-10__1717884",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Despliegue de equipo antiexplosivos en Culiacán",
+        "summary": "Guardia Nacional desplegó unidades en colonia Los Pinos durante operativo.",
+        "zona": "Centro",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTzFQMmxJbzBwZVYxMUJDMGlpTmJqNUc2bng0bEc5dEpiSmFZSWtnYVM1ZExVcE5zWGd0TGJYM01lY1Fack5xU2dTZEZrRms3RXFBVXJiQ3oybTloRXRQbXBqNGEwQUJKcFNIRERuck8xazdDR1RaU1dicWYybmFBLVRRWm93R21VUlNYNmJVUkNMdGVoVzVJRXlTR3U4T2thQnFFVVNJcVFHR0x4OGpNbmFEengyblZ4OGZzX0lEVDMySm9QLVIxVGFhWGFwQUFpeGZuYmJBU0N2T2NFVGJXNWE1RmdHamRDd2MzUWdn?oc=5",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
       {
         "title": "Violencia en Penal de Mazatlán deja 12 muertos en dos jornadas",
         "summary": "Dos enfrentamientos en el penal de Mazatlán dejaron 12 personas fallecidas. Familias de internos demandan información sobre sus seres queridos.",
@@ -54,8 +94,89 @@
         "_added_at": "2026-10-10T02:02:52.863768-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Marina rescata a siete pescadores en Eldorado",
+        "summary": "Embarcación se incendió frente a la costa; Semar asistió a los tripulantes en emergencia.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/marina-rescata-a-siete-pescadores-tras-incendiarse-su-embarcacion-frente-a-eldorado-sinaloa-2026-10-10__1717850",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Más de 140 calles renovadas en Mazatlán",
+        "summary": "Gobierno municipal ha entregado o mantiene en proceso de rehabilitación varias vías en la ciudad.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-10/sinaloa/mas-de-140-calles-renovadas-entregadas-o-en-proceso-en-mazatlan/309162",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Hoteleros prevén recuperación tras paso de huracán Simón",
+        "summary": "Sector hotelero de Mazatlán espera repunte en reservaciones una vez disminuya la amenaza meteorológica.",
+        "zona": "Sur",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2hCWDRnUHBfY0hfbHNIQVJ4UDg3S1g3SkFNOExlZ2lzRGpyT3JlOWk5YXcwNDVOZTBVZzJZVHJKTUw5S3NFdlBLS1RkVEJFaGNlM1FMdjRFRHRSdUU5UTIyMW8zMF96OVVlVXp4Q2ZBUmZURHBwQ3pkeFViSHNlQUU4aVJ2d0VXN2gxelV5cU1EUVZaeW5PZFJYcE1vbl9IWGMwUERYRzZYYXBjc2JFT2ZfMXd0aFFCWEtod1diaXdUeDhGSG1VUkhjaE1iOEQwQ1hSUjBJSHl5RjA?oc=5",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "UAS brinda atención oftalmológica gratuita",
+        "summary": "A través del CIDOCS, la Universidad Autónoma entrega lentes para lectura a personas con debilidad visual.",
+        "zona": "Estatal",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/refrenda-la-uas-su-compromiso-humanista-con-la-sociedad-al-brindar-a-traves-del-cidocs-atencion-oftalmologica-gratuita-y-lentes-para-lectura-a-personas-con-debilidad-visual-1145986/",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Lluvias de hasta 150 mm por huracán Simón en Sinaloa",
+        "summary": "Protección Civil pide suspender movilidad en 24 municipios; efectos intensificarán domingo y lunes.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-10/sinaloa/simon-provocara-lluvias-de-hasta-150-mm-en-sinaloa-efectos-desde-el-domingo/309151",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Violencia desplaza a más de 43 mil sinaloenses",
+        "summary": "Inseguridad ha obligado a población a abandonar sus hogares; cifra refleja magnitud de problema.",
+        "zona": "Estatal",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/10/sinaloa-echa-violencia-a-43-mil-400-personas-de-sus-casas/",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Sipinna promueve escucha atenta a niñez y adolescencia",
+        "summary": "Sistema estatal fortalece cultura de atención oportuna para favorecer salud emocional de menores.",
+        "zona": "Estatal",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/sipinna-sinaloa-promueve-cultura-de-escucha-y-atencion-oportuna-a-la-ninez-y-adolescencia-para-fortalecer-la-salud-emocional-1145869/",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Semujeres promueve prevención de cáncer en Ahome",
+        "summary": "Campañas enfocadas en detección temprana de cáncer de mama y cuello uterino en el norte.",
+        "zona": "Norte",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/promueve-semujeres-en-ahome-campana-para-prevenir-el-cancer-de-mama-y-de-cuello-uterino-1145968/",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Pocos casos de dengue en Ahome, pero con hospitalizaciones",
+        "summary": "Sector salud reporta bajo incremento de dengue en el norte, aunque requiere internación.",
+        "zona": "Norte",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/se-atienden-pocos-casos-de-dengue-en-ahome-el-alza-es-poco-pero-si-ameritar-la-hospitalizacion-dice-sector-salud-1145966/",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
+      {
+        "title": "Mesa de justicia y seguridad para mujeres en Escuinapa",
+        "summary": "Se realizó encuentro para definir estrategias de protección y acceso a justicia en el sur.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/realizan-la-mesa-de-justicia-y-seguridad-para-las-mujeres-en-escuinapa-estas-son-las-estrategias-a-desarrollar-1145912/",
+        "_added_at": "2026-10-10T11:08:05.393518-07:00"
+      },
       {
         "title": "Colectivos feministas instalan cruz rosa en memoria de víctimas",
         "summary": "Colectivos feministas inauguraron cruz rosa en Jardín del Ayuntamiento de Culiacán para recordar mujeres asesinadas y desaparecidas.",
@@ -82,5 +203,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-10T02:02:52.863768-07:00"
+  "last_updated": "2026-10-10T11:08:05.393518-07:00"
 }
