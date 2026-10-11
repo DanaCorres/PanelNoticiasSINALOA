@@ -1,9 +1,50 @@
 {
   "date": "2026-10-11",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
-    "politica": [],
+    "politica": [
+      {
+        "title": "Imelda Castro toma protesta en Consejo Nacional de Morena",
+        "summary": "Imelda Castro rindió protesta en sesión del Consejo Nacional de Morena, confirmando su participación en la estructura partidaria.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/11/imelda-castro-rinde-protesta-en-sesion-del-consejo-nacional-de-morena/",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      }
+    ],
     "seguridad": [
+      {
+        "title": "Clavadista desaparecido en Mazatlán es hallado sin vida",
+        "summary": "Hallan cuerpo de clavadista que se lanzó desde la Sánchez Taboada en Mazatlán después de desaparecer en el mar.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-11/policiaca/localizan-sin-vida-a-clavadista-desaparecido-en-la-sanchez-taboada-de-mazatlan/309254",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Ataque armado deja dos heridos en Isla de la Piedra",
+        "summary": "Dos hombres resultan lesionados tras ataque a balazos en la Isla de la Piedra, Mazatlán.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/ataque-a-balazos-deja-dos-hombres-heridos-en-la-isla-de-la-piedra-en-mazatlan-CB26410020",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Hallan cuerpo envuelto en plásticos en Navolato",
+        "summary": "Localizan cadáver envuelto en plásticos cerca del ejido Buenos Aires en Navolato.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/11/hallan-cuerpo-envuelto-en-plasticos-cerca-del-ejido-buenos-aires-en-navolato/",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Semujeres acompaña a familias de víctimas del penal de Mazatlán",
+        "summary": "Secretaría de las Mujeres brindará acompañamiento integral a familias de víctimas que perdieron la vida en riña carcelaria.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/semujeres-brindara-acompanamiento-integral-a-familias-de-victimas-que-perdieron-la-vida-tras-rina-en-el-penal-de-mazatlan-1146536/",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
       {
         "title": "Militares lesionados tras desbarrancarse en Badiraguato",
         "summary": "Efectivos cayeron por un barranco de casi 50 metros y fueron trasladados a Culiacán para atención médica.",
@@ -29,8 +70,73 @@
         "_added_at": "2026-10-11T02:19:38.733362-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "SEDECO reporta colocación de 62 mdp en créditos en Culiacán",
+        "summary": "Secretaría de Desarrollo Económico refuerza apoyos a negocios locales con 62 millones de pesos en créditos para empleo.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/culiacan-mantiene-reto-en-empleo-sedeco-reporta-colocacion-de-62-mdp-en-creditos-EB26411731",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Senasica pide a ganaderos controlar gusano barrenador",
+        "summary": "Senasica exhorta a ganaderos de Sinaloa a controlar brotes de gusano barrenador para evitar más casos.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/ganaderos-deben-controlar-brotes-de-gusano-barrenador-en-su-ganado-senasica-2026-10-11__1718226",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Sector hotelero de Mazatlán pide evaluar daños en malecón",
+        "summary": "Socavones en el malecón de Mazatlán generan preocupación del sector hotelero sobre infraestructura costera ante huracán Simón.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/pide-sector-hotelero-evaluar-danos-y-riesgos-en-el-malecon-de-mazatlan-ante-llegada-de-simon-BO26398867",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Trabajadores del IMSS protestan por salarios y falta de insumos",
+        "summary": "Personal del IMSS en Culiacán marcha demandando aumento salarial, mejores condiciones laborales y presupuesto para materiales.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/marchan-trabajadores-del-imss-en-culiacan-por-aumento-salarial-y-mejores-condiciones-laborales-AB26412112",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Sinaloa en alerta por trayectoria del huracán Simón",
+        "summary": "Protección Civil instala Centro Estatal de Operaciones para coordinar respuesta ante huracán Simón de categoría 4.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/nacional/en-alerta-sinaloa-por-trayectoria-erratica-del-huracan-simon-DA26402526",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "CANIRAC busca capacitar restaurantes ante hechos violentos",
+        "summary": "Karla Fernanda García Beltrán solicita reunión con Gabinete de Seguridad para definir protocolos y rutas de comunicación directa.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/canirac-busca-capacitar-a-restaurantes-de-culiacan-para-actuar-ante-hechos-violentos-BA26409495",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Urgen frenar violencia de género en Escuinapa y Mazatlán",
+        "summary": "Secretaría de las Mujeres señala necesidad urgente de acciones para combatir violencia de género en ambos municipios.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/urge-frenar-violencia-de-genero-en-escuinapa-y-mazatlan-secretaria-de-las-mujeres-1146475/",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
+      {
+        "title": "Ana Isela Vidal recibe galardón del Instituto Panamericano",
+        "summary": "Investigadora de la UAS obtiene reconocimiento del Instituto Panamericano de Geografía e Historia por excelencia académica.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/11/la-excelencia-academica-de-la-uas-trasciende-fronteras-ana-isela-vidal-vega-obtiene-prestigioso-galardon-del-instituto-panamericano-de-geografia-e-historia/",
+        "_added_at": "2026-10-11T11:32:13.048482-07:00"
+      },
       {
         "title": "Huracán Simón acerca a Sinaloa con alerta verde en puertos",
         "summary": "Mazatlán, Concordia, Rosario y Escuinapa en alerta verde; Cosalá, Elota y San Ignacio en alerta azul por el huracán categoría 4.",
@@ -57,5 +163,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T02:19:38.733362-07:00"
+  "last_updated": "2026-10-11T11:32:13.048482-07:00"
 }
