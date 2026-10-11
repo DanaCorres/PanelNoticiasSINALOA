@@ -1,8 +1,72 @@
 {
   "date": "2026-10-10",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "politica": [
+      {
+        "title": "Calderon pide presencia federal ante debilidad de corporaciones locales",
+        "summary": "Funcionario sostiene que despliegue militar es necesario ante limitaciones de seguridad estatal.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/sinaloa-registra-el-mayor-despliegue-militar-de-su-historia-cesp-PO26392683",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Tere Guerra retoma asambleas y reconoce a Imelda Castro",
+        "summary": "Candidata de Morena realiza reuniones informativas e internamente reconoce liderazgos dentro del partido.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/10/tere-guerra-retoma-asambleas-en-culiacan-y-reconoce-a-imelda-castro",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Durazo acusa que algunos inflan encuestas con pagos",
+        "summary": "Candidato critica prácticas de precandidatos que utilizan dinero en lugar de trabajo territorial.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/10/durazo-acusa-que-algunos-inflan-encuestas-con-pagos-y-no-con-trabajo-territorial",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Spiteri llama a reconstruir tejido social en Sinaloa",
+        "summary": "Nuncio apostólico pide a la sociedad involucrarse en construcción de paz a pesar de la violencia.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/llama-nuncio-apostolico-a-reconstruir-el-tejido-social-en-sinaloa-a-pesar-de-todo-siguen-trabajando-a-favor-de-la-paz-GP26389924",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Sergio Pío Esquer llama a alianza ciudadana para 2027",
+        "summary": "Aspirante busca construir coalición ciudadana para defender proceso electoral en Sinaloa.",
+        "zona": "Estatal",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNVRzbHpjN1RoamtZVFIyc19SSEg0UmVCZzFaSVBhOXAzT3Z1LXhuNW90RnFZZ1hCNERXd1RNY2FKUkZYb0Uzb3o1TTVZR3QzVlRjWVloOU9iY0wwem1FcGRwWFBxNVlRa3RyVGhuVnkzc01GdE1hUUpXelJGbkl4WHU3WXlDbmNfNFRfMlNIbFJtenZIakVvQkRvdnVjYkpoLWw3d3ItQzkwOURjMlpsRF9lMVZVNnR4WFdCU3F0cEJ3LWVRVnlPdmxWNWg3YmRId201RU9meUNFekNQYm5wX2lqVy04TTU5RWRMbmhIalpvUllIbDFv",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Flor Gastélum busca ser alcaldesa de Sinaloa en 2027",
+        "summary": "Candidata declara intención de contender por presidencia municipal del municipio de Sinaloa.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/flor-gastelum-busca-ser-alcaldesa-del-municipio-de-sinaloa-en-2027-quiero-servirles-de-corazon-2026-10-10__1717945",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Javier Sánchez busca coordinación de Morena en Angostura",
+        "summary": "Aspirante abre puerta a candidatura por alcaldía municipal en Angostura.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/javier-sanchez-busca-la-coordinacion-de-morena-en-angostura-y-abre-la-puerta-a-la-alcaldia-2026-10-10__1717931",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Partido Verde refuerza estructura en Sinaloa municipio",
+        "summary": "Aglaé Higuera asume dirigencia del comité municipal de la organización.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/partido-verde-refuerza-su-estructura-en-sinaloa-municipio-aglae-higuera-asume-dirigencia-del-comite-2026-10-10__1718009",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
       {
         "title": "Clausura cursos de capacitación en Escuinapa",
         "summary": "Graciela Domínguez clausuró programas de corte de cabello; 16 mujeres recibieron constancias en Cristo Rey.",
@@ -29,6 +93,54 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Gobierno federal construirá nuevo centro penitenciario en Sinaloa",
+        "summary": "Tras violencia en El Castillo, García Harfuch anuncia nueva prisión mientras se refuerza actual con Guardia Nacional.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/construira-gobierno-federal-nuevo-centro-penitenciario-en-sinaloa-tras-hechos-violentos-en-el-castillo-MP26380581",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Sinaloa registra mayor despliegue militar de su historia",
+        "summary": "Cerca de 2900 militares se despliegan en el estado ante impacto del huracán Simón.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/10/despliegan-a-casi-2-mil-900-militares-ante-impacto-del-huracan-simon",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Mueren 18 mujeres en Escuinapa durante este año",
+        "summary": "Asesinada mujer identificada como Lucero, de 40 años, suma cifra de homicidios femeninos.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/asesinan-a-otra-mujer-en-escuinapa-suman-18-en-ese-municipio-en-el-ano-PP26389215",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Buscadoras localizan cuerpo en descomposición en Guasave",
+        "summary": "Colectivos de búsqueda encuentran restos en el municipio del norte de Sinaloa.",
+        "zona": "Norte",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/10/buscadoras-localizan-cuerpo-en-descomposicion-en-guasave",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Despliegue antiexplosivos en colonia Los Pinos de Culiacán",
+        "summary": "Guardia Nacional activa equipo especializado en operativo en la capital estatal.",
+        "zona": "Centro",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTzFQMmxJbzBwZVYxMUJDMGlpTmJqNUc2bng0bEc5dEpiSmFZSWtnYVM1ZExVcE5zWGd0TGJYM01lY1Fack5xU2dTZEZrRms3RXFBVXJiQ3oybTloRXRQbXBqNGEwQUJKcFNIRERuck8xazdDR1RaU1dicWYybmFBLVRRWm93R21VUlNYNmJVUkNMdGVoVzVJRXlTR3U4T2thQnFFVVNJcVFHR0x4OGpNbmFEengyblZ4OGZzX0lEVDMySm9QLVIxVGFhWGFwQUFpeGZuYmJBU0N2T2NFVGJXNWE1RmdHamRDd2MzUWdn",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Medico del ISSSTE desaparecido es localizado sano y salvo",
+        "summary": "Profesional que fue reportado desaparecido en Culiacán fue encontrado sin mayores problemas.",
+        "zona": "Centro",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-10/policiaca/medico-del-issste-desaparecido-en-culiacan-es-localizado-sano-y-salvo/309214",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
       {
         "title": "Marina detiene infractores y asegura armas en operativo estatal",
         "summary": "Operativo en distintas zonas de Sinaloa resultó en detenciones, aseguro de vehículos, armamento y sustancias ilícitas.",
@@ -96,6 +208,54 @@
     ],
     "economia": [
       {
+        "title": "Sinaloa pierde 20 mil empleos formales tras crisis de seguridad",
+        "summary": "Estado continúa retroceso en empleo formal después de dos años de ola de violencia.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/sinaloa-acumula-otro-mes-con-retroceso-en-empleo-formal-desde-el-inicio-de-la-ola-de-violencia-FO26391664",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Avanza 40 por ciento siembra de hortalizas en centro de Sinaloa",
+        "summary": "Asociación Agrícola reporta progreso en plantaciones de productos hortícolas.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/avanza-un-40-la-siembra-de-hortalizas-en-la-zona-centro-de-sinaloa-aarc-2026-10-10__1718054",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Gobernadora entrega un millón en microcréditos a Escuinapa",
+        "summary": "Comerciantes del sur reciben apoyo financiero del gobierno estatal.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/entregan-un-millon-de-pesos-en-microcreditos-a-comerciantes-de-escuinapa-GA26373630",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Fiscalía libera Plaza Fiesta Las Palmas tras incendio",
+        "summary": "Centro comercial es liberado y avanzan gestiones con aseguradoras para recuperación.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/fiscalia-libera-plaza-fiesta-las-palmas-y-avanzan-gestiones-con-seguros-para-su-recuperacion-1146170/",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Hoteleros esperan 70 por ciento ocupación en puente de octubre",
+        "summary": "Sector turístico de Mazatlán prevé repunte de reservaciones tras paso del huracán.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/hoteleros-ven-un-respiro-con-puente-del-30-de-octubre-esperan-hasta-70-de-ocupacion-en-mazatlan-2026-10-10__1717963",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Más de 140 calles renovadas entregadas o en proceso en Mazatlán",
+        "summary": "Administración municipal reporta avances significativos en infraestructura vial.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/instalan-estructuras-de-concreto-en-tramo-colapsado-del-malecon-de-mazatlan-para-contener-socavon-FO26396355",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
         "title": "Marina rescata a siete pescadores en Eldorado",
         "summary": "Embarcación se incendió frente a la costa; Semar asistió a los tripulantes en emergencia.",
         "zona": "Centro",
@@ -121,6 +281,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Protección Civil instala Centro Estatal de Operaciones por Simón",
+        "summary": "Gobierno activa coordinación interinstitucional ante aproximación de huracán categoría 4.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/instala-proteccion-civil-centro-de-operaciones-en-sinaloa-ante-el-huracan-simon-AO26395849",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Mazatlán habilita nueve refugios temporales ante huracán Simón",
+        "summary": "Gobierno municipal prepara espacios para resguardar población durante fenómeno meteorológico.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/gobierno-de-mazatlan-habilita-un-refugio-temporal-mas-ante-el-huracan-simon-ya-son-9-OO26398336",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Sinaloa presenta déficit de médicos especialistas",
+        "summary": "Secretaría de Salud señala que carencia no obedece a falta de presupuesto sino disponibilidad.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/sinaloa-presenta-un-deficit-de-medicos-especialistas-no-es-falta-de-presupuesto-salud-2026-10-10__1718036",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Más de 200 mujeres beneficiadas con cirugías de mama en Sinaloa",
+        "summary": "Programa ha atendido a sobrevivientes de cáncer con intervenciones reconstructivas.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/mas-de-200-mujeres-que-vencieron-el-cancer-han-sido-beneficiadas-con-cirugias-de-mama-en-sinaloa-2026-10-10__1718045",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Rehab puente Alemania en Pericos podría concluir en diciembre",
+        "summary": "Infraestructura en el centro avanzan en demolición con cierre proyectado para mediados de año.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/rehabilitacion-del-puente-alemania-en-pericos-sinaloa-podria-concluir-el-15-de-diciembre-avanzan-en-su-demolicion-1146180/",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Sinaloa arrancará con 150 consultorios del Servicio Universal",
+        "summary": "Sistema de Salud Universal iniciará operaciones con primeros establecimientos en el estado.",
+        "zona": "Estatal",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/sinaloa-arrancara-con-150-consultorios-del-servicio-universal-de-salud-sus-ulises-pina-1146100/",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
+      {
+        "title": "Mocorito activa sesión permanente ante huracán Simón",
+        "summary": "Municipio dispone de 18 refugios temporales y coordina protección civil.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/mocorito-activa-sesion-permanente-de-proteccion-civil-ante-el-huracan-simon-dispone-de-18-refugios-temporales-1146063/",
+        "_added_at": "2026-10-10T17:36:13.775947-07:00"
+      },
       {
         "title": "UAS brinda atención oftalmológica gratuita",
         "summary": "A través del CIDOCS, la Universidad Autónoma entrega lentes para lectura a personas con debilidad visual.",
@@ -184,24 +400,8 @@
         "source": "Noroeste (Culiacán)",
         "url": "https://www.noroeste.com.mx/culiacan/instalan-memorial-permanente-para-victimas-de-feminicidio-en-culiacan-JA26373587",
         "_added_at": "2026-10-10T02:02:52.863768-07:00"
-      },
-      {
-        "title": "Mazatlán activa protocolos preventivos ante Huracán Simón",
-        "summary": "Consejo Municipal de Protección Civil de Mazatlán coordinó acciones preventivas ante evolución del huracán Simón.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/activa-mazatlan-protocolos-preventivos-ante-posibles-afectaciones-por-simon-FA26374760",
-        "_added_at": "2026-10-10T02:02:52.863768-07:00"
-      },
-      {
-        "title": "Protección Civil mantiene alerta por Huracán Simón",
-        "summary": "Aurelio Roy Navarrete confirmó preparativos de Protección Civil ante trayectoria errática del huracán Simón.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/pide-proteccion-civil-no-confiarse-ante-trayectoria-erratica-del-huracan-simon-HA26375332",
-        "_added_at": "2026-10-10T02:02:52.863768-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-10T11:08:05.393518-07:00"
+  "last_updated": "2026-10-10T17:36:13.775947-07:00"
 }
