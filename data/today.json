@@ -1,8 +1,32 @@
 {
   "date": "2026-10-11",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "politica": [
+      {
+        "title": "Diputados de Morena presentan segundo informe en Mazatlán",
+        "summary": "El Grupo Parlamentario de Morena presentó su segundo informe legislativo 2025-2026 en Mazatlán, resaltando avances legislativos y estrategia de pacificación.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/diputados-presentan-segundo-informe-del-grupo-parlamentario-de-morena-2025-2026-en-mazatlan-2026-10-11__1718321",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Congreso busca dictaminar iniciativas en máximo 12 meses",
+        "summary": "Legisladores proponen limitar el tiempo de congelación de iniciativas parlamentarias a un año, buscando agilizar trámites legislativos en el Congreso estatal.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/no-mas-en-la-congeladora-buscan-dictaminar-iniciativas-en-un-plazo-maximo-de-12-meses-2026-10-11__1718399",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Morena reporta 27 decretos aprobados en segundo año legislativo",
+        "summary": "El partido Morena presentó balance de su gestión legislativa con 27 decretos aprobados durante su segundo año en el Congreso de Sinaloa.",
+        "zona": "Estatal",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3ZPV2VFcTVzQ2NrRTFVMW9DaEd1M0lDd1JzbXh4YkZneUM5eHRNYmZnMHEya1U4WF9SU0kteEgxWXBNVXB1LUdES0lZelN3WU5XS2U1R2UzYlhCeG9jbFZ6OGVER3ZTV254Qk4za21lWmZlcHU0c2dMVGEtc2pMRXM0UG9QWVF0WDlUajZVUkFQc1hkVFA4bTZ1ZXE0TXRGejJRbzRUS3VMaFF1YzNxSTBCU3FUUk5wRy1ORm9YMXFVRFpzQ2lGcUJsZFFXN2hVdm12X0tR",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
       {
         "title": "Imelda Castro toma protesta en Consejo Nacional de Morena",
         "summary": "Imelda Castro rindió protesta en sesión del Consejo Nacional de Morena, confirmando su participación en la estructura partidaria.",
@@ -13,6 +37,54 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "CNDH reprueba dos penales de Sinaloa por deficiencias graves",
+        "summary": "Goros II en Ahome y El Castillo en Mazatlán presentan deficiencias en seguridad, servicios médicos y reinserción social según inspección de la CNDH.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/cndh-reprueba-penales-de-sinaloa-violencia-impide-supervisar-dos-centros-BB26414432",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Crisis penitenciaria genera cadena de muertes desde 2024",
+        "summary": "Riñas y asesinatos en penales de Sinaloa evidencian crisis de seguridad que fuerza construcción de nuevo penal para aliviar sobrepoblación.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/rinas-y-asesinatos-en-penales-de-sinaloa-dejan-una-cadena-de-muertes-desde-2024-LB26415295",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Asesinan a coordinador de Protección Civil en Escuinapa",
+        "summary": "Coordinador de Protección Civil fue ejecutado a balazos en el sector Centro de Escuinapa, generando preocupación sobre seguridad institucional.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/asesinan-a-coordinador-de-proteccion-civil-de-escuinapa-CC26422505",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Riña masiva en festividad de pescadores deja seis heridos",
+        "summary": "Enfrentamiento con machetes durante celebración del Día del Pescador en El Jitzámuri, Ahome, resultó en al menos seis personas lesionadas.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/festejo-del-dia-del-pescador-termina-en-rina-con-machetes-y-deja-6-heridos-en-jitzamuri-ahome-HB26413352",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "FGE reporta 289 casos de violación en 2026",
+        "summary": "Fiscalía General del Estado registra incremento en carpetas de investigación por violación comparado con año anterior, sumando 289 casos.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/fge-sinaloa-registra-este-2026-mas-carpetas-por-violacion-que-el-ano-pasado-suman-289-casos-2026-10-11__1718293",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Operativo en Mocorito asegura arsenal y detiene dos personas",
+        "summary": "Presunta agresión contra autoridades en Mocorito resultó en dos detenidos y aseguramiento de vehículo con arsenal de armas.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/presunta-agresion-contra-el-goes-en-mocorito-deja-dos-detenidos-y-arsenal-asegurado-BC26422838",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
       {
         "title": "Clavadista desaparecido en Mazatlán es hallado sin vida",
         "summary": "Hallan cuerpo de clavadista que se lanzó desde la Sánchez Taboada en Mazatlán después de desaparecer en el mar.",
@@ -72,6 +144,38 @@
     ],
     "economia": [
       {
+        "title": "Pescas colapsan en sistemas estuarinos del sur por escasez",
+        "summary": "Temporada pesquera se detiene en marismas del sur por severa disminución de producción, afectando sustancialmente a pescadores locales.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/frena-la-pesca-en-el-sur-de-sinaloa-ante-la-severa-escasez-de-produccion-en-marismas-PB26417976",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Presas de Sinaloa llegan próximas al 60 por ciento de embalse",
+        "summary": "Reservas de agua en el estado alcanzan nivel de embalse cercano al 60 por ciento, mejorando perspectivas hídricas para cultivos.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/presas-de-sinaloa-estan-por-llegar-al-60-por-ciento-de-embalse-2026-10-11__1718336",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Fira dispone líneas de crédito para otoño-invierno a productores",
+        "summary": "Financiera Rural oferta programas de crédito para productores agrícolas en temporada otoño-invierno a través de parafinancieras.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/fira-tiene-lineas-de-credito-para-otono-invierno-productores-deben-acercarse-a-parafinancieras-2026-10-11__1718303",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Rosario encabeza brotes de gusano barrenador con 184 casos",
+        "summary": "Senasica advierte a ganaderos sobre control de gusano barrenador; Rosario lidera con 184 casos en 19 municipios de Sinaloa.",
+        "zona": "Sur",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSFo3QkhhSHZWYnFBeG9NbEdUQ0VhSnp3TDJIeGE5MWs0N0hzLVhBNFlBZEEyMjVBaFcySDd1YXR6U1pibFpLbF82VzFWdE5acmNidldnNDAyNDBLSXBiclN4T0lkQzNUZWwwcW1BYmtGdzJtc0NPMHBMRm8yWE9jSUJLelItT0Z6TzJBY0JuQWVyMFFBaDlESWJkeWxUSDRKd1Rhb3RWX0owczFhcWJVZEctMlpHQWJKNlQ0VVRCei1tcTEzODN1b0V4MVV3U3VrYmo0RmtZTGRUTDhWbGo4V3VB",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
         "title": "SEDECO reporta colocación de 62 mdp en créditos en Culiacán",
         "summary": "Secretaría de Desarrollo Económico refuerza apoyos a negocios locales con 62 millones de pesos en créditos para empleo.",
         "zona": "Centro",
@@ -97,6 +201,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Cierre de puerto de Teacapán por efectos del huracán Simón",
+        "summary": "Autoridades anuncian cierre preventivo del puerto de Teacapán en Escuinapa ante la trayectoria del huracán Simón.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/anuncian-cierre-del-puerto-de-teacapan-en-sinaloa-ante-efectos-del-huracan-simon-2026-10-11__1718398",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Mazatlán establece nueve refugios temporales ante Simón",
+        "summary": "Municipio de Mazatlán dispone nueve espacios habilitados como refugios temporales para población ante la llegada del huracán Simón.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-11/sinaloa/nueve-refugios-temporales-en-mazatlan-ante-el-huracan-simon/309277",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Dengue en Mazatlán suma 11 casos; refuerzan acciones preventivas",
+        "summary": "Autoridades de salud intensifican vigilancia epidemiológica en colonias Independencia y Montuosa ante acumulación de casos de dengue.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/mazatlan-acumula-11-casos-de-dengue-refuerzan-acciones-preventivas-en-colonias-independencia-y-montuosa-1146692/",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Restricción de playas en Mazatlán tras muerte de clavadista",
+        "summary": "Acceso a playas de Mazatlán restringido tras fallecimiento de hombre en Olas Altas; Fiscalía abre investigación.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/restringen-ingreso-a-playas-de-mazatlan-tras-deceso-de-clavadista-en-olas-altas-2026-10-11__1718352",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Hospital 49 del IMSS en Los Mochis: protestas por bajos salarios",
+        "summary": "Trabajadores del hospital 49 del IMSS en Los Mochis protestan por insuficiencia de salarios y condiciones laborales deficientes.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/por-bajos-salarios-protestan-trabajadores-del-hospital-49-del-imss-en-los-mochis-2026-10-11__1718309",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
+      {
+        "title": "Banco de Alimentos en Culiacán limitado por falta de abastecimiento",
+        "summary": "Escasez de alimentos afecta la capacidad del Banco de Alimentos para atender a familias vulnerables en Culiacán.",
+        "zona": "Centro",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTdvNHBRcUhONk01NDFPaHNUMklkdUdoeENZX3N5ZkF3MXA2dmRadjduUjdRdFMtRjl5UlZuVEVvbjlmS1hQN3ZJdV9iX1dwMjRUUUNjSnQ2WUlvVjhVZklxbjF5NFF4OHJGb09ZXy1oUzMzTU5rNHRNcC00QnZjWV9FWGNuanhULThmVkV2ZC1pd1hsM1RZQXdMNTYyeTd5aGpPYVJkT1o3YzBrWGw4TkJYczhpbXhyNml4RXlrSEpMSWdxSDFDNDFab3lzOEFqSFlhSUtrdjRzWm1q?oc=5",
+        "_added_at": "2026-10-11T17:52:18.687913-07:00"
+      },
       {
         "title": "Trabajadores del IMSS protestan por salarios y falta de insumos",
         "summary": "Personal del IMSS en Culiacán marcha demandando aumento salarial, mejores condiciones laborales y presupuesto para materiales.",
@@ -163,5 +315,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T11:32:13.048482-07:00"
+  "last_updated": "2026-10-11T17:52:18.687913-07:00"
 }
