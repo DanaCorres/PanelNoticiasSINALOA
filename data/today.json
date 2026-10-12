@@ -1,9 +1,98 @@
 {
   "date": "2026-10-12",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
-    "politica": [],
+    "politica": [
+      {
+        "title": "Renuncia subsecretario de Agricultura; aspira a coordinar Morena en Navolato",
+        "summary": "Ramón Gallegos Araiza deja puesto estatal para participar en proceso interno de Morena rumbo a 2027.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/12/renuncia-ramon-gallegos-al-cargo-de-subsecretario-de-agricultura-busca-ser-coordinador-de-morena-en-navolato/",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Diputado Ambrocio Chávez busca coordinar Morena en Salvador Alvarado",
+        "summary": "Legislador local se registra en proceso interno de partido para aspirar a coordinación municipal.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/ambrocio-chavez-anuncia-registro-para-coordinacion-de-morena-en-salvador-alvarado-HD26436436",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Diputada Verónica Avilés compite por coordinación Morena en Badiraguato",
+        "summary": "Legisladora se registra en proceso interno del partido para coordinar municipio.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/veronica-aviles-se-registra-para-buscar-coordinacion-municipal-de-morena-en-badiraguato-FE26440959",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Xóchitl Soto y Enrique Covarrubias compiten por Morena en Guasave",
+        "summary": "Dos aspirantes se registran en proceso interno del partido para coordinar municipio norteño.",
+        "zona": "Norte",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/12/xochitl-soto-fierro-y-enrique-covarrubias-buscan-coordinacion-de-morena-en-guasave/",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      }
+    ],
     "seguridad": [
+      {
+        "title": "Semana 109: 66 muertes violentas en Sinaloa, 74 más que semana anterior",
+        "summary": "Estado cierra semana con cifra elevada de homicidios, continuando la ola de violencia.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-cierra-semana-109-con-66-muertes-violentas-74-mas-que-la-anterior-11-homicidios-el-domingo-PD26435039",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Ejército asegura drones, municiones y fibra óptica en Rosario",
+        "summary": "Operativo federal incauta arsenal en tramo carretero del sur de Sinaloa.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/incautan-fuerzas-federales-arsenal-drones-y-vehiculo-blindado-en-rosario-y-concordia-ND26435888",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Desmantelan laboratorio de drogas sintéticas en Culiacán; aseguran químicos",
+        "summary": "Autoridades inhabilitan clandestino con 13 mil litros de precursores químicos.",
+        "zona": "Centro",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQenJWYllRd2ZIUm1SQ0hoczFoUlNfTHBBLXV0WDRqa1N3b2NXeEw1NExXSExkZnJQWWhkWmFyR2VMcWNoT09jYTJSVkhwdk1lam1lOHE2Qk1QQXU3RlpwemIya2oxbnZMMHpqblRsQXBUVVpjYThnUzloeGhLeU8tMlhTZWlwVjhoQ2hfejJfN0VaWlNES0xOS2EySW1keEN6MkZPa3RqRXlFWjBfSF96UndpY2M0djVBY2tCeFVBb0VGWHoxZ0ppa2VEZmJJUEJHZS1rQ2lsNA?oc=5",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Asesinada otra mujer en Escuinapa; van 19 en el año",
+        "summary": "Ataque armado causa muerte de mujer en municipio sureño, continuando patrón de feminicidios.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/asesinan-a-otra-mujer-en-escuinapa-van-19-en-lo-que-va-del-ano-en-ese-municipio-ND26437846",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Cae presunto implicado en multihomicidio de banco en Culiacán",
+        "summary": "Autoridades detienen en Baja California a otro responsable del ataque que dejó cuatro muertos.",
+        "zona": "Centro",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDhkV0UwanZKRktKMEJqbkFZNG9YX2xUN3Y4UUtXUVgxLTVYUFdEZ2hfQzZoR2VLWVhoUWNPY2V3UXhMQmVlZXNETXdaWU1fbGdGcktuOVJLMU9QNmdHZ2lHQjViaXpaSU5rOGxvdlpPQXktM0tUQ0dUVm9mbG1ETDFXWXhlTTljbGVmeWhRWjRhMXU4NEQ4dFprd2N2Y1psYVZHVDN4eHEybU0tOXBudkZRN2NxTlJJdHdzWkotQmlZNG1WZkNVRlpoWTF4WGd5NW9vQURfTW4?oc=5",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Ataque a restaurante en Isla de la Piedra; hombre baleado",
+        "summary": "Encargado de establecimiento atacado a tiros en zona turística de Mazatlán.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/balean-al-encargado-de-un-restaurante-en-isla-de-la-piedra-mazatlan-PE26440870",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Ataque armado en Villa Unión deja un muerto y una herida",
+        "summary": "Balacera en estética de Mazatlán causa víctimas; continúa violencia en el sur.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/ataque-armado-en-villa-union-deja-un-hombre-muerto-y-una-mujer-herida-en-una-estetica-AE26444343",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
       {
         "title": "Hombre asesinado en estacionamiento de plaza comercial en Mazatlán",
         "summary": "Víctima fue atacada mientras descendía de su vehículo en centro comercial del puerto. Locales cerraron como medida de seguridad.",
@@ -29,8 +118,105 @@
         "_added_at": "2026-10-12T02:46:58.771716-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Sinaloa coordina acciones contra gusano barrenador y tuberculosis bovina",
+        "summary": "Gobierno estatal implementa medidas sanitarias para proteger ganadería regional.",
+        "zona": "Estatal",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/12/sinaloa-coordina-acciones-contra-el-gusano-barrenador-y-la-tuberculosis-bovina/",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Financiamiento agrícola se complica; productores advierten trabas en créditos",
+        "summary": "Sector del campo reporta obstáculos en gestión de créditos para inversión.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/se-complica-el-financiamiento-del-campo-productores-advierten-trabas-en-tramites-de-creditos-2026-10-12__1718917",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Informalidad supera 50% en Sinaloa; se pierden más de 67 mil empleos",
+        "summary": "Economía estatal enfrenta crisis de empleo formal y crecimiento del sector informal.",
+        "zona": "Estatal",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZlBrN1hMaGxDMGIxcGhGRDNJa0tCdGFQc09EdHZMVzBjOWtPbkN6RGNDWTRMcEFCNUZ5Zk1IRDZkaXVIeHpjbi1YazYxQlRhbnV5aVBiUjZIRUpoNV90NjNuV0l0b3VpUHdjMS1tbnpjZGVJeUc3WlNKN3pIZjM5ZUFuWHQwQVNRVUtGUndBTXIybUFYT3JNOHNMNjdBa2dzOUc0OXFqWDBpdmo3M0xnYVpKbHJrSVl1Vnl1c1JKY1pvdw?oc=5",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Vendedores de playa en Mazatlán claman por ayuda; 786 familias sin ingresos",
+        "summary": "Comerciantes costeros enfrentan crisis por cierre de playas y falta de turismo.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/sin-turistas-y-sin-ventas-786-familias-de-vendedores-de-playa-claman-por-ayuda-en-mazatlan-sinaloa-1147082/",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Ayuntamiento de Choix busca crédito de 8 millones para maquinaria",
+        "summary": "Administración municipal insiste en financiamiento para equipamiento.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/ayuntamiento-de-choix-insistira-en-credito-para-comprar-maquinaria-ahora-por-8-mdp-alcaldesa-2026-10-12__1718962",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Huracán Simón: Alerta amarilla en siete municipios de Sinaloa",
+        "summary": "Autoridades amplían alerta por acercamiento de huracán categoría 2 hacia el estado.",
+        "zona": "Estatal",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTW5sY093c1ZxT1Q1T2dNaWd1VTFza1E1bm95ZkJyaUlkcXM5M1VqakNNTkF2cEw1V2tQWEJMeEprM2h3U21RM0l1eVRYN0dMd2N4NTFxSXU0d1V3SHpwMGhlZEtDLUFyV2h0MzY4ZWpnMWxPUHZNM2dPc3UxelE3TWhvb2hZUU9WUzQ1bENVLTh4S2xHUVkxcmgyZ29YV1c3YUUtVTVrUnQ1aE91NUVud2VzbF9BUXVEZlJRZHlJTERoRmN4WG5qdkZOcExkSVcxYTBIbFV0X1k3WGlHRUtMWGpn?oc=5",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Desborde en Estero del Infiernillo y oleaje en malecón de Mazatlán",
+        "summary": "Marea alta y fuerte oleaje generan inundaciones en zona costera del sur.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/se-desborda-agua-en-estero-del-infiernillo-de-mazatlan-y-olas-brincan-en-tramos-del-malecon-AD26439494",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Laguna del Iguanero en Rosario es desfogada por lluvias esperadas",
+        "summary": "Protección Civil extrae agua de laguna para evitar inundaciones por Simón.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/mantienen-proteccion-civil-de-rosario-extraccion-de-agua-de-la-laguna-del-iguanero-CE26445171",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Refugios temporales listos en Mazatlán ante llegada de huracán",
+        "summary": "Alcaldesa supervisa instalaciones de albergues para evacuados por Simón.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/ya-estan-listos-los-refugios-temporales-en-mazatlan-alcaldesa-supervisa-sus-instalaciones-2026-10-12__1718940",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Campaña invernal de vacunación inicia en Sinaloa con más de 900 mil dosis",
+        "summary": "Autoridades sanitarias lanzan inmunización contra influenza, COVID y VPH.",
+        "zona": "Estatal",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZko0QVMzZGFxTzg3bGlBcFFrYVVvWkZqclNkVEJtalhqdkllRjRIRkJfNTZQMnFMcFl6VWV2ME4xRVpmU1V2RDU2ZzdqVVI2NFd2N0VVTFhoekVoT3pfUEQ1cG1hajlWN0tKWHcwWDVVVXRha2pnZGJnNmFzZ3BwYVlOdFZMYW9DRmR5RmEwZjZQcFdJdmhvMkg5Rk0zSlJ2Wno2cDBXZWdLeDVGZENpZVQxbFdZRUduXzYtdkdtWTJxZGZVcTVoUmR2QjlqOGg2OGRKM1htN2JJVXFmbGYxV01VbXRLZkN2aG1xcXE5dTRxMDA4ZlNKZ3JwTHpFbjZoVUE?oc=5",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Marcha por agua limpia en ZMG termina con 51 detenciones arbitrarias",
+        "summary": "Ciudadanía protesta por acceso a agua potable en zona metropolitana de Guadalajara.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/12/queremos-agua-no-represion-marcha-por-agua-limpia-en-la-zmg-termina-con-51-detenciones-arbitrarias/",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
+      {
+        "title": "Trabajadores del IMSS en Guasave protestan por salarios y condiciones",
+        "summary": "Personal sanitario marcha demandando aumento justo y mejores condiciones laborales.",
+        "zona": "Norte",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/marchan-trabajadores-del-imss-en-guasave-exigen-aumento-salarial-justo-y-mejores-condiciones-laborales-1146905/",
+        "_added_at": "2026-10-12T14:56:13.705190-07:00"
+      },
       {
         "title": "Gobierno suspende clases en siete municipios por Huracán Simón",
         "summary": "Suspensión de actividades educativas el lunes 12 de octubre en municipios afectados por trayectoria del fenómeno meteorológico.",
@@ -57,5 +243,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-12T02:46:58.771716-07:00"
+  "last_updated": "2026-10-12T14:56:13.705190-07:00"
 }
