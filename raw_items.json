@@ -1,9 +1,673 @@
 {
-  "generated_at": "2026-10-13T09:45:27.420167+00:00",
+  "generated_at": "2026-10-13T20:00:24.657656+00:00",
   "items": [
     {
-      "title": "El huracÃ¡n Simon ha registrado un importante ajuste en su trayectoria y apunta directamente hacia el municipio de Eldorado.(Foto: MÃ©todos Geofisicos Aplicados)",
-      "url": "https://www.noroeste.com.mx/culiacan/alerta-maxima-en-sinaloa-huracan-simon-cambia-de-trayectoria-e-impactaria-eldorado-como-categoria-2-JF26459770",
+      "title": "Laura VelÃ¡zquez AlzÃºa, Coordinadora Nacional de ProtecciÃ³n Civil, advierte que âSimonâ solo dejarÃ­a lluvias para los prÃ³ximos dÃ­as.(Foto: CNPC)",
+      "url": "https://www.noroeste.com.mx/mazatlan/se-tendran-dos-dias-de-cierta-calma-en-sinaloa-por-huracan-simon-se-reanudaran-las-clases-MG26468361",
+      "published": "",
+      "source": "Noroeste (Mazatlán)",
+      "zona": "Sur",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Convocatoria a marcha en Los Mochis en memoria de Fernanda GastÃ©lum y su bebÃ©.(Foto: CortesÃ­a)",
+      "url": "https://www.noroeste.com.mx/norte/convocan-a-manifestacion-pacifica-en-los-mochis-exigiendo-justicia-por-fernanda-gastelum-BG26467042",
+      "published": "",
+      "source": "Noroeste (Norte)",
+      "zona": "Norte",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Cifras acumuladas de delitos durante la ola de violencia que aqueja a Sinaloa.(Foto: Noroeste)",
+      "url": "https://www.noroeste.com.mx/seguridad/informe-diario-matan-a-3-mujeres-mas-en-un-solo-dia-7-homicidios-y-9-vehiculos-robados-el-lunes-KG26465359",
+      "published": "",
+      "source": "Noroeste (Seguridad)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "EU activa nuevas reglas del Río Colorado y abre la puerta a más recortes de agua para México",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkNIMGFIako4bVZBdk56YmQ1SzE5c2xSX1V1UnktWXMwTnpvcjlWWE5EaG85VTJyWWVHVjR6b1dtNjluSWM2TjI2X1R2NzBrRVU4Q0lKWFlaT00xcFlyMVlzTU13NmlPUUhodlNHd0NGTUxxbVdJeUJpVmtBNGNvRzdzZFBFVXMtNEdicHl2b2Jiamh6dUZWNWVwOVF6SlFSNzN4NzJfM0NjMzlESEhVUldjQkJKaDdxX0hEVVdZT050a1ZCTWJIVXQ2NVhWTVNIUHhUQXVsYVM?oc=5",
+      "published": "Tue, 13 Oct 2026 11:06:35 GMT",
+      "source": "El Sol de Sinaloa/Mazatlán (OEM, vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Presentan diputados agenda Legislativa para el actual periodo ordinario de sesiones",
+      "url": "https://riodoce.mx/2026/10/13/presentan-diputados-agenda-legislativa-para-el-actual-periodo-ordinario-de-sesiones/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Crisis en el Congreso y el Gobierno de Sinaloa: Diputado Rodolfo Valenzuela acusa opacidad en finanzas y obras públicas",
+      "url": "https://revistaespejo.com/2026/10/13/crisis-en-el-congreso-y-el-gobierno-de-sinaloa-diputado-rodolfo-valenzuela-acusa-opacidad-en-finanzas-y-obras-publicas/",
+      "published": "Tue, 13 Oct 2026 19:39:29 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Culiacán vs. Nogales: Costo de la violencia familiar - Debate",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemZ4d0lQczBpN3M2MDB1aHRsbFYtQURrdjRod3dYRnM1aWY5b00tdWhmNnZFaEttS1hESUtRWmc0aVVTQ1BxVjhQTW9ubHlxSEQ1cDF5bHJMR3owVm5pT2RNUS1BT2dyUTdOVnRPVG1Fdnhsb2ZfeEUwT01RbTA4aThOYXJNR3ZPdXBKaDB4N0V4RTdJZWtVSjBkSW5Da0JMQWdsVDdmbw?oc=5",
+      "published": "Tue, 13 Oct 2026 13:30:01 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Predio clausurado por Profepa pertenece al Ayuntamiento de Guasave; depositaban llantas: Alcaldesa",
+      "url": "https://lineadirectaportal.com/sinaloa/predio-clausurado-por-profepa-pertenece-al-ayuntamiento-de-guasave-depositaban-llantas-alcaldesa-2026-10-13__1719631",
+      "published": "Tue, 13 Oct 2026 19:49:58 +0000",
+      "source": "Línea Directa (Norte)",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Rodolfo Valenzuela se registra para la Coordinación del Distrito 07; buscaría una diputación federal",
+      "url": "https://lineadirectaportal.com/sinaloa/rodolfo-valenzuela-se-registra-para-la-coordinacion-del-distrito-07-buscaria-una-diputacion-federal-2026-10-13__1719636",
+      "published": "Tue, 13 Oct 2026 19:58:01 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Economía anuncia Capital Feria de Financiamiento en Culiacán y Mazatlán con créditos hechos a la medida",
+      "url": "https://lineadirectaportal.com/sinaloa/economia-anuncia-capital-feria-de-financiamiento-en-culiacan-y-mazatlan-con-creditos-hechos-a-la-medida-2026-10-13__1719630",
+      "published": "Tue, 13 Oct 2026 19:41:37 +0000",
+      "source": "Línea Directa (Sur)",
+      "zona": "Sur",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "“La construcción de un nuevo penal no es la solución”; diputados del PRI exigen sanciones contra responsables de hechos violentos en El Castillo",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/la-construccion-de-un-nuevo-penal-no-es-la-solucion-diputados-del-pri-exigen-sanciones-contra-responsables-de-hechos-violentos-en-el-castillo-1147820/",
+      "published": "Tue, 13 Oct 2026 19:59:55 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "\"Simón ya no tocaría tierra, pero dejaría lluvias en Sinaloa\": Protección Civil Nacional",
+      "url": "https://www.luznoticias.mx/2026-10-13/sinaloa/simon-ya-no-tocaria-tierra-pero-dejaria-lluvias-en-sinaloa-proteccion-civil-nacional/309572",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Descarta Eligio López Portillo ruptura entre el Congreso de Sinaloa y el Gobierno estatal",
+      "url": "https://cafenegroportal.com/descarta-eligio-lopez-portillo-ruptura-entre-el-congreso-de-sinaloa-y-el-gobierno-estatal/",
+      "published": "Tue, 13 Oct 2026 19:41:31 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Comisión de La Juventud, Cultura Física y Deporte se suma a la promoción de actividades deportivas y de convivencia para jóvenes de Cosalá",
+      "url": "https://noticiasdigitalessinaloa.mx/sinaloa/comision-de-la-juventud-cultura-fisica-y-deporte-se-suma-a-la-promocion-de-actividades-deportivas-y-de-convivencia-para-jovenes-de-cosala/",
+      "published": "Tue, 13 Oct 2026 19:32:59 +0000",
+      "source": "Noticias Digitales Sinaloa",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Sinaloa tendrá un mes más de subsidio eléctrico a partir de abril de 2027: Gobernadora",
+      "url": "https://sinaloaenlinea.com/sinaloa-tendra-un-mes-mas-de-subsidio-electrico-a-partir-de-abril-de-2027-gobernadora/",
+      "published": "Tue, 13 Oct 2026 19:49:29 +0000",
+      "source": "Sinaloa en Línea",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "El Diputado local Rodolfo Valenzuela SÃ¡nchez seÃ±ala que hay un distanciamiento del Congreso con el Gobierno de Sinaloa.(Foto: Damaris Palomares)",
+      "url": "https://www.noroeste.com.mx/culiacan/senala-diputado-distanciamiento-entre-congreso-y-gobierno-de-sinaloa-AH26473650",
+      "published": "",
+      "source": "Noroeste (Culiacán)",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Roy Navarrete Cuevas, director del Instituto de ProtecciÃ³n Civil de Sinaloa.(Foto: Carlos ZatarÃ¡in)",
+      "url": "https://www.noroeste.com.mx/mazatlan/huracan-simon-podria-meterse-al-golfo-de-california-senala-director-de-proteccion-civil-en-sinaloa-EH26473465",
+      "published": "",
+      "source": "Noroeste (Mazatlán)",
+      "zona": "Sur",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Incendio en conocida carnicerÃ­a del centro deja miles de pesos en daÃ±os materiales y moviliza a rescatistas.(Fotos: CortesÃ­a)",
+      "url": "https://www.noroeste.com.mx/seguridad/incendio-arrasa-con-mobiliario-de-una-carniceria-en-el-centro-de-los-mochis-KH26471218",
+      "published": "",
+      "source": "Noroeste (Norte)",
+      "zona": "Norte",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Lluvias moderadas se registraron en Escuinapa la tarde-noche de este lunes.(Fotos: Carolina Tiznado)",
+      "url": "https://www.noroeste.com.mx/elsur/se-registran-lluvias-moderadas-este-lunes-en-escuinapa-JF26458320",
+      "published": "",
+      "source": "Noroeste (El Sur)",
+      "zona": "Sur",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Manuel âNâ, conducÃ­a una Volkswagen Robust en Villa UniÃ³n, al sur de MazatlÃ¡n, cuando fue asesinado a balazos.(Fotos: Noroeste)",
+      "url": "https://www.noroeste.com.mx/seguridad/no-logro-escapar-matan-a-conductor-dentro-de-su-camioneta-en-villa-union-al-sur-de-mazatlan-EH26473531",
+      "published": "",
+      "source": "Noroeste (Seguridad)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Se forma nuevo ciclón en el Pacífico; prevén que alcance categoría 4",
+      "url": "https://riodoce.mx/2026/10/13/se-forma-nuevo-ciclon-en-el-pacifico-preven-que-alcance-categoria-4/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Precio del dólar en México hoy 13 de octubre: Peso mexicano continúa desplome",
+      "url": "https://revistaespejo.com/2026/10/13/precio-del-dolar-en-mexico-hoy-13-de-octubre-peso-mexicano-continua-desplome/",
+      "published": "Tue, 13 Oct 2026 16:46:29 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Cobaes 03 lamenta el fallecimiento del alumno Gilberto, el joven que sufrió un accidente en Ahome",
+      "url": "https://lineadirectaportal.com/sinaloa/cobaes-03-lamenta-el-fallecimiento-del-alumno-gilberto-el-joven-que-sufrio-un-accidente-en-ahome-2026-10-13__1719600",
+      "published": "Tue, 13 Oct 2026 19:12:48 +0000",
+      "source": "Línea Directa (Norte)",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Activan en Culiacán el Centro de Operación de Emergencias por el huracán Simón",
+      "url": "https://lineadirectaportal.com/sinaloa/activan-en-culiacan-el-centro-de-operacion-de-emergencias-por-el-huracan-simon-2026-10-13__1719632",
+      "published": "Tue, 13 Oct 2026 19:47:59 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Gobernadora visita el malecón de Mazatlán para verificar daños por oleaje; rehabilitar será prioridad",
+      "url": "https://lineadirectaportal.com/sinaloa/gobernadora-visita-el-malecon-de-mazatlan-para-verificar-danos-por-oleaje-rehabilitar-sera-prioridad-2026-10-13__1719615",
+      "published": "Tue, 13 Oct 2026 19:31:22 +0000",
+      "source": "Línea Directa (Sur)",
+      "zona": "Sur",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Mar de Mazatlán continúa sin piedad contra las estructuras de palapas; al menos 12 negocios tienen daños severos",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/mar-de-mazatlan-continua-sin-piedad-contra-las-estructuras-de-palapas-al-menos-12-negocios-tienen-danos-severos-1147785/",
+      "published": "Tue, 13 Oct 2026 19:35:57 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Bomberos de Culiacán necesitan 15 estaciones; actualmente operan con cuatro",
+      "url": "https://cafenegroportal.com/bomberos-de-culiacan-necesitan-15-estaciones-actualmente-operan-con-cuatro/",
+      "published": "Tue, 13 Oct 2026 19:38:10 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Encabeza Gobernadora Graciela Domínguez y titular de PC, Laura Velázquez reunión de seguimiento a “Simón”",
+      "url": "https://noticiasdigitalessinaloa.mx/blog/encabeza-gobernadora-graciela-dominguez-y-titular-de-pc-laura-velazquez-reunion-de-seguimiento-a-simon/",
+      "published": "Tue, 13 Oct 2026 19:30:56 +0000",
+      "source": "Noticias Digitales Sinaloa",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Mazatlán recibe al Discovery Princess con más de 3 mil 600 pasajeros",
+      "url": "https://sinaloaenlinea.com/mazatlan-recibe-al-discovery-princess-con-mas-de-3-mil-600-pasajeros/",
+      "published": "Tue, 13 Oct 2026 18:30:05 +0000",
+      "source": "Sinaloa en Línea",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Autoridades y cuerpos de auxilio coordinan acciones preventivas ante la llegada del huracÃ¡n SimÃ³n.(Foto: SSPyTM)",
+      "url": "https://www.noroeste.com.mx/seguridad/culiacan-activa-centro-de-operacion-de-emergencias-ante-posible-llegada-del-huracan-simon-BH26472773",
+      "published": "",
+      "source": "Noroeste (Culiacán)",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "El huracÃ¡n Simon se mantiene frente a las costas de Sinaloa, a mÃ¡s de 300 kilÃ³metros al sur de MazatlÃ¡n.(Foto: NHC)",
+      "url": "https://www.noroeste.com.mx/mazatlan/permanece-huracan-simon-frente-a-las-costas-de-nayarit-y-sinaloa-AH26472662",
+      "published": "",
+      "source": "Noroeste (Mazatlán)",
+      "zona": "Sur",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Autoridades y cuerpos de auxilio coordinan acciones preventivas ante la llegada del huracÃ¡n SimÃ³n.(Foto: SSPyTM)",
+      "url": "https://www.noroeste.com.mx/seguridad/culiacan-activa-centro-de-operacion-de-emergencias-ante-posible-llegada-del-huracan-simon-BH26472773",
+      "published": "",
+      "source": "Noroeste (Seguridad)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Morena exige renuncia de Pablo Lemus tras represión en protesta por agua limpia en Jalisco",
+      "url": "https://riodoce.mx/2026/10/13/morena-exige-renuncia-de-pablo-lemus-tras-represion-en-protesta-por-agua-limpia-en-jalisco/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Clima Culiacán 13 de octubre: el termómetro alcanzará los 35 grados",
+      "url": "https://revistaespejo.com/2026/10/13/clima-culiacan-13-octubre-2026-termometro-alcanzara-35-grados/",
+      "published": "Tue, 13 Oct 2026 16:08:51 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "¿Porqué empresarios de Sinaloa exigen reactivar Jóvenes Construyendo el Futuro? - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUVnZXkxRDRUd1NuYlJHR0ttYkluQjMyQUJLSkVEYTQxSFdtcVNiLTUtNDFSQ1Y0MkhuS1VBMkxka3M4RE9MZGZqOEk4NFZSZXRmeFYyR3F0MGhueVA3dTdhaU4tWWdlZFZwQk9jLW1Ub1FxMm8xQlVESl9HeFF1MGtrSG96MUNlZkFqWTJuV0tNQzN4bjROcGllZGVzTy11Vmw5OWlKRkczczhROVI1dnpnNGs5ZTBKZEE2QVB0ZWhLVkdJdnlRcmJDMzg4SWRqSFFRZTZB?oc=5",
+      "published": "Tue, 13 Oct 2026 17:26:13 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "“No se puede poner en riesgo a los niños”: Sepyc ante crisis eléctrica en kínder de colonia en Guasave",
+      "url": "https://lineadirectaportal.com/sinaloa/no-se-puede-poner-en-riesgo-a-los-ninos-sepyc-ante-crisis-electrica-en-kinder-de-colonia-en-guasave-2026-10-13__1719589",
+      "published": "Tue, 13 Oct 2026 18:52:53 +0000",
+      "source": "Línea Directa (Norte)",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Economía anuncia Capital Feria de Financiamiento en Culiacán y Mazatlán con créditos hechos a la medida",
+      "url": "https://lineadirectaportal.com/sinaloa/economia-anuncia-capital-feria-de-financiamiento-en-culiacan-y-mazatlan-con-creditos-hechos-a-la-medida-2026-10-13__1719630",
+      "published": "Tue, 13 Oct 2026 19:41:37 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "La mayoría de barcos de la flota camaronera de Mazatlán se resguardan ante amenaza de “Simón”",
+      "url": "https://lineadirectaportal.com/sinaloa/la-mayoria-de-barcos-de-la-flota-camaronera-de-mazatlan-se-resguardan-ante-amenaza-de-simon-2026-10-13__1719609",
+      "published": "Tue, 13 Oct 2026 19:15:32 +0000",
+      "source": "Línea Directa (Sur)",
+      "zona": "Sur",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Antorchistas exigen cumplir acuerdos de vivienda y obras establecidos durante el interinato de Yeraldine Bonilla",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/antorchistas-exigen-cumplir-acuerdos-de-vivienda-y-obras-establecidos-durante-el-interinato-de-yeraldine-bonilla-1147767/",
+      "published": "Tue, 13 Oct 2026 19:20:03 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "¿En qué municipios de Sinaloa lloverá hoy 13 de octubre?",
+      "url": "https://www.luznoticias.mx/2026-10-13/sinaloa/en-que-municipios-de-sinaloa-llovera-hoy-13-de-octubre/309581",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Médicos se amparán para no realizar abortos en Sinaloa, informa Salud",
+      "url": "https://cafenegroportal.com/medicos-se-amparan-para-no-realizar-abortos-en-sinaloa-informa-salud/",
+      "published": "Tue, 13 Oct 2026 19:35:54 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Se dará prioridad a rehabilitación del Malecón de Mazatlán, dice Gobernadora Graciela Domínguez",
+      "url": "https://noticiasdigitalessinaloa.mx/sinaloa/se-dara-prioridad-a-rehabilitacion-del-malecon-de-mazatlan-dice-gobernadora-graciela-dominguez/",
+      "published": "Tue, 13 Oct 2026 19:30:16 +0000",
+      "source": "Noticias Digitales Sinaloa",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Simón se aleja de México y otra depresión tropical comienza a formarse: CNPC",
+      "url": "https://sinaloaenlinea.com/simon-se-aleja-de-mexico-y-otra-depresion-tropical-comienza-a-formarse-cnpc/",
+      "published": "Tue, 13 Oct 2026 18:24:43 +0000",
+      "source": "Sinaloa en Línea",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Parte del contrato con el que se adquiere un crÃ©dito de 700 millones de pesos de parte del Gobierno de Sinaloa.(Fotos: Belem Angulo)",
+      "url": "https://www.noroeste.com.mx/culiacan/contrata-gobierno-de-sinaloa-credito-por-700-millones-a-pagar-a-20-anos-HH26472948",
+      "published": "",
+      "source": "Noroeste (Culiacán)",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "La marea alta y el oleaje han ocasionado que el agua del mar inunde avenidas en MazatlÃ¡n.(Fotos: Carlos ZatarÃ¡in)",
+      "url": "https://www.noroeste.com.mx/mazatlan/se-desborda-nuevamente-el-agua-en-el-estero-del-infiernillo-hacia-vialidades-aledanas-PH26472519",
+      "published": "",
+      "source": "Noroeste (Mazatlán)",
+      "zona": "Sur",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Autoridades resguardan la zona donde fue hallado un cuerpo sepultado en campo Romero, Navolato.(Fotos: Noroeste)",
+      "url": "https://www.noroeste.com.mx/seguridad/hallan-cuerpo-sepultado-en-tierras-de-cultivo-del-campo-romero-en-navolato-MH26471683",
+      "published": "",
+      "source": "Noroeste (Seguridad)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Localizan restos humanos en una fosa clandestina en Navolato",
+      "url": "https://riodoce.mx/2026/10/13/localizan-restos-humanos-en-una-fosa-clandestina-en-navolato/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Clima Mazatlán 13 de octubre: permanecen las condiciones de lluvia",
+      "url": "https://revistaespejo.com/2026/10/13/clima-mazatlan-13-octubre-2026-permanecen-condiciones-lluvia/",
+      "published": "Tue, 13 Oct 2026 15:44:53 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Sinaloa busca colocar más de 140 millones de pesos en créditos para empresas en Culiacán y Mazatlán - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYkJhcmo3WHhwbkZhNzFmT2pUNjEzYlhZc3BwQ2I3WWtBZnRsNmhuQlMwMXBKQjhkMnhSWktHNEtHa1RrN0ZhUFhla25MR3A0VGwtTEpNMDV2S29FalhKQ3o4WUxncS1CZV9oMjNlZkRWSFpDQUhWUnBtZ18yRnR5aUc1M0Mxbm1CUGswSDdjWWpOVFVKU3JwM0wyeUNGT2wtVHptQ0N3X3MzdkVOUFN0X2U2ejNIY1QtQ3lyejdUY0hfUTlOTkNxUFZZVE5xYW9Mam9sZ1NITFh2SnJNd2hfTkViTDlaSF9rNTh5S05QYXJYRG8?oc=5",
+      "published": "Tue, 13 Oct 2026 19:25:00 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Topolobampo permanece abierto a la navegación, pero con restricciones para embarcaciones menores",
+      "url": "https://lineadirectaportal.com/sinaloa/topolobampo-permanece-abierto-a-la-navegacion-pero-con-restricciones-para-embarcaciones-menores-2026-10-13__1719556",
+      "published": "Tue, 13 Oct 2026 17:59:29 +0000",
+      "source": "Línea Directa (Norte)",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "IEES ratifica al 72 % de sus consejeros electorales para los comicios de 2027 en Sinaloa",
+      "url": "https://lineadirectaportal.com/sinaloa/iees-ratifica-al-72-de-sus-consejeros-electorales-para-los-comicios-de-2027-en-sinaloa-2026-10-13__1719623",
+      "published": "Tue, 13 Oct 2026 19:35:05 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Fortalecen a Mazatlán con caravana de promoción turística por Sinaloa y Sonora",
+      "url": "https://lineadirectaportal.com/sinaloa/fortalecen-a-mazatlan-con-caravana-de-promocion-turistica-por-sinaloa-y-sonora-2026-10-13__1719582",
+      "published": "Tue, 13 Oct 2026 18:32:48 +0000",
+      "source": "Línea Directa (Sur)",
+      "zona": "Sur",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Sin lluvias ni punto de impacto definido revela PC estatal; así se comporta el huracán ‘Simón’ frente a Sinaloa",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/sin-lluvias-ni-punto-de-impacto-definido-revela-pc-estatal-asi-se-comporta-el-huracan-simon-frente-a-sinaloa-1147753/",
+      "published": "Tue, 13 Oct 2026 19:00:34 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Sinaloa mantiene vigilancia ante cambios en trayectoria de Simón; analizan posible regreso a clases",
+      "url": "https://www.luznoticias.mx/2026-10-13/sinaloa/sinaloa-mantiene-vigilancia-ante-cambios-en-trayectoria-de-simon-analizan-posible-regreso-a-clases/309575",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Rastreadoras localizan cuerpo enterrado en tierras de cultivo",
+      "url": "https://cafenegroportal.com/rastreadoras-localizan-cuerpo-enterrado-en-tierras-de-cultivo/",
+      "published": "Tue, 13 Oct 2026 18:49:24 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Sinaloa registra una baja en homicidios dolosos; se apoyará con un nuevo centro penitenciario en la entidad: Sheinbaum Pardo",
+      "url": "https://noticiasdigitalessinaloa.mx/sinaloa/sinaloa-registra-una-baja-en-homicidios-dolosos-se-apoyara-con-un-nuevo-centro-penitenciario-en-la-entidad-sheinbaum-pardo/",
+      "published": "Tue, 13 Oct 2026 19:26:50 +0000",
+      "source": "Noticias Digitales Sinaloa",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Sinaloa registra una baja en homicidios dolosos; se apoyará con un nuevo centro penitenciario en la entidad: Sheinbaum Pardo",
+      "url": "https://sinaloaenlinea.com/sinaloa-registra-una-baja-en-homicidios-dolosos-se-apoyara-con-un-nuevo-centro-penitenciario-en-la-entidad-sheinbaum-pardo/",
+      "published": "Tue, 13 Oct 2026 18:04:18 +0000",
+      "source": "Sinaloa en Línea",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "La Secundaria SimÃ³n BolÃ­var, en Navolato, celebra sus 50 aÃ±os de historia.(Fotos: Diana SÃ¡nchez)",
+      "url": "https://www.noroeste.com.mx/culiacan/secundaria-simon-bolivar-de-navolato-celebra-su-50-aniversario-rodeado-de-alumnos-y-ex-alumnos-NH26472834",
+      "published": "",
+      "source": "Noroeste (Culiacán)",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "La Gobernadora de Sinaloa Graciela DomÃ­nguez Nava en la reuniÃ³n de ProtecciÃ³n Civil.(Foto: CNPC)",
+      "url": "https://www.noroeste.com.mx/mazatlan/afirma-gobernadora-que-se-mantendra-el-monitoreo-y-vigilancia-del-huracan-simon-y-se-reanudaran-las-clases-FH26471235",
+      "published": "",
+      "source": "Noroeste (Mazatlán)",
+      "zona": "Sur",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Incendio en conocida carnicerÃ­a del centro deja miles de pesos en daÃ±os materiales y moviliza a rescatistas.(Fotos: CortesÃ­a)",
+      "url": "https://www.noroeste.com.mx/seguridad/incendio-arrasa-con-mobiliario-de-una-carniceria-en-el-centro-de-los-mochis-KH26471218",
+      "published": "",
+      "source": "Noroeste (Seguridad)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Asesinan a maestro a balazos dentro de una secundaria en Oaxaca",
+      "url": "https://riodoce.mx/2026/10/13/asesinan-a-maestro-a-balazos-dentro-de-una-secundaria-en-oaxaca/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Clima Sinaloa: Continua alerta por Huracán Simon, dejará lluvias hoy martes 13 de octubre",
+      "url": "https://revistaespejo.com/2026/10/13/clima-sinaloa-continua-alerta-por-huracan-simon-dejara-lluvias-hoy-martes-13-de-octubre/",
+      "published": "Tue, 13 Oct 2026 14:29:42 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Subsidio de luz iniciará en abril de 2027 en Sinaloa; hay certeza, afirma gobernadora",
+      "url": "https://lineadirectaportal.com/sinaloa/subsidio-de-luz-iniciara-en-abril-de-2027-en-sinaloa-hay-certeza-afirma-gobernadora-2026-10-13__1719514",
+      "published": "Tue, 13 Oct 2026 17:10:43 +0000",
+      "source": "Línea Directa (Norte)",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Bomberos de Guamúchil busca reunir 400 mil pesos en colecta anual; su gasto supera los 2.6 mdp",
+      "url": "https://lineadirectaportal.com/sinaloa/bomberos-de-guamuchil-busca-reunir-400-mil-pesos-en-colecta-anual-su-gasto-supera-los-2-6-mdp-2026-10-13__1719601",
+      "published": "Tue, 13 Oct 2026 19:13:51 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "El huracán Simón se “estaciona” y se prevén 2 días de calma ante un fenómeno que se debilita: PC",
+      "url": "https://lineadirectaportal.com/sinaloa/el-huracan-simon-se-estaciona-y-se-preven-2-dias-de-calma-ante-un-fenomeno-que-se-debilita-pc-2026-10-13__1719534",
+      "published": "Tue, 13 Oct 2026 17:59:39 +0000",
+      "source": "Línea Directa (Sur)",
+      "zona": "Sur",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "¡Regresan a clases en el sur de Sinaloa! Por instrucción de gobernadora Graciela Domínguez, SEPyC levanta suspensión por huracán Simón",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/regresan-a-clases-en-el-sur-de-sinaloa-por-instruccion-de-gobernadora-graciela-dominguez-sepyc-levanta-suspension-por-huracan-simon-1147697/",
+      "published": "Tue, 13 Oct 2026 17:54:54 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Huracán Simón sigue cambiando de trayectoria y apunta hacia Hermosillo, Sonora",
+      "url": "https://www.luznoticias.mx/2026-10-13/mexico/huracan-simon-sigue-cambiando-de-trayectoria-y-apunta-hacia-hermosillo-sonora/309557",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Diputado del PVEM reclama falta de comunicación con el Gobierno de Sinaloa y exige cuentas sobre obras públicas",
+      "url": "https://cafenegroportal.com/diputado-del-pvem-reclama-falta-de-comunicacion-con-el-gobierno-de-sinaloa-y-exige-cuentas-sobre-obras-publicas/",
+      "published": "Tue, 13 Oct 2026 18:40:12 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Ejército Mexicano asegura armas, cargadores y cartuchos",
+      "url": "https://noticiasdigitalessinaloa.mx/blog/ejercito-mexicano-asegura-armas-cargadores-y-cartuchos/",
+      "published": "Tue, 13 Oct 2026 19:25:25 +0000",
+      "source": "Noticias Digitales Sinaloa",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Simón permanecerá estacionado dos días más; analizan reanudar clases en Sinaloa",
+      "url": "https://sinaloaenlinea.com/simon-permanecera-estacionado-dos-dias-mas-analizan-reanudar-clases-en-sinaloa/",
+      "published": "Tue, 13 Oct 2026 17:58:03 +0000",
+      "source": "Sinaloa en Línea",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "MarÃ­a LucÃ­a Bedoya, doctora especializada en trastornos del neurodesarrollo, anuncia su intenciÃ³n de representar a Morena en el Distrito 05 federal.(Foto: CortesÃ­a)",
+      "url": "https://www.noroeste.com.mx/culiacan/maria-lucia-bedoya-busca-representar-al-distrito-5-federal-por-morena-DH26472753",
+      "published": "",
+      "source": "Noroeste (Culiacán)",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Autoridades arriban a la Cuarta RegiÃ³n Naval, en MazatlÃ¡n, para evaluar la trayectoria del huracÃ¡n SimÃ³n y sus efectos en Sinaloa.(Foto: Carlos ZatarÃ¡in)",
+      "url": "https://www.noroeste.com.mx/mazatlan/encabezan-gobernadora-y-coordinadora-nacional-de-proteccion-civil-en-mazatlan-reunion-por-huracan-simon-CG26465171",
+      "published": "",
+      "source": "Noroeste (Mazatlán)",
+      "zona": "Sur",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "La FiscalÃ­a Sinaloa activÃ³ los protocolos de bÃºsqueda para la localizaciÃ³n de dos adolescentes desaparecidos en MazatlÃ¡n.(Foto: FGE)",
+      "url": "https://www.noroeste.com.mx/seguridad/activa-fge-alerta-amber-por-dos-adolescentes-desaparecidos-en-mazatlan-LG26469882",
+      "published": "",
+      "source": "Noroeste (Seguridad)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Presenta el PAN  ‘CuidaVoto’ en Sinaloa para impedir fraudes en el proceso electoral de 2027",
+      "url": "https://riodoce.mx/2026/10/13/presenta-el-pan-cuidavoto-en-sinaloa-para-impedir-fraudes-en-el-proceso-electoral-de-2027/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Huracán “Simón”, otra amenaza para Sinaloa ya devastado por la violencia",
+      "url": "https://revistaespejo.com/2026/10/13/huracan-simon-otra-amenaza-para-sinaloa-ya-devastado-por-la-violencia/",
+      "published": "Tue, 13 Oct 2026 12:57:36 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Convocan a manifestación pacífica para exigir justicia por María Fernanda y su bebé en Los Mochis",
+      "url": "https://lineadirectaportal.com/sinaloa/convocan-a-manifestacion-pacifica-para-exigir-justicia-por-maria-fernanda-y-su-bebe-en-los-mochis-2026-10-13__1719429",
+      "published": "Tue, 13 Oct 2026 14:29:11 +0000",
+      "source": "Línea Directa (Norte)",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Empresarios de Culiacán piden reactivar el programa Jóvenes Construyendo el Futuro en Sinaloa",
+      "url": "https://lineadirectaportal.com/sinaloa/empresarios-de-culiacan-piden-reactivar-el-programa-jovenes-construyendo-el-futuro-en-sinaloa-2026-10-13__1719590",
+      "published": "Tue, 13 Oct 2026 18:54:10 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "¡Sí hay clases este martes por la tarde! Sepyc reanuda actividades en turno vespertino tras mejorar el clima",
+      "url": "https://lineadirectaportal.com/sinaloa/si-hay-clases-este-martes-por-la-tarde-sepyc-reanuda-actividades-en-turno-vespertino-tras-mejorar-el-clima-2026-10-13__1719542",
+      "published": "Tue, 13 Oct 2026 17:42:08 +0000",
+      "source": "Línea Directa (Sur)",
+      "zona": "Sur",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Derechohabiente del IMSS en Guasave, clausura simbólicamente la instalación por inoperante; lleva tres años esperando cirugía",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/derechohabiente-del-imss-en-guasave-clausura-simbolicamente-la-instalacion-por-inoperante-lleva-tres-anos-esperando-cirugia-1147677/",
+      "published": "Tue, 13 Oct 2026 17:35:30 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Liberación de líder criminal provocó riña entre integrantes de una misma facción en el Penal de Mazatlán",
+      "url": "https://www.luznoticias.mx/2026-10-13/sinaloa/liberacion-de-lider-criminal-provoco-rina-entre-integrantes-de-una-misma-faccion-en-el-penal-de-mazatlan/309562",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "PAN Culiacán lanza programa “Cuida tu Voto” y busca integrar 5,900 representantes de casilla",
+      "url": "https://cafenegroportal.com/pan-culiacan-lanza-programa-cuida-tu-voto-y-busca-integrar-5900-representantes-de-casilla/",
+      "published": "Tue, 13 Oct 2026 17:24:38 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "En Escuinapa, Grupo Interinstitucional detiene a 3 civiles armados tras persecución",
+      "url": "https://noticiasdigitalessinaloa.mx/policiaca/en-escuinapa-grupo-interinstitucional-detiene-a-3-civiles-armados-tras-persecucion/",
+      "published": "Tue, 13 Oct 2026 19:16:00 +0000",
+      "source": "Noticias Digitales Sinaloa",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "En el blanco por Fernando Zepeda H.",
+      "url": "https://sinaloaenlinea.com/en-el-blanco-por-fernando-zepeda-h-626/",
+      "published": "Tue, 13 Oct 2026 15:11:54 +0000",
+      "source": "Sinaloa en Línea",
+      "zona": "Sur",
+      "tipo": "Digital"
+    },
+    {
+      "title": "RaÃºl OlivarrÃ­a UrÃ­as aspira a encabezar a Morena en Eldorado.",
+      "url": "https://www.noroeste.com.mx/culiacan/apela-raul-olivarria-a-sus-32-anos-de-lucha-por-eldorado-DH26471750",
       "published": "",
       "source": "Noroeste (Culiacán)",
       "zona": "Centro",
@@ -18,24 +682,72 @@
       "tipo": "Impreso"
     },
     {
-      "title": "Lluvias moderadas se registraron en Escuinapa la tarde-noche de este lunes.(Fotos: Carolina Tiznado)",
-      "url": "https://www.noroeste.com.mx/elsur/se-registran-lluvias-moderadas-este-lunes-en-escuinapa-JF26458320",
-      "published": "",
-      "source": "Noroeste (El Sur)",
-      "zona": "Sur",
-      "tipo": "Impreso"
-    },
-    {
-      "title": "Los tres detenidos y los indicios asegurados fueron puestos a disposiciÃ³n de la autoridad(Fotos: FGE)",
-      "url": "https://www.noroeste.com.mx/seguridad/detienen-a-tres-motociclistas-armados-tras-persecucion-en-colonia-pueblo-nuevo-en-escuinapa-KF26459407",
+      "title": "Agentes de seguridad resguardan la camioneta Jeep recuperada sobre la carretera a Cerritos, MazatlÃ¡n.(Foto: SSPM)",
+      "url": "https://www.noroeste.com.mx/seguridad/detienen-a-dos-hombres-con-camioneta-robada-en-la-carretera-a-cerritos-en-mazatlan-CG26468497",
       "published": "",
       "source": "Noroeste (Seguridad)",
       "zona": "Sinaloa",
       "tipo": "Impreso"
     },
     {
-      "title": "La suspensiÃ³n aplicarÃ¡ en ambos turnos, matutino y vespertino, en los municipios de Elota, CosalÃ¡, San Ignacio, Concordia, Rosario, MazatlÃ¡n y Escuinapa.(Foto: SEPyC)",
-      "url": "https://www.noroeste.com.mx/culiacan/sepyc-mantiene-suspension-de-clases-en-siete-municipios-del-sur-de-sinaloa-FF26458692",
+      "title": "Huracán ‘Simón’ cambia su trayectoria y se aleja de las costas de Sinaloa",
+      "url": "https://riodoce.mx/2026/10/13/huracan-simon-cambia-su-trayectoria-y-se-aleja-de-las-costas-de-sinaloa/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Secretaría de Economía de Sinaloa filtró datos a particulares sobre solicitud de información",
+      "url": "https://revistaespejo.com/2026/10/13/sinaloa-investigan-filtracion-datos-periodista-secretaria-economia/",
+      "published": "Tue, 13 Oct 2026 10:44:27 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Buscan fortalecer la investigación: la UAS anuncia nuevos posgrados en Educación Física y Deporte",
+      "url": "https://lineadirectaportal.com/sinaloa/buscan-fortalecer-la-investigacion-la-uas-anuncia-nuevos-posgrados-en-educacion-fisica-y-deporte-2026-10-13__1719559",
+      "published": "Tue, 13 Oct 2026 18:04:10 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Subsidio de luz iniciará en abril de 2027 en Sinaloa; hay certeza, afirma gobernadora",
+      "url": "https://lineadirectaportal.com/sinaloa/subsidio-de-luz-iniciara-en-abril-de-2027-en-sinaloa-hay-certeza-afirma-gobernadora-2026-10-13__1719514",
+      "published": "Tue, 13 Oct 2026 17:10:43 +0000",
+      "source": "Línea Directa (Sur)",
+      "zona": "Sur",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "VIDEO | Captan cocodrilo en el Canal Recursos Hidráulicos, en Culiacán, Sinaloa",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/video-captan-cocodrilo-en-el-canal-recursos-hidraulicos-en-culiacan-sinaloa-1147625/",
+      "published": "Tue, 13 Oct 2026 15:50:37 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Feliciano Castro: \"Morena se arriesga a perder si reduce sus candidaturas solo a las encuestas\"",
+      "url": "https://www.luznoticias.mx/2026-10-13/politica/feliciano-castro-morena-se-arriesga-a-perder-si-reduce-sus-candidaturas-solo-a-las-encuestas/309561",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Con acreditaciones de calidad y un rally deportivo, la Facultad de Trabajo Social de la UAS celebra 61 años de trayectoria académica",
+      "url": "https://cafenegroportal.com/con-acreditaciones-de-calidad-y-un-rally-deportivo-la-facultad-de-trabajo-social-de-la-uas-celebra-61-anos-de-trayectoria-academica/",
+      "published": "Tue, 13 Oct 2026 15:33:04 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "La SecretarÃ­a de EducaciÃ³n PÃºblica en Sinaloa reporta que las clases en el sur de Sinaloa se reanudan para el turno vespertino.(Foto: SEPyC)",
+      "url": "https://www.noroeste.com.mx/culiacan/reanudan-clases-vespertinas-en-siete-municipios-de-sinaloa-OG26469645",
       "published": "",
       "source": "Noroeste (Culiacán)",
       "zona": "Centro",
@@ -50,34 +762,322 @@
       "tipo": "Impreso"
     },
     {
-      "title": "Las dos mujeres y uno de los hombres perdiÃ³ la vida en el lugar de los hechos, mientras que la cuarta vÃ­ctima fue trasladada hacia un hospital.(Fotos: Noroeste)",
-      "url": "https://www.noroeste.com.mx/seguridad/dos-mujeres-y-dos-hombres-muertos-deja-ataque-a-tiros-en-el-vallado-viejo-en-culiacan-OF26459263",
+      "title": "MÃºltiples impactos de arma de fuego afectaron la fachada del inmueble tras la agresiÃ³n armada.(Fotos: Noroeste)",
+      "url": "https://www.noroeste.com.mx/seguridad/atacan-a-balazos-un-inmueble-en-la-colonia-miguel-hidalgo-en-culiacan-CG26467621",
       "published": "",
       "source": "Noroeste (Seguridad)",
       "zona": "Sinaloa",
       "tipo": "Impreso"
     },
     {
-      "title": "Largas filas de personas llevaban atÃºn, papel higiÃ©nico y sopas instantÃ¡neas, entre otro artÃ­culos.(Fotos:)",
-      "url": "https://www.noroeste.com.mx/mazatlan/familias-en-mazatlan-se-alistan-comprando-viveres-ante-la-cercania-del-huracan-simon-AF26458459",
+      "title": "Data Centers la especialización industrial del futuro en México",
+      "url": "https://riodoce.mx/2026/10/13/data-centers-la-especializacion-industrial-del-futuro-en-mexico/",
       "published": "",
-      "source": "Noroeste (Mazatlán)",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Vuelve a caer cifra de pasajeros a Mazatlán conforme la violencia arrecia en el puerto",
+      "url": "https://revistaespejo.com/2026/10/13/vuelve-a-caer-cifra-de-pasajeros-a-mazatlan-conforme-la-violencia-arrecia-en-el-puerto/",
+      "published": "Tue, 13 Oct 2026 10:44:25 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Posponen la Carrera de la Salud 2026 por pronóstico del huracán Simón en Culiacán",
+      "url": "https://lineadirectaportal.com/sinaloa/posponen-la-carrera-de-la-salud-2026-por-pronostico-del-huracan-simon-en-culiacan-2026-10-13__1719535",
+      "published": "Tue, 13 Oct 2026 17:34:01 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Liberación de líder dentro del penal de El Castillo en Mazatlán desató las riñas: García Harfuch",
+      "url": "https://lineadirectaportal.com/sinaloa/liberacion-de-lider-dentro-del-penal-de-el-castillo-en-mazatlan-desato-las-rinas-garcia-harfuch-2026-10-13__1719457",
+      "published": "Tue, 13 Oct 2026 15:13:43 +0000",
+      "source": "Línea Directa (Sur)",
       "zona": "Sur",
-      "tipo": "Impreso"
+      "tipo": "Radio/digital"
     },
     {
-      "title": "La agresiÃ³n armada se reportÃ³ en el cruce de la calle Chihuahua y la avenida El DelfÃ­n de la Francisco Villa.(Fotos: Noroeste)",
-      "url": "https://www.noroeste.com.mx/seguridad/con-disparos-atacan-a-motociclista-afuera-de-una-llantera-del-fraccionamiento-chulavista-en-mazatlan-MF26459104",
+      "title": "Se viene la edición 2026 del Motor Fest en el Pueblo Mágico de El Fuerte",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/se-viene-la-edicion-2026-del-motor-fest-en-el-pueblo-magico-de-el-fuerte-1147602/",
+      "published": "Tue, 13 Oct 2026 14:58:37 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Secretaría de Seguridad recupera automóvil robado en CuliacánLa Policía Estatal recuperó un automóvil robado en Culiacán tras un operativo.Policiaca",
+      "url": "https://www.luznoticias.mx/2026-10-13/policiaca/secretaria-de-seguridad-recupera-automovil-robado-en-culiacan/309610",
       "published": "",
-      "source": "Noroeste (Seguridad)",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Cabildo autoriza donar 2 terrenos al Gobierno de México para construir 2 planteles del Bachiller Margarita Maza en Los Mochis",
+      "url": "https://cafenegroportal.com/cabildo-autoriza-donar-2-terrenos-al-gobierno-de-mexico-para-construir-2-planteles-del-bachiller-margarita-maza-en-los-mochis/",
+      "published": "Tue, 13 Oct 2026 14:32:41 +0000",
+      "source": "Café Negro",
+      "zona": "Centro",
+      "tipo": "Digital"
+    },
+    {
+      "title": "Insólito: con todo el poder, Madueña socava al PAS",
+      "url": "https://riodoce.mx/2026/10/13/insolito-con-todo-el-poder-maduena-socava-al-pas/",
+      "published": "",
+      "source": "Ríodoce",
       "zona": "Sinaloa",
       "tipo": "Impreso"
     },
     {
-      "title": "La casa se ubica sobre la avenida Juan Pablo II muy cerca de la Secundaria General NÃºmero 2 y la Preparatoria JosÃ© C. Vasconcelos.(Fotos: Noroeste)",
-      "url": "https://www.noroeste.com.mx/seguridad/balean-porton-de-una-casa-sobre-la-avenida-juan-pablo-ii-en-la-colonia-20-de-noviembre-en-mazatlan-DF26458209",
+      "title": "Alertas antes de los 12 muertos: las fallas documentadas en el penal de Mazatlán",
+      "url": "https://revistaespejo.com/2026/10/13/alertas-antes-de-los-12-muertos-las-fallas-documentadas-en-el-penal-de-mazatlan/",
+      "published": "Tue, 13 Oct 2026 10:20:57 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Presa Sanalona llega al 75.6% de su capacidad de almacenamiento - Debate",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVUteEpsR2I2V3RDWmVYdjM3VlktRllyVUdHUzNYUFdFZFgzTXhNNlRNWVBWV1o1WEVETVFldUQxVTVMV0ZacWgzNjNZamdfUVNjaWFkMXJDXzQwajJ6M3JObEhtZHpMeUlfdXVMV0tNNzJmX19QcnIyQUhPYURobW9XcUQ1NnUtNUtteE13QlpySnZ5WjRvZW05QnN2TXp0TThnMnViT0Zvd0RsSDZlUFBBMkQzS0ZxNXA3a2U5RnMxZw?oc=5",
+      "published": "Tue, 13 Oct 2026 18:17:07 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "SSPyTM alerta sobre cruceros peligrosos en Culiacán durante las lluvias ¡No pases por ahí!",
+      "url": "https://lineadirectaportal.com/sinaloa/sspytm-alerta-sobre-cruceros-peligrosos-en-culiacan-durante-las-lluvias-no-pases-por-ahi-2026-10-13__1719518",
+      "published": "Tue, 13 Oct 2026 17:13:54 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Sinaloa alberga cerca de 300 jaguares; Sebides reforzará su protección",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/sinaloa-alberga-cerca-de-300-jaguares-sebides-reforzara-su-proteccion-1147598/",
+      "published": "Tue, 13 Oct 2026 14:47:04 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Aleks Syntek pospone su gira por Europa por \"trastorno psicótico no especificado\"",
+      "url": "https://www.luznoticias.mx/2026-10-13/espectaculos/aleks-syntek-pospone-su-gira-por-europa-por-trastorno-psicotico-no-especificado/309619",
       "published": "",
-      "source": "Noroeste (Seguridad)",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "El futuro en el grifo: no tener agua… tener agua apestosa",
+      "url": "https://riodoce.mx/2026/10/13/el-futuro-en-el-grifo-no-tener-agua-tener-agua-apestosa/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Simón pone la mira en el sur de Sinaloa; Mazatlán se prepara para las inundaciones",
+      "url": "https://revistaespejo.com/2026/10/13/simon-pone-la-mira-en-el-sur-de-sinaloa-mazatlan-se-prepara-para-las-inundaciones/",
+      "published": "Tue, 13 Oct 2026 10:19:05 +0000",
+      "source": "Revista Espejo",
+      "zona": "Centro",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Escalada de violencia en Culiacán: Balean vivienda con rifles de alto poder en la colonia Miguel Hidalgo - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeXcwY1NxUGZEVjFHcGV5OFZOZFZtdVFKVkJOZjM0TnF6ekVEY1J4dTdveWNDWkxxNUQybGFjckFfNVloOXVfN2I2N1NHeEtXTTZzNnVwYVpma0ZSRTk3VUlxYmpnMllIM21qTEJFQWQ2eGVOOU84MDE1STdUc2gyNFBNS2VZZ2oxU0RnYVc0LUU0WkJDRlJ2cW10ZVk1WWwzMG1sYjVYVmphVGg2b2V2OTJ5aVRrVm1XWlZQU1dQVFR5OVVNbVU4dFJ1S25VM3FCbGdqT2xHczh1MTRENTFHTHdvYllSbHFnXzlGakdQMjhsazJOY0NtQjVn?oc=5",
+      "published": "Tue, 13 Oct 2026 16:46:54 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Subsidio de luz iniciará en abril de 2027 en Sinaloa; hay certeza, afirma gobernadora",
+      "url": "https://lineadirectaportal.com/sinaloa/subsidio-de-luz-iniciara-en-abril-de-2027-en-sinaloa-hay-certeza-afirma-gobernadora-2026-10-13__1719514",
+      "published": "Tue, 13 Oct 2026 17:10:43 +0000",
+      "source": "Línea Directa (Centro)",
+      "zona": "Centro",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "¡Fuera palmas secas y ramas peligrosas! Mazatlán, Sinaloa acelera limpieza ante el huracán Simón",
+      "url": "https://losnoticieristas.com/sinaloa/2026/10/fuera-palmas-secas-y-ramas-peligrosas-mazatlan-sinaloa-acelera-limpieza-ante-el-huracan-simon-1147571/",
+      "published": "Tue, 13 Oct 2026 14:01:29 +0000",
+      "source": "Los Noticieristas",
+      "zona": "Sinaloa",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Honda probará en Japón una carretera que carga autos eléctricos mientras circulan",
+      "url": "https://www.luznoticias.mx/2026-10-13/tecnologia/honda-probara-en-japon-una-carretera-que-carga-autos-electricos-mientras-circulan/309616",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Kany García se presentará en Los Mochis con su gira Puerta Abierta Tour 2026",
+      "url": "https://www.luznoticias.mx/2026-10-13/sinaloa/kany-garcia-se-presentara-en-los-mochis-con-su-gira-puerta-abierta-tour-2026/309614",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Culiacán activa centro de emergencias y 25 refugios ante posible impacto del huracán Simón - www.debate.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZGk3ZkN1RmFydTRQM3dQTzlkdzJPVlJkRjlSSVlWMzgzNW8ydXhhemh3aDNMMmU3UzlOb09zT2dHdmVNM21EUVBEZE0yQV9vbEZxOWRXYThPbV9PQV9ESHpMaG5aQXN5dVI3ejA4amRFbXdmUHduNDdrUlZ2V08xMjhLWGlva1o0OTB1RFdlWFdIMjJZWlR3SElIT0c1a2RFbTlNdzFMTUtwQndaSFB6aFotRHc3QjhTaEp3d0VUMHVmMVB1ckduVGh5ZTNVdkRJLTE5dmFaN0c3U3VFWXNBbHNPTlVmWUk?oc=5",
+      "published": "Tue, 13 Oct 2026 19:26:31 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "LMP: Manny Barreda abrirá por Tomateros en juego inaugural en Culiacán",
+      "url": "https://www.luznoticias.mx/2026-10-13/deportes/lmp-manny-barreda-abrira-por-tomateros-en-juego-inaugural-en-culiacan/309613",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Reanudan clases presenciales este martes en siete municipios de Sinaloa",
+      "url": "https://riodoce.mx/2026/10/13/reanudan-clases-presenciales-este-martes-en-siete-municipios-de-sinaloa/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Paola Gárate rechaza números de Imelda Castro y niega ventaja de Morena en Sinaloa",
+      "url": "https://www.luznoticias.mx/2026-10-13/politica/paola-garate-rechaza-numeros-de-imelda-castro-y-niega-ventaja-de-morena-en-sinaloa/309612",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Feliciano Castro descarta la alcaldía de Guasave y buscaría diputación local",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlU2OGhyWmFzRWRTcER4QkF6MkRLWFczRFhIeUVRNGRTVUNJUmlQc1FlLS1WenFRbGhuWWZ4TkZhem0tMmU5d3BzWnpTZHNBTTY2czRHYXF4MW5DaXM5RzM1dkhZME9xNVdpdkVqWmFJaURIZGtjNllOYThBQTlINjFpTzJGWVJzSW9La3Q0VlRmand0NGNPN2pRcmR1MzFFSFFvT1h5THdrMGZSLTllUV9MaV9kRU0zLXpQdExtUDVfV2M?oc=5",
+      "published": "Tue, 13 Oct 2026 18:27:17 GMT",
+      "source": "El Sol de Sinaloa/Mazatlán (OEM, vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Informa Harfuch que riña en El Castillo ocurrió tras liberación de un miembro de los ‘Chapitos’",
+      "url": "https://riodoce.mx/2026/10/13/informa-harfuch-que-rina-en-el-castillo-ocurrio-tras-liberacion-de-un-miembro-de-los-chapitos/",
+      "published": "",
+      "source": "Ríodoce",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "¿Cuántos kilos de pan consumen los mexicanos al año?",
+      "url": "https://www.luznoticias.mx/2026-10-13/mexico/cuantos-kilos-de-pan-consumen-los-mexicanos-al-ano/309615",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Eneyda Rocha Ruiz acumula 112 días sin actos públicos en Sinaloa - Debate",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjVKQ3B6cnJDM0dvd09IWW9Nd256MTRHVU9LUHVEMzkwMWExRGJuVmJyX1ZUWnJQSjBaT0c5RmVOYUQ4QlpyNzdtQTNaUV9xSElLeS0zeDFxUlNfQ2JoMTFVX0xoUWR6SXcwOEU0QUU3OE1jRlJlVUZTNEx0YV9MN2FDQnVhaVE4Y1hEUFR2LU1vTkh5ejFQaUNDVi14U05oeEZ3U2lEc3FtVG8yZEVabTd0OEVibzFOVTlRZkpXYlZKSWpW?oc=5",
+      "published": "Tue, 13 Oct 2026 15:45:00 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Construcción de un nuevo penal no es la solución para el problema de las cárceles en Sinaloa: PRI",
+      "url": "https://www.luznoticias.mx/2026-10-13/politica/construccion-de-un-nuevo-penal-no-es-la-solucion-para-el-problema-de-las-carceles-en-sinaloa-pri/309603",
+      "published": "",
+      "source": "Luz Noticias",
+      "zona": "Norte",
+      "tipo": "Radio/digital"
+    },
+    {
+      "title": "Mando, violencia y control: La respuesta federal tras la tragedia en el penal de Mazatlán - www.debate.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSlpuMXNWVUY0TWpyZ19sTE13b1ZqSTVjZ0plUVVfS3dmWE9HSFJwTG54QnFpVEZkVmhCTHd5ejVQQnV1UEdVYzh0Z21rcWpMT283eDBTa3podDRYQmJsQXNBNkdNVTI2WEVMelZtMnA4TFlUR241LTYyeXZVR1BKd0tlX0JyU1V2ZUhVeldMSE9uNmZQLTZ5SW5OOXN4RW43a2dCOHpPQ19NdzJVaEd3emtXcmlObEV1QjNwanQxWWRiOWNkUzhlaXZqT1l3cVl3TGktYVJZSnNTNjZRd3VCdFBwQQ?oc=5",
+      "published": "Tue, 13 Oct 2026 14:57:41 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Pronóstico del clima en Mazatlán hoy 13 de octubre de 2026 - Debate",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDZKSHFWcFhPSlZuTmxFZUZvQ0h3ZkJ4aWQ0UnpWNnFyekFUempEcDVaaGJSOVlDU05Xak1lRUpyNDNwNFVkb3dQbF9BbDRZaldteTlZSG9qZnpnQ1ZwbkxUNTFCejhNVk00aWlmVFA0NTk3b3hxU0lIY0tMVU1hTDNJekE0Sm1Nd2NhVjBucTcxUGdkb09vWHBnZmdzVFJ0YjBvT2tKX2V3NF8teFE?oc=5",
+      "published": "Tue, 13 Oct 2026 10:45:31 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Se mantiene la coordinación interinstitucional en Mazatlán ante el paso del huracán Simon - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQXZWOFZyTk01MGEtWjBRWUxYdWYtR2ctWXZ1bTRWQS1zLW1oLU15NVFEZnM0SGk0Tl9HUXFqZ1BieVJxdkhlcTZBSUQxelAwNkgwcE9ZQVllTjMzcEJXM0Q5OWZuaVI1c1lPanJXdkl0ZDVKaEZIZjNEcHJZRVBMNXdJbzBUY3ZuZU04dGtCbWxCVGc3c3B6X01nMHk2ZFctY1g4ZFFmaHk4MnFzSFQ4bW5iWWhlbWZaRF94QUdrY2tEOVVVTlVkaGFZdDY4TkZsUEk0TWMzNWFkQmI4aW51N1JQMHdUUQ?oc=5",
+      "published": "Tue, 13 Oct 2026 18:16:25 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Discovery Princess arriba a Mazatlán; evalúan su salida ante remanentes del huracán Simon - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdkZOMmFXd0dySjFoOGgzY0RUVDFfaEpLanUxWTNkbVBFT1VZRWp3cWR2ZEQyY0xDUWRtdUZpWmZ1bkxBTHJWMGFRYzV6dTB3NWxVR3hhSUJsNy1uN1BpQ3FVTHFMdEpyQjBoRF9vdFhra3RYM0hjV0c2eWJkR0RzMS1lV3k2dXh5enVTdS1uaFdBUURmcUl1T0w1RlUxMk0yUmdYLUhxUnJUWEprY2htVko1b2xaR2dKdzRCZFJLUExjenhpQlgtSk9VUnNqbXhVaXRfZFl0Q2NiYWl2d1pWR2g1WjQ?oc=5",
+      "published": "Tue, 13 Oct 2026 19:03:21 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Huracán Simon de categoría 1: Trayectoria y afectaciones previstas en Sinaloa - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeUNSY3VJQnZxR0tCZXc1cEgtRkNBREdSU25sTmxPVHdsb2hjUWxJMjN0aVV6aUt1Y3d1UmxvVW05T1R2YmRlLWFXUm5NYzliSDY5TlJCMEZET056R19XXzZjN1RuY3FmNGRSUko4V00ydzFlSTR4ZUx2S3dlMHZ5Slc1VEJLbjJkZkFhTDZNaHVKREVLR2JwWVJfTHpHUWlKMi1EcXNzWkpBN0hGS09nb1Npakl1bXJ5NnN5eXlieV95UTRXbWJKcVVqQ1Z4RzhsYzdtTg?oc=5",
+      "published": "Tue, 13 Oct 2026 13:42:11 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Arribo del crucero Discovery Princess impulsa el turismo y la economía en Mazatlán - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWjRyZzVSRjRyS3lITnpFX0JUdnlQTzRnV18xdERZTk5QTnFIQjJ2Q2wwc2I2SkZhVk1Xd0JhT3RKZ2xQck5Xck1yRkJ6VGNFazNFMC1iNWRJbFk3am9nTEtJdmZRUTlwY09tdGhHeWxkdHU3R2tQVlJQX2pqMGdNZkVWWFBOTENIS2lBelhmeWRPcDdvWjNRWEJRR3ZlYzVQMjJzZTZRQ1pxWlRwWi1ZRVhycXBVaHFpdHBMdzB4QnhmVTc5Nk1LRmVHZlFIdDBpTlA0MWNhUzh6SHBr?oc=5",
+      "published": "Tue, 13 Oct 2026 18:34:11 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Concluye con éxito el Programa de Atención Médica de la Secretaría de Marina en el sur de Sinaloa - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTi13TjNmYWtPQmNUdVlCWTFZRTEtSXRydkpJSDJQcG1nZm56N21IUUJQanF6RWVsTWVRWTB0R2MxY21aWGJfSVpwRWZnSXRoYkF6X3FfWXNITW5mN0hFTWk0X2RRS0VlSUZnUzExdGZFQkgzc1FkSEM3LXozUUVuc1JNVThiTUZIVmpCbXNEdTlYVy1DbElaNFBBVjdaNUMzWjd1MGlsLWxXcWFsVHBwZnV1MDdYalU3UXBmRk9QMjBaMDUxMjlmWVAwZEZKcW13UGx4cGl4SVVPOWc0OGdhT3YzamVmd1FKYVFRc2I3ZFI?oc=5",
+      "published": "Tue, 13 Oct 2026 18:24:23 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "García Harfuch revela el verdadero detonante tras la riña en el penal de Mazatlán que dejó 12 muertos - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzBiNldPZ19UODJxWHRMVWdSMGhCWlZJVjFORVJxQm0yRDVKcU5DM005b1BUY2NuTzFvalBBZldUUERXYzFqNEtXRF9fWTlMcHd1SmFBdk5QWmpWUDhmbi1pVExvbmlxTWJBRU1OZE8wSmJPc21kWFphZVA4Rlh0YVB6ZHVZSV9nVTdicVdKdFE2UFFDd0xWTHhtMm1YcjR1NExtRFM3Vi1vSmNiNTExRmRYLWtZNU5JdW93dXFSUERHQUh4ajIzcWpOY3BDaDVObGhaVWV1bDB2aGNReEJ0WmhzWVhQWXdodGJV?oc=5",
+      "published": "Tue, 13 Oct 2026 15:50:05 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Mazatlán retoma sus actividades mientras el huracán Simon se aleja - Debate",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2hnT2FDeENMNER3VERmQkwybTFwRlZMWnlNaUpPek1SZWl3YzYzRjc4OURzd2dVN19kSEZyandWYmxxT3ptUl92S0VVbng3Sk11aG9PM3BidjlpQ29fT3VVZFRUdE1JcUpaQndYMDZ0UERXd0NTZWQyWEpiemgyRkNGZno2d21WVDQ3UEdpVm9iOTZWWEQ3Nl9xTnRvSHR1NnYySHYwX1Rqb0lVUjRZa09GYXJFVjlPZzBXbkk5WG9LdzZ3bUM0?oc=5",
+      "published": "Tue, 13 Oct 2026 16:12:58 GMT",
+      "source": "El Debate (vía Google News)",
+      "zona": "Sinaloa",
+      "tipo": "Impreso"
+    },
+    {
+      "title": "Graciela Domínguez supervisa daños en el malecón de Mazatlán; hay seis socavones - Debate",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLW5UVUc3WXF1RTJiaFFLSGJsQmNjdzNwekxYM01HOVpLTmZCUFlkN1J1VzJrQm1fN0VUX2lVOWhKRV9Xa3dmanE5ODk2NFlqbGJwbnlLU0VDaEE5cDZEZDExY1hmazd4c1Q2QWVKZEZTbWp2b3BZNHZSZUVHT2lfaEhWNjNSdTJhbWR3MWJITTNGS2NuOUUxWGpzN2tCMGFkQ3JtNkdpcEwySGl0WmpnS1dKb0htZC1sYTVVV3k3V3llOENGM3JhYXFoMGFWQ3c0S1JtcVpqNk4?oc=5",
+      "published": "Tue, 13 Oct 2026 18:58:07 GMT",
+      "source": "El Debate (vía Google News)",
       "zona": "Sinaloa",
       "tipo": "Impreso"
     }

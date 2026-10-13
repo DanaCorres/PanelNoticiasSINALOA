@@ -1,9 +1,130 @@
 {
   "date": "2026-10-13",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
-    "politica": [],
+    "politica": [
+      {
+        "title": "Diputado Valenzuela denuncia opacidad en finanzas y obras públicas del Gobierno",
+        "summary": "Rodolfo Valenzuela acusa distanciamiento entre Congreso y Ejecutivo estatal, reclama transparencia en presupuesto y proyectos de infraestructura.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/13/crisis-en-el-congreso-y-el-gobierno-de-sinaloa-diputado-rodolfo-valenzuela-acusa-opacidad-en-finanzas-y-obras-publicas/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Valenzuela se registra como coordinador distrital buscando diputación federal",
+        "summary": "Rodolfo Valenzuela se inscribe para coordinación del Distrito 07 con aspiraciones a cargo federal en proceso 2027.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/rodolfo-valenzuela-se-registra-para-la-coordinacion-del-distrito-07-buscaria-una-diputacion-federal-2026-10-13__1719636",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Gobernadora descarta ruptura entre Congreso y Gobierno estatal",
+        "summary": "Eligio López Portillo niega conflicto entre poderes legislativo y ejecutivo en Sinaloa.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/descarta-eligio-lopez-portillo-ruptura-entre-el-congreso-de-sinaloa-y-el-gobierno-estatal/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Diputados PRI cuestionan solución de nuevo penal para crisis carcelaria",
+        "summary": "Legisladores priistas exigen sanciones a responsables de violencia en El Castillo y advierten que construir más cárceles no resuelve fondo del problema.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/la-construccion-de-un-nuevo-penal-no-es-la-solucion-diputados-del-pri-exigen-sanciones-contra-responsables-de-hechos-violentos-en-el-castillo-1147820/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "IEES ratifica 72% de consejeros electorales para comicios 2027",
+        "summary": "Instituto Electoral retiene mayoría de consejeros para proceso electoral próximo año en Sinaloa.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/iees-ratifica-al-72-de-sus-consejeros-electorales-para-los-comicios-de-2027-en-sinaloa-2026-10-13__1719623",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "PAN lanza 'CuidaVoto' con 5,900 representantes de casilla",
+        "summary": "Partido Acción Nacional despliega programa de vigilancia electoral en Sinaloa para evitar fraudes en 2027.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/pan-culiacan-lanza-programa-cuida-tu-voto-y-busca-integrar-5900-representantes-de-casilla/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Bedoya anuncia candidatura por Morena para Distrito 05 federal",
+        "summary": "María Lucía Bedoya, médica especialista, busca representación morenista en diputación federal desde Culiacán.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/maria-lucia-bedoya-busca-representar-al-distrito-5-federal-por-morena-DH26472753",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Gobierno contrata crédito por 700 millones a 20 años",
+        "summary": "Administración estatal adquiere financiamiento con plazo extendido para cubrir compromisos presupuestarios.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/contrata-gobierno-de-sinaloa-credito-por-700-millones-a-pagar-a-20-anos-HH26472948",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      }
+    ],
     "seguridad": [
+      {
+        "title": "Cifras de violencia: 7 homicidios y 9 vehículos robados en un solo día",
+        "summary": "Informe de delitos acumulados durante ola de violencia estatal: se registran 3 mujeres asesinadas en jornada.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-matan-a-3-mujeres-mas-en-un-solo-dia-7-homicidios-y-9-vehiculos-robados-el-lunes-KG26465359",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Riña en penal de Mazatlán fue por liberación de miembro 'Chapitos'",
+        "summary": "García Harfuch revela que enfrentamiento que dejó 12 muertos en El Castillo fue detonado por libertad de criminal de facción.",
+        "zona": "Sur",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/13/informa-harfuch-que-rina-en-el-castillo-ocurrio-tras-liberacion-de-un-miembro-de-los-chapitos/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Rastreadoras localizan cuerpo enterrado en tierras de Navolato",
+        "summary": "Colectivo de búsqueda halla restos humanos en fosa clandestina en campo Romero, Navolato.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/13/localizan-restos-humanos-en-una-fosa-clandestina-en-navolato/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Conductor asesinado a balazos en Villa Unión, Mazatlán",
+        "summary": "Manuel N fue atacado a tiros dentro de su Volkswagen Robust al sur de Mazatlán.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/no-logro-escapar-matan-a-conductor-dentro-de-su-camioneta-en-villa-union-al-sur-de-mazatlan-EH26473531",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Convocan marcha en Los Mochis por justicia a Fernanda Gastélum y bebé",
+        "summary": "Manifestación pacífica exige investigación del caso de madre e hijo en región norte.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/convocan-a-manifestacion-pacifica-en-los-mochis-exigiendo-justicia-por-fernanda-gastelum-BG26467042",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "FGE activa Alerta Amber por dos adolescentes desaparecidos en Mazatlán",
+        "summary": "Fiscalía abre protocolo de búsqueda para menores no localizados.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/activa-fge-alerta-amber-por-dos-adolescentes-desaparecidos-en-mazatlan-LG26469882",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Inmueble balaceado en colonia Miguel Hidalgo de Culiacán",
+        "summary": "Autoridades investigan ataque armado con rifles de alto poder contra vivienda.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/atacan-a-balazos-un-inmueble-en-la-colonia-miguel-hidalgo-en-culiacan-CG26467621",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
       {
         "title": "Cuatro personas muertas en ataque armado en Culiacán",
         "summary": "Tiroteo en El Vallado Viejo dejó dos mujeres y dos hombres fallecidos; una víctima adicional fue hospitalizada.",
@@ -21,8 +142,137 @@
         "_added_at": "2026-10-13T02:45:28.174752-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Secretaría de Economía anuncia Capital Feria de Financiamiento",
+        "summary": "Evento en Culiacán y Mazatlán ofrecerá créditos personalizados para emprendedores y empresarios.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/economia-anuncia-capital-feria-de-financiamiento-en-culiacan-y-mazatlan-con-creditos-hechos-a-la-medida-2026-10-13__1719630",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Empresarios exigen reactivar programa Jóvenes Construyendo el Futuro",
+        "summary": "Sector privado solicita que Gobierno federal reanude iniciativa de empleo para jóvenes en Sinaloa.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/empresarios-de-culiacan-piden-reactivar-el-programa-jovenes-construyendo-el-futuro-en-sinaloa-2026-10-13__1719590",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Gobernadora ratifica subsidio eléctrico iniciará en abril de 2027",
+        "summary": "Graciela Domínguez asegura certidumbre sobre mes adicional de subsidio de luz a partir de 2027.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/subsidio-de-luz-iniciara-en-abril-de-2027-en-sinaloa-hay-certeza-afirma-gobernadora-2026-10-13__1719514",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Flota camaronera de Mazatlán se resguarda ante Huracán Simón",
+        "summary": "Mayoría de embarcaciones buscan protección en puerto ante amenaza meteorológica.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/la-mayoria-de-barcos-de-la-flota-camaronera-de-mazatlan-se-resguardan-ante-amenaza-de-simon-2026-10-13__1719609",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Sinaloa coloca más de 140 millones en créditos empresariales",
+        "summary": "Iniciativa de financiamiento para pequeñas y medianas empresas en Culiacán y Mazatlán.",
+        "zona": "Centro",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYkJhcmo3WHhwbkZhNzFmT2pUNjEzYlhZc3BwQ2I3WWtBZnRsNmhuQlMwMXBKQjhkMnhSWktHNEtHa1RrN0ZhUFhla25MR3A0VGwtTEpNMDV2S29FalhKQ3o4WUxncS1CZV9oMjNlZkRWSFpDQUhWUnBtZ18yRnR5aUc1M0Mxbm1CUGswSDdjWWpOVFVKU3JwM0wyeUNGT2wtVXptQ0N3X3MzdkVOUFN0X2U2ejNIY1QtQ3lyejdUY0hfUTlOTkNxUFZZVE5xYW9Mam9sZ1NITFh2SnJNd2hfTkViTDlaSF9rNTh5S05QYXJYRG8?oc=5",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Presa Sanalona llega al 75.6% de capacidad de almacenamiento",
+        "summary": "Embalse principal mantiene niveles moderados de agua tras monitoreo estatal.",
+        "zona": "Estatal",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVUteEpsR2I2V3RDWmVYdjM3VlktRllyVUdHUzNYUFdFZFgzTXhNNlRNWVBWV1o1WEVETVFldUQxVTVMV0ZacWgzNjNZamdfUVNjaWFkMXJDXzQwajJ6M3JObEhtZHpMeUlfdXVMV0tNNzJmX19QcnIyQUhPYURobW9XcUQ1NnUtNUtteE13QlpySnZ5WjRvZW05QnN2TXp0TThnMnViT0Zvd0RsSDZlUFBBMkQzS0ZxNXA3a2U5RnMxZw?oc=5",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Caravana de promoción turística fortalece destino Mazatlán",
+        "summary": "Recorrido por Sinaloa y Sonora busca impulsar llegada de turistas al puerto.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/fortalecen-a-mazatlan-con-caravana-de-promocion-turistica-por-sinaloa-y-sonora-2026-10-13__1719582",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Discovery Princess arriba con más de 3,600 pasajeros a Mazatlán",
+        "summary": "Crucero contribuye al movimiento turístico y económico del puerto.",
+        "zona": "Sur",
+        "source": "Sinaloa en Línea",
+        "url": "https://sinaloaenlinea.com/mazatlan-recibe-al-discovery-princess-con-mas-de-3-mil-600-pasajeros/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Huracán Simón: Gobierno activa Centro de Operación de Emergencias",
+        "summary": "Culiacán prepara 25 refugios y coordina acciones preventivas ante posible impacto de fenómeno meteorológico.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/activan-en-culiacan-el-centro-de-operacion-de-emergencias-por-el-huracan-simon-2026-10-13__1719632",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Gobernadora verifica daños en malecón de Mazatlán tras oleaje",
+        "summary": "Graciela Domínguez supervisa seis socavones y daños severos en infraestructura costera; promete rehabilitación prioritaria.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/gobernadora-visita-el-malecon-de-mazatlan-para-verificar-danos-por-oleaje-rehabilitar-sera-prioridad-2026-10-13__1719615",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Doce negocios de palapas en Mazatlán sufren daños severos",
+        "summary": "Mar embravecido continúa impactando estructuras comerciales frente a playa.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/mar-de-mazatlan-continua-sin-piedad-contra-las-estructuras-de-palapas-al-menos-12-negocios-tienen-danos-severos-1147785/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Bomberos de Culiacán necesitan 15 estaciones; operan con cuatro",
+        "summary": "Corporación de rescate requiere infraestructura adicional para cobertura adecuada de ciudad.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/bomberos-de-culiacan-necesitan-15-estaciones-actualmente-operan-con-cuatro/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Reanudan clases en turno vespertino tras mejorar condiciones",
+        "summary": "SEPyC levanta suspensión en municipios del sur tras estabilización meteorológica.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/si-hay-clases-este-martes-por-la-tarde-sepyc-reanuda-actividades-en-turno-vespertino-tras-mejorar-el-clima-2026-10-13__1719542",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Médicos se amparan para no realizar abortos en Sinaloa",
+        "summary": "Profesionales de salud utilizan recurso legal frente a normativa estatal sobre interrupción del embarazo.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/medicos-se-amparan-para-no-realizar-abortos-en-sinaloa-informa-salud/",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "Alumno fallece por accidente en Ahome; COBAES lamenta pérdida",
+        "summary": "Institución educativa expresa condolencias por muerte de estudiante de plantel Guasave.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/cobaes-03-lamenta-el-fallecimiento-del-alumno-gilberto-el-joven-que-sufrio-un-accidente-en-ahome-2026-10-13__1719600",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
+      {
+        "title": "UAS anuncia nuevos posgrados en Educación Física y Deporte",
+        "summary": "Universidad autónoma fortalece oferta académica con programas de especialización e investigación.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/buscan-fortalecer-la-investigacion-la-uas-anuncia-nuevos-posgrados-en-educacion-fisica-y-deporte-2026-10-13__1719559",
+        "_added_at": "2026-10-13T13:00:25.733571-07:00"
+      },
       {
         "title": "Huracán Simón cambia trayectoria y apunta a Eldorado",
         "summary": "Sistema ciclónico se aproxima como categoría 2 directo al municipio de Eldorado, generando alerta máxima.",
@@ -49,5 +299,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-13T02:45:28.174752-07:00"
+  "last_updated": "2026-10-13T13:00:25.733571-07:00"
 }
