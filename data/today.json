@@ -1,9 +1,90 @@
 {
   "date": "2026-10-14",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
-    "politica": [],
+    "politica": [
+      {
+        "title": "Diputada PAN pide comparecencia de Secretario de Finanzas",
+        "summary": "Roxana Rubio busca que el Secretario de Administración y Finanzas comparezca ante el Congreso para aclarar créditos solicitados por el estado.",
+        "zona": "Centro",
+        "source": "Noroeste (Culiacán)",
+        "url": "https://www.noroeste.com.mx/culiacan/oposicion-buscara-comparecencia-de-secretario-finanzas-ante-congreso-de-sinaloa-para-aclarar-creditos-solicitados-GB26500341",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Cecilia Ramírez considera reelección en Guasave",
+        "summary": "La alcaldesa de Guasave abre la puerta a una posible reelección y decidirá antes del domingo.",
+        "zona": "Norte",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/cecilia-ramirez-abre-la-puerta-a-la-reeleccion-en-guasave-decidira-antes-del-domingo-1148418/",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "PAN y PAS se reúnen con Mario Zamora rumbo a 2027",
+        "summary": "Dirigentes de ambos partidos sostienen encuentro con el político para discutir estrategias electorales de cara a las elecciones de 2027.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-14/politica/pan-y-pas-en-la-misma-mesa-con-mario-zamora-rumbo-al-2027/309781",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "UAS obliga desafiliación de militantes y debilita al PAS",
+        "summary": "Decisión universitaria genera pérdida de afiliados del Partido Sinaloense en la institución educativa.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/14/la-uas-obliga-a-desafiliacion-y-desangra-al-pas/",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Proponen señalética plurilingüe en instituciones públicas",
+        "summary": "Comisión legislativa sugiere incorporar lenguajes indígenas en señalización para garantizar inclusión de pueblos originarios.",
+        "zona": "Estatal",
+        "source": "Noticias Digitales Sinaloa",
+        "url": "https://noticiasdigitalessinaloa.mx/sinaloa/en-comision-proponen-incorporar-senaletica-plurilingue-en-instituciones-publicas-de-sinaloa-para-garantizar-inclusion-de-pueblos-indigenas/",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      }
+    ],
     "seguridad": [
+      {
+        "title": "Cifras de delitos acumulados durante ola de violencia",
+        "summary": "Registran 6 homicidios, 1 feminicidio y 3 cuerpos hallados en jornada de martes; ciclo de violencia continúa en el estado.",
+        "zona": "Centro",
+        "source": "Noroeste (Seguridad)",
+        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-dejan-decapitado-y-con-mensaje-criminal-en-culiacan-6-homicidios-1-feminicidio-y-3-cuerpos-hallados-el-martes-OJ26498745",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Fiscalía abre investigación por agresión a menor en primaria",
+        "summary": "En Los Mochis se reporta ataque contra estudiante; autoridades inician carpeta de investigación por el incidente.",
+        "zona": "Norte",
+        "source": "Línea Directa (Norte)",
+        "url": "https://lineadirectaportal.com/sinaloa/fiscalia-abre-carpeta-de-investigacion-por-agresion-a-menor-en-una-primaria-de-los-mochis-2026-10-14__1720225",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Presidente CEDH propone reforma integral al sistema penitenciario",
+        "summary": "Óscar Loza Ochoa sugiere cambios que incluyan empleo para internos y mejora de condiciones carcelarias.",
+        "zona": "Centro",
+        "source": "Noroeste (Culiacán)",
+        "url": "https://www.noroeste.com.mx/culiacan/plantea-oscar-loza-reforma-penitenciaria-con-empleos-para-internos-MJ26499207",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Se capacita a 160 policías en manejo emocional y bienestar familiar",
+        "summary": "Cuerpo de seguridad de Culiacán fortalece habilidades emocionales y relaciones personales de sus elementos.",
+        "zona": "Centro",
+        "source": "Noroeste (Seguridad)",
+        "url": "https://www.noroeste.com.mx/seguridad/capacitan-a-160-policias-de-culiacan-en-manejo-emocional-y-bienestar-familiar-KB26500219",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Comparecencia de Rafael Caro Quintero ante tribunal neoyorquino",
+        "summary": "Capo narcotraficante se presenta en Nueva York; juicio sigue en pie para 2027.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/14/rafael-caro-quintero-comparece-ante-tribunal-de-nueva-york-sigue-en-pie-juicio-para-2027/",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
       {
         "title": "Ejército detiene vehículo con presuntos armados en Mazatlán",
         "summary": "Militares aseguran automóvil con hombres armados en colonia Lomas del Ébano, Mazatlán.",
@@ -37,8 +118,73 @@
         "_added_at": "2026-10-14T01:02:21.110293-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Canaco cancela ExpoFeria 2026 en Mazatlán por inseguridad",
+        "summary": "Cámara de Comercio suspende la 41 edición del evento; citadinos y comerciantes carecen de condiciones seguras.",
+        "zona": "Sur",
+        "source": "Noroeste (Mazatlán)",
+        "url": "https://www.noroeste.com.mx/mazatlan/por-inseguridad-cancela-canaco-la-expoferia-2026-en-mazatlan-LB26500579",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Comercio y turismo de Mazatlán resienten nuevo ciclo de violencia",
+        "summary": "Hoteles, restaurantes y tiendas reportan caída en ingresos y afluencia de clientes durante crisis de seguridad.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/14/comercio-hoteles-y-restaurantes-de-mazatlan-ya-resienten-el-nuevo-estallido-violento/",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Huracán Simón alerta a productores hortícolas de Culiacán y Navolato",
+        "summary": "Asociación de agricultores mantiene vigilancia ante posible impacto del fenómeno en cultivos de la región.",
+        "zona": "Centro",
+        "source": "Línea Directa (Centro)",
+        "url": "https://lineadirectaportal.com/sinaloa/huracan-simon-tiene-en-alerta-a-los-horticultores-de-culiacan-y-navolato-aarc-2026-10-14__1720230",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Ferias de financiamiento buscan colocar 140 millones en créditos",
+        "summary": "Eventos en Culiacán y Mazatlán promocionan líneas de crédito para empresas y emprendedores.",
+        "zona": "Estatal",
+        "source": "El Sol de Sinaloa/Mazatlán",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYzZjNW8yejlma3phbktVbl9hSXNobGxqRFE1NTEtZE83ajZ3R0wyUFEtc3liMFdnbW9tLXRIR3dOblFDMDdtY3ZMSnlDWXd3cXliNm1BcngtQ3RxNWJvdDlHRTNKbzhzMTdHVXlDZ2doQVYxLUEwOEhEU0g3SHlVOEdENU00NUNKakctM3FwLWY0am1rOXFFQzd4QUdvNmM2b0lnWnB6V0oxTDhTZEV0aWE1MWNzUnJEb3dMS04zMkc3NS02YnNfRXRrX011X3BYRkd0ZVRMaDI2a1JQSUA",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Jubilados UAS se manifiestan contra descuentos de hasta 20% en ingresos",
+        "summary": "Exdocentes y administrativos reclaman detención de deducciones salariales que afectan sus pensiones.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/nos-estan-quitando-hasta-el-20-del-ingreso-jubilados-de-la-uas-se-manifiestan-y-exigen-frenar-los-descuentos-en-sinaloa-1148394/",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Tuberías dañadas contaminan agua potable en El Fuerte",
+        "summary": "Camión vactor rompe línea de suministro en Campo 35; vecinos reportan afectación en el servicio.",
+        "zona": "Norte",
+        "source": "Línea Directa (Norte)",
+        "url": "https://lineadirectaportal.com/sinaloa/camion-vactor-rompe-tuberia-en-el-campo-35-el-fuerte-vecinos-reportan-contaminacion-de-agua-potable-2026-10-14__1720177",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "Sinaloa registra sexta tasa más alta de divorcios en el país",
+        "summary": "Durante 2025 se registraron más de 6 mil divorcios en la entidad, cifra que refleja crisis matrimoniales.",
+        "zona": "Estatal",
+        "source": "Línea Directa (Centro)",
+        "url": "https://lineadirectaportal.com/sinaloa/sinaloa-fue-en-2025-el-sexto-estado-del-pais-con-mayor-tasa-de-divorcios-se-registraron-mas-de-6-mil-2026-10-14__1720222",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
+      {
+        "title": "UAS reactiva Planetario y Reserva Ecológica en Cosalá",
+        "summary": "Universidad impulsa divulgación científica con reapertura de proyecciones y espacios naturales para públicos.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/la-uas-impulsa-la-divulgacion-cientifica-en-sinaloa-con-reanudacion-de-proyecciones-en-el-planetario-y-la-reapertura-de-la-reserva-ecologica-en-cosala/",
+        "_added_at": "2026-10-14T11:14:29.849370-07:00"
+      },
       {
         "title": "Trabajadores del IMSS en Mazatlán protestan por mejoras laborales",
         "summary": "Empleados del IMSS participan en manifestación nacional exigiendo mejores condiciones de trabajo.",
@@ -57,5 +203,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-14T01:02:21.110293-07:00"
+  "last_updated": "2026-10-14T11:14:29.849370-07:00"
 }
