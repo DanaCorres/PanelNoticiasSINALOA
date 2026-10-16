@@ -1,463 +1,127 @@
 {
-  "date": "2026-10-15",
-  "run_count": 3,
+  "date": "2026-10-16",
+  "run_count": 1,
   "notes": {
     "politica": [
       {
-        "title": "Jucopo aclara que crédito de 700 millones ya estaba autorizado en 2025",
-        "summary": "La Junta de Coordinación Política del Congreso descarta endeudamiento nuevo; el crédito corresponde a autorización previa.",
-        "zona": "Estatal",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/no-es-un-credito-nuevo-jucopo-descarta-reciente-endeudamiento-de-gobierno-de-sinaloa-por-700-millones-de-pesos-1149503/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Culiacán participa en Reunión Nacional de Municipios Prioritarios de pacificación",
-        "summary": "Alcaldesa de Culiacán asiste a foro nacional; reconocen acciones de la capital en materia de seguridad.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/alcaldesa-de-culiacan-participa-en-foro-de-pacificacion-nacional-reconocen-acciones-de-la-capital-2026-10-15__1721231",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Congreso designa a Aldo Ruiz en Consejo Consultivo del Instituto de Defensores",
-        "summary": "El Congreso de Sinaloa elige a Aldo Ruiz González como integrante del Consejo Consultivo del Instituto de Protección a Periodistas.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/congreso-elige-a-aldo-ruiz-como-integrante-del-consejo-consultivo-del-instituto-de-defensores-2026-10-15__1721203",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Gobierno asumirá mayor parte de costo para rehabilitar malecón de Mazatlán",
-        "summary": "Gobernadora Graciela Domínguez anuncia que el estado pagará la porción más significativa de la reparación del malecón.",
+        "title": "Gobernadora afirma relación de respeto con Congreso",
+        "summary": "Graciela Domínguez Nava defiende diálogo y coordinación con los 40 diputados del Congreso de Sinaloa.",
         "zona": "Sur",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/15/gobierno-de-sinaloa-pagara-la-mayor-parte-de-la-reparacion-del-malecon-de-mazatlan-dice-graciela-dominguez/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/graciela-dominguez-defiende-respeto-y-dialogo-con-el-congreso-de-sinaloa-GF26546642",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Congreso aprueba licencia definitiva de diputado Pedro Villegas Lobo",
-        "summary": "El Congreso de Sinaloa autoriza la salida permanente del legislador; Vicente Fernández Escobar toma protesta como suplente.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/vicente-fernandez-rinde-protesta-tras-licencia-definitiva-de-pedro-lobo-en-el-congreso-de-sinaloa-2026-10-15__1721167",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "PAN propone reducir 50% el impuesto sobre nómina en Sinaloa",
-        "summary": "El Partido Acción Nacional presenta iniciativa para reactivar economía mediante reducción de impuestos a empresas.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/pan-propone-reducir-50-el-impuesto-sobre-nomina-para-reactivar-la-economia-en-sinaloa-2026-10-15__1721101",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Gobernadora ofrece estrategia de seguridad para Expoferia 2026 en Mazatlán",
-        "summary": "Graciela Domínguez presenta plan a Canaco para evitar cancelación de evento ante inseguridad.",
+        "title": "Cabildo de Escuinapa aprueba modificación de presupuesto",
+        "summary": "Municipio del sur autoriza cambios en programa de obra pública por 74 millones de pesos.",
         "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/gobernadora-ofrece-a-la-canaco-una-estrategia-de-seguridad-para-la-expoferia-2026-en-mazatlan-2026-10-15__1720999",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/aprueba-cabildo-de-escuinapa-modificacion-a-programa-de-obra-publica-por-74-millones-AF26545720",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Gobierno amplía subsidio eléctrico de verano a siete meses para 2027",
-        "summary": "Autoridades estatales confirmaron extensión del programa de apoyo a la tarifa de electricidad en Sinaloa, aumentando duración de beneficio estival.",
-        "zona": "Estatal",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/amplian-a-7-meses-el-subsidio-de-energia-electrica-en-sinaloa-a-partir-de-2027-FA26516146",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Legisladores consideran reformas para alcaldías y reelección en 2027",
-        "summary": "Diputados exploran cambios electorales enfocados en cargos municipales y permitir reelección de funcionarios para próximo ciclo.",
-        "zona": "Estatal",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/15/alcaldias-diputaciones-federales-y-reeleccion-en-la-mira-de-legisladores/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Gobernadora visitará Badiraguato para entregar obras y compromisos",
-        "summary": "Graciela Domínguez acudirá al municipio del Centro este domingo para dar a conocer avances y nuevos compromisos con comunidades.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/gobernadora-acudira-a-badiraguato-este-domingo-para-entregar-y-comprometerse-con-obras-1149141/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Martín Ahumada comparece por despacho e irregularidades en obra",
-        "summary": "Alcaldesa de municipio norteño justifica comparecencia de funcionario como respuesta a denuncias de incumplimiento.",
+        "title": "Sinaloa de Leyva invierte 61 millones en rehabilitación cultural",
+        "summary": "Municipio del norte destinará recursos para restaurar Auditorio Municipal y centro cultural.",
         "zona": "Norte",
-        "source": "Línea Directa (Norte)",
-        "url": "https://lineadirectaportal.com/sinaloa/martin-ahumada-comparecio-por-despacho-y-obra-inconclusa-es-respuesta-a-irregularidades-alcaldesa-2026-10-15__1720893",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Martín Ochoa busca coordinar comités de Morena en Mazatlán",
-        "summary": "Dirigente busca articular estructura política del movimiento en el municipio sur del estado.",
-        "zona": "Sur",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/15/martin-ochoa-busca-coordinar-los-comites-de-morena-en-mazatlan/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Iniciativa Sinaloa cuestiona opacidad en crédito de 700 millones",
-        "summary": "Organización de observadores demanda transparencia sobre financiamiento otorgado por el Gobierno estatal.",
-        "zona": "Estatal",
-        "source": "El Sol de Sinaloa (vía Google News)",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaG9uT2tYQ05rb3doV2ticlNxTjc2bnVuTGJQdEJfX3QwWnppN1dQb3Rwb0hVNFJSVzc3SVU0dk13ZXEyUXVIaXVndzJnXzdnR2k1SVdoVjYxeUN2LWdnMWNwXy1jaHBaWERuQW9uaXBaZHFIbTBMLTJpU2hQMmd0ZEU4eVhxTzQxS3Y5QXFFWXNLTW52MzljSWc2aHFoaWFYYjhnQ0Z6bkxMNjJCUnFYYUlMak1lLXRIUWNLUmNORUxwMVlTOTNlMw",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Gobierno amplía subsidio eléctrico de verano a 7 meses",
-        "summary": "El estado confirmó la extensión del subsidio de energía eléctrica para 2027, ampliando el período de cobertura durante los meses más calurosos.",
-        "zona": "Estatal",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/amplian-a-7-meses-el-subsidio-de-energia-electrica-en-sinaloa-a-partir-de-2027-FA26516506",
-        "_added_at": "2026-10-15T00:44:37.472821-07:00"
-      },
-      {
-        "title": "Nombran nuevo subsecretario de Desarrollo Sustentable",
-        "summary": "José Rigoberto Raygoza Viera rindió protesta como subsecretario de Desarrollo Sustentable ante la Gobernadora Graciela Domínguez Nava.",
-        "zona": "Estatal",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/nombran-a-jose-rigoberto-raygoza-como-subsecretario-de-desarrollo-sustentable-en-sinaloa-FA26516146",
-        "_added_at": "2026-10-15T00:44:37.472821-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/destinaran-61-millones-para-rehabilitar-centro-cultural-de-sinaloa-de-leyva-KF26544187",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       }
     ],
     "seguridad": [
       {
-        "title": "Escuinapa suma ocho homicidios en cuatro días; retiran puntos de revisión del Ejército",
-        "summary": "La localidad sufre ola violenta; autoridades militares retiran presencia tras aumentar crímenes en la zona.",
+        "title": "Trasladan 49 reos de penales de Sinaloa tras riñas",
+        "summary": "Autoridades cierran celdas en El Castillo (Mazatlán) y Aguaruto (Culiacán); internos movidos a otras entidades.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/tras-rinas-trasladan-a-49-reos-de-penales-de-sinaloa-hacia-otros-estados-JF26549312",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
+      },
+      {
+        "title": "Fiscal anuncia búsqueda de armas en penal de Mazatlán",
+        "summary": "Tras incidente de violencia, Claudia Zulema Sánchez Kondo ordena operativo en El Castillo.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/retiran-puntos-de-revision-del-ejercito-en-escuinapa-tras-ola-de-homicidios-en-cuatro-dias-DF26541763",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
+        "url": "https://www.noroeste.com.mx/seguridad/tras-rina-se-buscan-armas-largas-dentro-del-penal-de-mazatlan-fiscal-FF26545572",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Detienen a Williams, de 19 años, por feminicidio en Escuinapa",
-        "summary": "Autoridades capturan a joven acusado de feminicidio agravado de mujer en estética del centro.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/detienen-a-joven-de-19-anos-por-ataque-mortal-contra-mujer-en-estetica-del-centro-en-escuinapa-FF26540621",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Policías federales agreden a reportero durante operativo en Laguna Colorada, Culiacán",
-        "summary": "Elementos de SSPC atacan a periodista de El Debate durante cobertura; suma 17 agresiones a prensa en 2026.",
-        "zona": "Centro",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/15/policias-federales-agreden-a-reportero-durante-cobertura-de-operativo-en-culiacan/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Siete detenidos en operativo federal en Laguna Colorada; aseguran armas y drogas",
-        "summary": "Cateos en Culiacán dejan detenciones y decomiso de vehículos, armamento y cocaína.",
-        "zona": "Centro",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-15/policiaca/son-siete-detenidos-en-el-operativo-militar-en-la-laguna-colorada-culiacan-entre-ellos-dos-mujeres/310030",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Mazatlán se refuerza contra violencia con respaldo del Gobierno federal",
-        "summary": "Autoridades locales y federales acuerdan reforzar estrategia de prevención en el municipio.",
-        "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/gobierno-de-mexico-respalda-a-mazatlan-con-reforzamiento-de-la-estrategia-para-prevenir-la-violencia-2026-10-15__1721272",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Buscan a madre e hija desaparecidas en Salvador Alvarado",
-        "summary": "FGE emite fichas de búsqueda para localizar a joven de 19 años y su hija de dos años.",
+        "title": "Gobernadora garantiza seguridad en temporada de beisbol",
+        "summary": "Domínguez Nava respalda inauguración de LMP en Culiacán con refuerzo de medidas de protección.",
         "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/buscan-a-joven-madre-de-19-anos-y-a-su-hija-de-2-desaparecidas-en-salvador-alvarado-KC26531308",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
+        "url": "https://www.noroeste.com.mx/deportes/beisbol/llama-gobernadora-de-sinaloa-a-disfrutar-del-beisbol-y-garantiza-seguridad-en-temporada-de-la-lmp-NF26547930",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Colectivos de Guasave denuncian desinterés de FGE en identificar cuerpos",
-        "summary": "Familiares de desaparecidos critican falta de agilidad en procedimientos de identificación.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/policiaca/colectivos-de-guasave-ven-desinteres-en-fge-para-agilizar-identificacion-de-cuerpos-2026-10-15__1721175",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Operativo federal en Laguna Colorada genera denuncias de abusos y retención de menores",
-        "summary": "Cateo autorizado por juez en Culiacán genera protests de vecinos; Derechos Humanos interviene por presuntas irregularidades.",
+        "title": "Despliegan operativo de seguridad en estadio Juan Ley Fong",
+        "summary": "Autoridades refuerzan presencia en alrededores del recinto deportivo de Culiacán por inicio de temporada.",
         "zona": "Centro",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/denuncian-abusos-de-marina-y-sspc-durante-operativo-en-laguna-colorada-culiacan-HD26523747",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/despliegan-seguridad-alrededor-del-estadio-juan-ley-fong-ante-inicio-de-temporada-de-beisbol-en-culiacan-DF26545035",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Detienen a mujer en cateo de Laguna Colorada durante operativo federal",
-        "summary": "Una persona fue asegurada durante procedimiento de búsqueda en zona sur de Culiacán.",
-        "zona": "Centro",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/15/detienen-a-una-mujer-durante-cateo-en-la-laguna-colorada-al-sur-de-culiacan/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Condenan a dos hombres por portar armas en Navolato",
-        "summary": "Tribunal sentencia a más de ocho años de prisión a individuos capturados con armamento ilegal.",
-        "zona": "Centro",
-        "source": "El Sol de Sinaloa (vía Google News)",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSzFNa09sVG1SaHh4TVZIdkcySVRtQmJnZ081Z2w0XzF2WWhocVNrYy1QdFNXMVdfdHYyLWlMWVY4RFV3d3A1RDVuVWVISjczTFdVLXQtZHZJTG9wcC00aXBZSEpRcTNDT1NwV2doMVdQZW9FSnliYlkxLVBxWHNSWUl4Nk83a1ZWN0VaaTloLUhrSzhlMEphaGwtUHZYM3E5MENaUTZLVzFXbHBnX3N0Ykl0Z1ZnX2otaEdoM3R2eURPVXR1cFJ3NTFOUzhFLVNzeWtINVNSa0txUUh3VUE",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Grupo interinstitucional detiene a cuatro personas en Concordia con armas",
-        "summary": "Operativo en municipio sureño aseguró municiones y drogas a tres hombres y una mujer.",
+        "title": "Alcaldesa de Mazatlán refuerza estrategia de prevención",
+        "summary": "Autoridad municipal reitera compromiso con seguridad en el puerto a través de nuevas iniciativas.",
         "zona": "Sur",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/policiaca/grupo-interinstitucional-detiene-en-concordia-a-3-hombres-y-1-mujer-les-aseguraron-armas-municiones-y-presunta-droga/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Detienen a 'El Wicho', operador ligado a Los Rugrats en Mazatlán",
-        "summary": "Capturan a figura clave del grupo delictivo con presuntos vínculos al Cártel de Sinaloa.",
-        "zona": "Sur",
-        "source": "El Debate (vía Google News)",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZEkyVTFkSUlNNzlrZVdKZGJ1NjBYcjhBaEhOa1Uxc0JQeFpZR25KNFY0eVJSQUJMNkJadTM4M0lGbjUyc0piRHI2Nnd5WnktM01BLU1kc2JBSDlMYkZyckRLQWNWVmY5eU9SeE9GcnlQM3VPS1BNSzNMSG91R29rZ2lYazRFc3cxRFZvLWl6em9CQXdCanhOM1cwU0pPbktkWWMtY3FIWF9YQ2Q5d1Z4Z2JQbENrMzY3WEJ6bnN4VVkzSDN2VlNmd0hyRmZ3bGpWdnlZ",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Reapertura de visitas en penal de Mazatlán tras balacera de hace una semana",
-        "summary": "Autoridades reanudan acceso familiar al centro penitenciario pero mantienen restricción para menores tras incidente.",
-        "zona": "Sur",
-        "source": "El Debate (vía Google News)",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcUN0TlBDS3IzSERmRVVIcW9zM0FyNTRQX0ZxRXgyNE8xRUZCbE1YRkw5WjRKOEtCN1g1dFAydXp6aGl0d081RXRXcG9MdFFtTHlfaS1mSTA4enlwR0pxV0hLaXE3TEdzTGlya2xLQU9HUm9seGpySVF1RTdNdmtiQWxBMFVXaWxHVTdxNFJLdVY0cUhoV3NZMzlYMmktelJVcHliTkFxQk9WQV9yM2RYSHdNUjRpalhSRjJtVXBTSGRyTHlYeFpBa09hQkNSY1VQTDdLZFZ4Ml9kTFZoSmZraGNEUm9VQlNsNU5yQUo4TWlreWd2M3ltVWg0aHNtVUpURFcyN01oSjNINkRSQldj",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Detienen a presunto operador financiero de Los Rugrats",
-        "summary": "José Luis 'Wicho' fue capturado en Mazatlán durante operativo conjunto de federales y estatales. También es buscado por autoridades estadounidenses.",
-        "zona": "Sur",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/detienen-en-mazatlan-a-wicho-presunto-operador-financiero-de-los-rugrats-AA26516273",
-        "_added_at": "2026-10-15T00:44:37.472821-07:00"
-      },
-      {
-        "title": "Colectivo de búsqueda pega fichas en Mazatlán",
-        "summary": "Integrantes de Por las Voces Sin Justicia colocaron fichas de búsqueda en distintos puntos de Pradera Dorada para continuar la localización de desaparecidos.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/por-las-voces-sin-justicia-muestra-su-lucha-de-busqueda-con-pega-de-fichas-en-pradera-dorada-en-mazatlan-AA26517250",
-        "_added_at": "2026-10-15T00:44:37.472821-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/reitera-alcaldesa-que-se-reforzara-la-estrategia-de-prevencion-en-mazatlan-FF26546838",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Gobierno de Sinaloa busca fortalecer minería para diversificar economía estatal",
-        "summary": "Autoridades impulsan sector minero en comunidades serranas para generar empleo y oportunidades.",
-        "zona": "Estatal",
-        "source": "Café Negro",
-        "url": "https://cafenegroportal.com/gobierno-de-sinaloa-busca-fortalecer-la-mineria-para-diversificar-la-economia-y-generar-oportunidades-en-las-comunidades-serranas/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Inversión de 1,800 millones de dólares abre oportunidades para proveedores en Sinaloa",
-        "summary": "Proyecto genera opciones de empleo y compras para empresas locales.",
-        "zona": "Estatal",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/15/inversion-de-1800-millones-de-dolares-abre-oportunidades-para-proveedores-y-empleo-en-sinaloa/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Secretaría de Turismo reconoce afectaciones en vuelos por encarecimiento de turbosina",
-        "summary": "Mireya Sosa Osuna advierte sobre impacto en conectividad aérea de Mazatlán.",
+        "title": "Restaurantes rurales de Mazatlán enfrentan baja de visitantes",
+        "summary": "Sector gastronómico del puerto lucha por mantener empleos y relaciones con proveedores pese a caída en afluencia.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/reconoce-sectur-afectaciones-en-vuelos-de-mazatlan-por-encarecimiento-de-turbosina-BF26543615",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Huracán Simón pausa reservaciones hoteleras en Mazatlán; turismo reporta recuperación",
-        "summary": "Evento meteorológico afectó temporada pero hay señales positivas de reactivación.",
-        "zona": "Sur",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/huracan-simon-pauso-reservaciones-hoteleras-en-mazatlan-sinaloa-turismo-reporta-senales-de-recuperacion-1149482/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Crucero Carnival Firenzi llega a Mazatlán con casi 5 mil pasajeros y tripulantes",
-        "summary": "Arribo del navío reactivador de economía turística con importante cifra de visitantes.",
-        "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/mazatlan-recibe-al-crucero-carnival-firenzi-con-casi-5-mil-pasajeros-y-tripulantes-a-bordo-2026-10-15__1721173",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Insumos agrícolas suben hasta 30% en Guasave antes de ciclo 2026-2027",
-        "summary": "Productores enfrentan presión de costos en época crítica de preparación de siembras.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/insumos-agricolas-suben-hasta-30-en-guasave-y-presionan-a-productores-antes-del-ciclo-2026-2027-2026-10-15__1721094",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Alza de canasta básica golpea restaurantes de Guasave con aumentos de hasta 20%",
-        "summary": "Pequeños negocios gastronómicos sienten presión por incremento en costo de insumos.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/alza-de-la-canasta-basica-tambien-golpea-a-restaurantes-de-guasave-insumos-suben-hasta-20-2026-10-15__1721120",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Mazatlán será sede de Expo Proveedores de Hotelería, Gastronomía y Repostería",
-        "summary": "Evento conectará proveedores con sector turístico y gastronómico de la región.",
-        "zona": "Sur",
-        "source": "Sinaloa en Línea",
-        "url": "https://sinaloaenlinea.com/mazatlan-sera-sede-de-la-expo-proveedores-2026/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Ciclo agrícola promete generar 40 mil empleos formales en Sinaloa",
-        "summary": "CAADES proyecta fuerte generación de empleo en sector agrario para periodo de siembras próximo.",
-        "zona": "Estatal",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/15/caades-espera-que-ciclo-agricola-genere-40-mil-empleos-formales-en-sinaloa/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Gasolina Magna supera los 24 pesos en Sinaloa pese a acuerdo federal",
-        "summary": "Precios de combustible en el estado mantienen niveles elevados al margen de negociaciones nacionales.",
-        "zona": "Estatal",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-15/sinaloa/gasolina-magna-rebasa-los-24-pesos-en-estaciones-de-sinaloa-pese-a-acuerdo-federal/309986",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Mazatlán impulsa economía de mujeres rurales con comités y capacitación",
-        "summary": "Municipio sureño lanza programa de fortalecimiento económico y participación para mujeres de zonas rurales.",
-        "zona": "Sur",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/buscan-impulsar-economia-de-mujeres-rurales-en-mazatlan-con-comites-y-talleres-de-capacitacion-1149172/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Culiacán entrega distintivo NAFIN a empresa de bolsas impresas",
-        "summary": "Autoridades reconocen e impulsan iniciativa de MiPyme local con apoyo de Fondo Nacional de Garantías.",
-        "zona": "Centro",
-        "source": "El Debate (vía Google News)",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0pXV084MWZlM1FReGI3WWdjVVpZTzB5NWFDYlVVQndEeG5hZFNnclM5WTRkMTdRQWN3RC1kS1lnUlBLaTRvUG9EcWVjbXpxTi1wby1qbjdtbE9GY2JUR0pOV0FHNkQ3dFgxcDVtd0FnZ256NWI4bm8xcWxLVy1sSTRUSE9IdUtZM1VRY2JFS1o3UXU1cW5uMW1HMzRKMzZuX3FhN1VGbjBzYmhZc0dvY2xtQ2tIODNzTnlXYUJHYXF5SG1qTFB6c0VfNlM0TVZVenJrZnlOZG1QWGVlQVZBQXFfZ294aUw2OVJDZGlFMGY",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/pese-a-menos-visitantes-restaurantes-rurales-en-mazatlan-buscan-sostener-empleos-y-proveedores-AF26544613",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Vecinos de Las Canteras en Los Mochis denuncian turbiedad en agua de llave",
-        "summary": "Residentes no pueden lavar; denuncian mala calidad del agua potable en la zona.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/vecinos-de-las-canteras-en-los-mochis-denuncian-turbiedad-en-el-agua-de-la-llave-no-pueden-ni-lavar-2026-10-15__1721254",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Vecinas de Campo 35 denuncian contaminación por aguas negras; niños enfermos",
-        "summary": "Comunidad reporta infecciones y lesiones en la piel; niño hospitalizado con gastroenteritis.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/vecinas-de-campo-35-denuncian-contaminacion-por-aguas-negras-reportan-ninos-enfermos-y-lesiones-en-la-piel-1149459/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Madres y niños con cáncer denuncian falta de medicamentos en hospitales de Culiacán",
-        "summary": "Pacientes oncológicos enfrentan desabasto crítico de tratamientos.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZnJvVnFXSzlQek8zVks1aE1VS0FyQlhkV3lMNWNqRmg3UElLOFVEeW9wekZlVEhZVUR6Q1ZtdFM4UnZSbG5QVnJOYTZsZHdsQVZEeU0xOXhLX2xkMWJUejhycmN0Ull4cnhXWUVZMTNjbDJscUJOUUpTdkVsOFg1MGFKS1czWFpFZW5idGRIQTBiVlhfRm9mQTF3aU9GOW1NZTFKOFBhcnlwaFBwZ1l2aTJYLXNfTDBJSHRLdnJQWERhV2U2ckFxZTJTRVRhT0pDM2hLMllaS1dCb3NzMVE",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Aumentan denuncias por violencia contra mujeres en Guasave; 69 reportes en septiembre",
-        "summary": "Immujeres registra incremento en casos de violencia de género en el municipio.",
-        "zona": "Norte",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/aumentan-denuncias-por-violencia-contra-mujeres-en-guasave-sinaloa-immujeres-atendio-69-reportes-en-septiembre-1149473/",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Gobierno de Sinaloa prioriza plan integral en Escuinapa para atender violencia",
-        "summary": "Semujeres implementa estrategia localizada antes de considerar alerta de género.",
+        "title": "Padres toman primaria en Rosario por falta de servicios",
+        "summary": "Protesta de familiares mantiene ocupado plantel Teófilo Noris en Los Ojitos para exigir mejoras.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/semujeres-prioriza-plan-integral-en-escuinapa-para-atender-violencia-antes-que-solicitar-alerta-de-genero-EC26534819",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
+        "url": "https://www.noroeste.com.mx/elsur/padres-de-familia-mantienen-toma-de-primaria-en-los-ojitos-en-rosario-AF26545757",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Ecología elimina más de ocho basurones clandestinos en Guasave durante 2026",
-        "summary": "Autoridades avanzan en limpieza de depósitos ilegales de residuos.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/ecologia-ha-eliminado-mas-de-ocho-basurones-clandestinos-en-guasave-durante-2026-2026-10-15__1721232",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Inaugura gobernadora Festival Cultural Sinaloa 2026 y primera Feria del Libro en Concordia",
-        "summary": "Evento cultural promueve talento local y experiencia de universidades de la región.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/inaugura-gobernadora-festival-cultural-sinaloa-2026-y-primera-feria-del-libro-de-concordia-IC26531889",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Mazatlán integrará comités de mujeres para fortalecer participación económica",
-        "summary": "Iniciativa local busca empoderar a mujeres rurales en economía comunitaria.",
-        "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/ayuntamiento-integrara-comites-de-mujeres-para-fortalecer-su-participacion-y-economia-en-mazatlan-2026-10-15__1721237",
-        "_added_at": "2026-10-15T16:58:54.526518-07:00"
-      },
-      {
-        "title": "Especialistas analizan reparación de daños en malecón de Mazatlán",
-        "summary": "Autoridades y expertos revisan acciones para atender deterioro causado por fuerte oleaje en zona costera sureña.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/analizan-especialistas-acciones-para-atender-los-danos-del-malecon-de-mazatlan-NA26517596",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "Colectivo Por las Voces Sin Justicia continúa búsqueda en Mazatlán",
-        "summary": "Grupo de familiares de desaparecidos coloca fichas informativas en Pradera Dorada para mantener casos visibles.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/por-las-voces-sin-justicia-muestra-su-lucha-de-busqueda-con-pega-de-fichas-en-pradera-dorada-en-mazatlan-AA26517250",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
-      },
-      {
-        "title": "UAS capacita a Medicina Veterinaria en protocolo de crisis e inseguridad",
-        "summary": "Universidad Autónoma establece alianza estratégica para fortalecer cultura de prevención en facultad.",
+        "title": "Protección Civil alerta sobre tormenta tropical en el Pacífico",
+        "summary": "Autoridades mantienen vigilancia sobre sistemas meteorológicos Simon y Trudy que podrían afectar Sinaloa.",
         "zona": "Estatal",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/alianza-estrategica-cultura-de-la-prevencion-en-la-uas-capacitan-a-la-facultad-de-medicina-veterinaria-y-zootecnia-en-el-manejo-de-crisis-e-inseguridad-1149122/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/proteccion-civil-sinaloa-mantiene-vigilancia-por-simon-y-trudy-en-el-pacifico-MF26546291",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Facultad de Informática impulsa Inteligencia Artificial para evaluación del TEA",
-        "summary": "Investigadores de Culiacán desarrollan herramientas innovadoras en neurociencia para mejora de diagnóstico infantil.",
+        "title": "Hombre realiza huelga de hambre contra demora en IMSS",
+        "summary": "Afectado demanda resolución de demanda legal pendiente desde hace siete años contra instituto de seguridad.",
         "zona": "Centro",
-        "source": "Sinaloa en Línea",
-        "url": "https://sinaloaenlinea.com/del-estudio-del-cerebro-a-la-rehabilitacion-infantil-la-facultad-de-informatica-culiacan-impulsa-la-inteligencia-artificial-para-perfeccionar-la-evaluacion-del-tea/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/jesus-humberto-hara-huelga-de-hambre-en-mazatlan-por-demora-de-siete-anos-en-demanda-contra-el-imss-LF26543954",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Más de 15 mil personas viven arranque de temporada de Béisbol en Mazatlán",
-        "summary": "Inauguración de Liga Mexicana del Pacífico genera gran afluencia y ambiente festivo en municipio sureño.",
-        "zona": "Sur",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/sinaloa/mas-de-15-mil-personas-viven-un-espectacular-arranque-de-la-liga-mexicana-del-pacifico-en-mazatlan/",
-        "_added_at": "2026-10-15T10:57:16.383744-07:00"
+        "title": "Protección Civil orienta a aficionados en estadio de Culiacán",
+        "summary": "Autoridades señalan ubicación de zonas de emergencia y cuerpos de auxilio para temporada de beisbol.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/proteccion-civil-llama-a-aficionados-a-ubicar-cuerpos-de-auxilio-en-juegos-de-la-lmp-EF26547571",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       },
       {
-        "title": "Analizan rehabilitación de malecón de Mazatlán",
-        "summary": "Especialistas revisan acciones para reparar daños en el malecón. Se reportan seis socavones y deterioro de muros de contención por oleaje.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/ademas-de-seis-socavones-oleaje-deja-danos-en-muros-de-contencion-y-accesos-del-malecon-de-mazatlan-KA26515942",
-        "_added_at": "2026-10-15T00:44:37.472821-07:00"
+        "title": "Aficionados denuncian reventa de boletos en Culiacán",
+        "summary": "Fans enfrentan cobros abusivos en estacionamiento e inflación de precios en inauguración de LMP.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/reportan-reventa-de-boletos-y-cobros-por-estacionarse-en-calles-junto-al-estadio-de-tomateros-NF26548306",
+        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-15T16:58:54.526518-07:00"
+  "last_updated": "2026-10-16T00:32:35.079445-07:00"
 }
