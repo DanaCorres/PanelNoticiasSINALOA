@@ -1,8 +1,48 @@
 {
   "date": "2026-10-16",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
+      {
+        "title": "Alonso Ramírez se registra en Morena para coordinación en Culiacán",
+        "summary": "Aspirante formaliza registro dentro del proceso interno de Morena para la coordinación municipal de Culiacán rumbo a elecciones 2027.",
+        "zona": "Centro",
+        "source": "Café Negro / Noroeste",
+        "url": "https://cafenegroportal.com/alonso-ramirez-se-registra-en-morena-por-la-coordinacion-municipal-en-culiacan/",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Merary Villegas se registra por Morena en Culiacán",
+        "summary": "Otra aspirante formaliza su registro para participar en la contienda por la coordinación municipal de Culiacán en el proceso interno morenista.",
+        "zona": "Centro",
+        "source": "Línea Directa (Centro)",
+        "url": "https://lineadirectaportal.com/sinaloa/merary-villegas-se-registra-para-la-coordinacion-municipal-de-culiacan-por-morena-2026-10-16__1721592",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Ana Ayala encabeza encuestas para coordinación en Ahome",
+        "summary": "Aspira a coordinar la Cuarta Transformación en el municipio de Ahome según mediciones de intención de voto reportadas.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-16/politica/ana-ayala-asegura-que-encabeza-encuestas-para-coordinar-la-4t-en-ahome/310209",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Nuevo secretario de Obras Públicas se reúne con constructores",
+        "summary": "Funcionario estatal y sector de construcción acuerdan mantener alianza para impulsar proyectos en el estado.",
+        "zona": "Estatal",
+        "source": "Línea Directa (Centro)",
+        "url": "https://lineadirectaportal.com/sinaloa/nuevo-secretario-de-obras-publicas-y-constructores-acuerdan-mantener-alianza-para-proyectos-en-sinaloa-2026-10-16__1721612",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Comités Ciudadanos juran defensa de la Cuarta Transformación",
+        "summary": "Toma de protesta a Comités Ciudadanos en Distrito 20 como parte de estructura organizativa morenista.",
+        "zona": "Sur",
+        "source": "Noticias Digitales Sinaloa",
+        "url": "https://noticiasdigitalessinaloa.mx/politica/continua-juan-carlos-patron-tomando-protesta-a-comites-ciudadanos-en-defensa-de-la-cuarta-transformacion-toca-el-turno-al-distrito-20/",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
       {
         "title": "Gobernadora afirma relación de respeto con Congreso",
         "summary": "Graciela Domínguez Nava defiende diálogo y coordinación con los 40 diputados del Congreso de Sinaloa.",
@@ -29,6 +69,30 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Detienen a cuatro civiles con ametralladora en Culiacán",
+        "summary": "Aseguran arma larga, metanfetamina y grúa a grupo delictivo en la colonia Industrial Bravo.",
+        "zona": "Centro",
+        "source": "Noroeste / Ríodoce",
+        "url": "https://www.noroeste.com.mx/seguridad/detienen-a-cuatro-personas-con-arsenal-y-droga-en-la-colonia-industrial-bravo-de-culiacan-PE26554193",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Seguridad reforzada en estadios para temporada de beisbol",
+        "summary": "Gobierno estatal despliega operativo de seguridad interinstitucional en Liga Mexicana del Pacífico; gobernadora garantiza seguridad.",
+        "zona": "Centro",
+        "source": "Noticias Digitales Sinaloa / Noroeste",
+        "url": "https://noticiasdigitalessinaloa.mx/sinaloa/grupo-interinstitucional-despliega-operativo-de-seguridad-para-los-asistentes-a-la-liga-mexicana-del-pacifico/",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Volcadura en canal de riego deja dos heridos en Ahome",
+        "summary": "Vehículo se volcó en carretera Los Mochis-Ahome; vecinos del ejido rescatan a los ocupantes.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/volcadura-en-la-carretera-los-mochis-ahome-deja-dos-heridos-vecinos-del-ejido-olas-altas-rescatan-a-los-tripulantes-FE26552124",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
       {
         "title": "Trasladan 49 reos de penales de Sinaloa tras riñas",
         "summary": "Autoridades cierran celdas en El Castillo (Mazatlán) y Aguaruto (Culiacán); internos movidos a otras entidades.",
@@ -72,6 +136,38 @@
     ],
     "economia": [
       {
+        "title": "Grupo Panamá oferta más de 160 empleos en Culiacán",
+        "summary": "Ayuntamiento de Culiacán y empresa privada impulsan feria de empleo con múltiples vacantes disponibles.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/ayuntamiento-de-culiacan-y-grupo-panama-ofertaran-mas-de-160-empleos-GE26555939",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Cancelación de Expo Canaco golpea percepción de Mazatlán",
+        "summary": "Secretaría de Turismo advierte impacto negativo de no realización del evento en imagen del destino.",
+        "zona": "Sur",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/16/la-cancelacion-de-la-expo-canaco-golpea-la-percepcion-de-mazatlan-considera-sectur/",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Empresariado plantea agenda para reconstrucción económica",
+        "summary": "Sector privado propone iniciativa Mazatlán 2030 con acciones conjuntas para reactivación económica.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/16/mazatlan-2030-empresariado-plantea-agenda-conjunta-para-la-reconstruccion-economica/",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Restaurante La Voz del Café cierra en Los Mochis",
+        "summary": "Otro negocio gastronómico del norte del estado suspende operaciones.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-16/sinaloa/cierra-otro-restaurante-en-los-mochis-ahora-la-voz-del-cafe/310196",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
         "title": "Restaurantes rurales de Mazatlán enfrentan baja de visitantes",
         "summary": "Sector gastronómico del puerto lucha por mantener empleos y relaciones con proveedores pese a caída en afluencia.",
         "zona": "Sur",
@@ -81,6 +177,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Rastro Municipal refuerza monitoreo ante gusano barrenador",
+        "summary": "Autoridades sanitarias agrícolas implementan medidas preventivas en instalaciones de sacrificio animal.",
+        "zona": "Sur",
+        "source": "Noticias Digitales Sinaloa",
+        "url": "https://noticiasdigitalessinaloa.mx/el-sur/rastro-municipal-refuerza-monitoreo-preventivo-ante-gusano-barrenador/",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Agua turbia en Los Mochis genera denuncias ciudadanas",
+        "summary": "Vecinos reportan problemas en calidad del líquido; Japama asegura que servicio es óptimo.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-16/sinaloa/agua-turbia-en-los-mochis-vecinos-denuncian-fallas-y-japama-asegura-calidad-optima/310214",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Caminata por la Salud en Los Mochis promociona servicios",
+        "summary": "Centro de Salud local promueve sus servicios a través de actividad de promoción comunitaria.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/caminata-por-la-salud-en-los-mochis-conoce-que-servicios-ofrece-el-centro-de-salud-2026-10-16__1721604",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
+      {
+        "title": "Festival Cultural Sinaloa 2026 inaugura en Rosario",
+        "summary": "Evento cultural arranca en municipio del sur con presentación de Adagio Trío.",
+        "zona": "Sur",
+        "source": "Noticias Digitales Sinaloa",
+        "url": "https://noticiasdigitalessinaloa.mx/el-sur/inauguran-el-festival-cultural-sinaloa-2026-en-rosario-con-concierto-de-adagio-trio/",
+        "_added_at": "2026-10-16T10:45:31.804757-07:00"
+      },
       {
         "title": "Padres toman primaria en Rosario por falta de servicios",
         "summary": "Protesta de familiares mantiene ocupado plantel Teófilo Noris en Los Ojitos para exigir mejoras.",
@@ -123,5 +251,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-16T00:32:35.079445-07:00"
+  "last_updated": "2026-10-16T10:45:31.804757-07:00"
 }
