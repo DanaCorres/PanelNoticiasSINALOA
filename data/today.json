@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
       {
@@ -30,6 +30,38 @@
     ],
     "seguridad": [
       {
+        "title": "Detienen a dos por feminicidio agravado en Escuinapa",
+        "summary": "Autoridades capturaron a dos hombres acusados de feminicidio agravado en el municipio de Escuinapa.",
+        "zona": "Sur",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/17/detienen-a-dos-hombres-por-feminicidio-agravado-en-escuinapa/",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "Hombre ejecutado y atado localizado en la Costerita, Culiacán",
+        "summary": "Peritos de la Fiscalía levantaron indicios en el sitio para integrar carpeta de investigación.",
+        "zona": "Centro",
+        "source": "Noroeste (Seguridad)",
+        "url": "https://www.noroeste.com.mx/seguridad/hallan-a-un-hombre-ejecutado-y-maniatado-a-orillas-de-la-costerita-en-culiacan-OG26578754",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "Cuerpo con señas de tortura encontrado en El Ranchito",
+        "summary": "Localizaron cadáver con evidentes signos de tortura en Culiacán.",
+        "zona": "Centro",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/17/localizan-cuerpo-con-senas-de-tortura-en-el-ranchito-culiacan/",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "Armas desaparecen tras riña que dejó 12 muertos en penal",
+        "summary": "Se reporta desaparición de armas largas usadas en enfrentamiento que causó 12 decesos en reclusorio de Mazatlán.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/17/desaparecen-armas-largas-usadas-en-rina-que-dejo-12-muertos-en-penal-de-mazatlan/",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
         "title": "Familiares exigen avances en caso de María Fernanda Gastélum",
         "summary": "Allegados se manifiestan ante Vicefiscalía Regional Zona Norte reclamando justicia por muerte de madre e hijo en Los Mochis.",
         "zona": "Norte",
@@ -56,6 +88,14 @@
     ],
     "economia": [
       {
+        "title": "Congreso Internacional de Valuación recibirá 400 asistentes",
+        "summary": "Culiacán acogerá la edición LXI del evento con participantes de diversas regiones.",
+        "zona": "Centro",
+        "source": "Noroeste (Culiacán)",
+        "url": "https://www.noroeste.com.mx/culiacan/culiacan-recibira-a-400-asistentes-al-congreso-internacional-de-valuacion-KH26569892",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
         "title": "Gobierno de Culiacán capacita en instalación de cargadores eléctricos",
         "summary": "Subsidia formación de 17 personas para instalar infraestructura de carga de vehículos eléctricos en la ciudad.",
         "zona": "Centro",
@@ -65,6 +105,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Adolescentes de Guamúchil intoxicados por plumas de wax",
+        "summary": "Menores fueron atendidos en urgencias con convulsiones y alucinaciones tras consumo de wax.",
+        "zona": "Centro",
+        "source": "Línea Directa (Centro)",
+        "url": "https://lineadirectaportal.com/sinaloa/plumas-de-wax-llevan-a-adolescentes-de-guamuchil-a-urgencias-reportan-convulsiones-y-alucinaciones-2026-10-17__1722253",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "Se esperan chubascos y olas hasta de 3 metros este fin de semana",
+        "summary": "Autoridades alertan sobre condiciones meteorológicas adversas en Sinaloa con lluvia y oleaje considerable.",
+        "zona": "Estatal",
+        "source": "Línea Directa (Sur)",
+        "url": "https://lineadirectaportal.com/sinaloa/se-esperan-chubascos-y-olas-de-hasta-3-metros-en-sinaloa-este-fin-de-semana-atentos-2026-10-17__1722211",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "UAS lanza convocatoria Jornada Universitaria del Conocimiento",
+        "summary": "Universidad Autónoma de Sinaloa invita participación en jornada con focus en Odontología.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/lanza-la-uas-convocatoria-para-la-jornada-universitaria-del-conocimiento-2026-en-odontologia/",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "Teatro Ingenio reabre con concierto de piano y flauta",
+        "summary": "Recinto de Los Mochis inaugura su reapertura con presentación del Grupo Fúvola Trio.",
+        "zona": "Norte",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/se-reapertura-el-teatro-ingenio-de-los-mochis-con-grupo-fuvola-trio-de-piano-y-flauta-1150437/",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "Cruz Roja reporta respuesta de cuatro minutos en emergencias",
+        "summary": "Organización humanitaria anuncia reducción de tiempo de atención en Culiacán.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/17/cruz-roja-dice-reducir-a-cuatro-minutos-la-respuesta-a-emergencias-en-culiacan/",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
+      {
+        "title": "Mazatlán inicia obras de pavimentación en colonias Ejidal y Jaripillo",
+        "summary": "Alcaldesa Estrella Palacios dio banderazo de salida a proyectos de infraestructura vial.",
+        "zona": "Sur",
+        "source": "Noroeste (Mazatlán)",
+        "url": "https://www.noroeste.com.mx/mazatlan/dan-banderazo-a-obras-de-pavimentacion-en-las-colonias-ejidal-y-jaripillo-de-mazatlan-MG26571481",
+        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+      },
       {
         "title": "Universidad Politécnica inaugura Centro de Simulación Clínica en Elota",
         "summary": "UPMYS abre nuevo centro de simulación médica para fortalecer formación de estudiantes de salud en el sur.",
@@ -91,5 +179,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-17T00:12:39.126837-07:00"
+  "last_updated": "2026-10-17T09:45:27.329336-07:00"
 }
