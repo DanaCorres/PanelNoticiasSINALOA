@@ -1,8 +1,64 @@
 {
   "date": "2026-10-16",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "politica": [
+      {
+        "title": "Gobernadora anuncia ubicación del nuevo penal estatal",
+        "summary": "Graciela Domínguez Nava informó que el nuevo penal de Sinaloa se construirá rumbo a Villa Juárez para descongestionar los centros penitenciarios actuales.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/nuevo-penal-de-sinaloa-estara-rumbo-a-villa-juarez-gobernadora-JE26558472",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Jucopo llama a diputados aspirantes a no descuidar labor legislativa",
+        "summary": "La Junta de Coordinación Política exhorta a diputados que buscan coordinaciones en Morena a mantener su desempeño legislativo durante el proceso.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/jucopo-llama-a-diputados-aspirantes-a-coordinaciones-de-morena-a-no-descuidar-labor-legislativa-2026-10-16__1721945",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Merary Villegas entra a contienda por coordinación en Culiacán",
+        "summary": "La diputada federal por Morena se suma a la competencia interna para coordinación municipal en Culiacán rumbo al proceso electoral 2027.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/merary-villegas-entra-a-la-competencia-por-la-coordinacion-de-morena-en-culiacan-GH26564772",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Clouthier cuestiona designación de Clara Luz Flores",
+        "summary": "El político critica la designación de Clara Luz Flores, señalando que no fortalece al proyecto de ganar el estado en próximas elecciones.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/16/no-se-quiere-ganar-el-estado-clouthier-cuestiona-designacion-de-clara-luz-flores/",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Maribel Vega renuncia a la ENEF para coordinar Morena en El Fuerte",
+        "summary": "La funcionaria abandona su cargo en la Escuela Normal y busca la coordinación municipal de Morena en El Fuerte.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-16/politica/maribel-vega-deja-la-enef-y-va-por-la-coordinacion-de-la-4t-en-el-fuerte-/310302",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Daniel Parra renuncia a Tesorería para buscar coordinación en Salvador Alvarado",
+        "summary": "El tesorero municipal abandona su puesto para participar en la selección de coordinador de Morena en Salvador Alvarado.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/renuncia-daniel-parra-a-tesoreria-de-salvador-alvarado-para-buscar-coordinacion-municipal-de-morena-2026-10-16__1721794",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Luis Lugo aspira a coordinación de Morena en El Fuerte",
+        "summary": "Candidato afirma que el respaldo popular lo impulsa a participar en la contienda por la coordinación municipal en El Fuerte.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-16/politica/el-respaldo-de-la-gente-me-impulso-luis-lugo-busca-coordinar-la-4t-en-el-fuerte/310226",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
       {
         "title": "Alonso Ramírez se registra en Morena para coordinación en Culiacán",
         "summary": "Aspirante formaliza registro dentro del proceso interno de Morena para la coordinación municipal de Culiacán rumbo a elecciones 2027.",
@@ -70,6 +126,54 @@
     ],
     "seguridad": [
       {
+        "title": "Trasladan 49 reos de penales de Aguaruto y El Castillo",
+        "summary": "Gobierno despresuriza penales tras riñas mortales, trasladando internos a centros penitenciarios de otras entidades para reducir hacinamiento.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/traslado-de-reos-en-sinaloa-a-otros-penales-del-pais-ya-estaban-programados-afirma-gobernadora-MH26562439",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Militares regresan a Escuinapa tras semana de ausencia",
+        "summary": "Fuerzas armadas retornan a Escuinapa luego de una semana sin presencia, en medio de ola de violencia en la zona.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/regresan-militares-a-escuinapa-tras-semana-de-ausencia-FH26561073",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a once personas por armas y drogas en Escuinapa",
+        "summary": "FGR lleva a juicio a detenidos que portaban armas de uso exclusivo y metanfetamina para venta en operativo de Isla del Bosque.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/vinculan-a-proceso-a-once-personas-por-armas-y-drogas-en-escuinapa-DH26560012",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Fiscalía abre 109 carpetas por feminicidio en el año",
+        "summary": "FGE realiza análisis de contexto en carpetas de investigación para esclarecer móviles y ubicar responsables de estos crímenes.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/fiscalia-tiene-109-carpetas-de-investigacion-por-feminicidio-en-este-ano-AH26561313",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Rastreadoras buscan fosas clandestinas en predios de Guasave",
+        "summary": "Colectivos de búsqueda y Comisión Estatal realizan excavaciones en terrenos de Guasave en búsqueda de restos de desaparecidos.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/rastreadoras-y-comision-de-estatal-realizan-busqueda-de-fosas-clandestinas-en-predios-de-guasave-2026-10-16__1721809",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Caen cuatro operadores presuntos del Cártel de Sinaloa",
+        "summary": "Autoridades capturan a cuatro presuntos miembros del crimen organizado, entre ellos apodado \"Pokémon\", con arsenal y droga.",
+        "zona": "Estatal",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNGwzcWpVZXZ2Ml9CRXg3RnNmV3hfYlVlaGVwR3JpRG1VNkE4bkctVFZWbW16aVpWV3J0UVNpbjJZMWVyYUhmVXZKTEUwWllwdVRqYmt4b1ROblljMGRiaGU3eDR3dFJNekdmZmlMaHdrbnItcllGY3FIV0wtU2wwamJoME9CSlZfMEVmTzZ5alNvaDluWHNYQzZJR0h6aTFyTFM3X3hTMF9vdVZ6VzMtbEQ1UFc1ZzRkNHNJTFVpcWY",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
         "title": "Detienen a cuatro civiles con ametralladora en Culiacán",
         "summary": "Aseguran arma larga, metanfetamina y grúa a grupo delictivo en la colonia Industrial Bravo.",
         "zona": "Centro",
@@ -136,6 +240,70 @@
     ],
     "economia": [
       {
+        "title": "Ahome busca tecnología húngara para gestión de agua",
+        "summary": "Ayuntamiento de Ahome explora soluciones tecnológicas húngaras para enfrentar retos en manejo de agua y fortalecer inversión local.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/ahome-busca-tecnologia-hungara-para-encarar-retos-en-el-manejo-del-agua-y-potenciar-la-inversion-local-MH26567694",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Ganaderos de Culiacán prefieren elaborar derivados ante precio bajo de leche",
+        "summary": "Productores optan por hacer quesos y asaderas en lugar de vender leche a 8.50 pesos por litro por baja rentabilidad.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/ganaderos-de-culiacan-prefieren-hacer-quesos-y-asaderas-que-vender-la-leche-a-8-50-pesos-el-litro-2026-10-16__1721917",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Turismo naviero impulsa ventas en mercado Pino Suárez de Mazatlán",
+        "summary": "Arribo de cruceros a Mazatlán dinamiza comercio en el mercado tradicional con repunte de ventas en el sector.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/repuntan-las-ventas-en-el-mercado-pino-suarez-con-el-arribo-de-turismo-naviero-a-mazatlan-2026-10-16__1721950",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Restauranteros de Culiacán innovan para evitar cierre en 2027",
+        "summary": "Comerciantes del sector gastronómico adaptan modelos de negocio ante perspectivas de crisis para mantener viabilidad.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/restauranteros-de-culiacan-han-innovado-para-evitar-el-cierre-de-negocios-en-el-2027-2026-10-16__1721882",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Arrancan labores agrícolas en Guasave entre incertidumbre",
+        "summary": "Productores inician siembras en Guasave enfrentando dificultades con créditos y rentabilidad por condiciones del mercado.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/arrancan-labores-agricolas-en-guasave-creditos-y-rentabilidad-mantienen-en-incertidumbre-al-productor-2026-10-16__1721848",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Cabildo de Ahome aprueba drenaje y obras de básicos",
+        "summary": "Ayuntamiento de Ahome autoriza inversión de 18 millones de pesos del Ramo 33 para rehabilitar infraestructura de drenaje.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/cabildo-aprueba-obras-de-drenaje-y-servicios-basicos-en-ahome-con-bolsa-de-18-millones-del-ramo-33-EH26566323",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Cabildo de Escuinapa aprueba modificación a programa de obra",
+        "summary": "Autoridades municipales de Escuinapa autorizan reajustes al programa de obra pública por 74 millones de pesos.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/aprueba-cabildo-de-escuinapa-modificacion-a-programa-de-obra-publica-por-74-millones-AF26545720",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Aumentan casos de gusano barrenador en Concordia sin reportes",
+        "summary": "Rastro Municipal refuerza monitoreo ante incremento de infestación de gusano barrenador, aunque ganaderos no formalizan denuncias.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/aumentan-casos-de-gusano-barrenador-en-concordia-pero-ganaderos-curan-a-sus-animales-y-no-reportan-2026-10-16__1721919",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
         "title": "Grupo Panamá oferta más de 160 empleos en Culiacán",
         "summary": "Ayuntamiento de Culiacán y empresa privada impulsan feria de empleo con múltiples vacantes disponibles.",
         "zona": "Centro",
@@ -177,6 +345,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Más de 500 sinaloenses concluyen estudios de educación básica",
+        "summary": "ISEJA entrega certificados a adultos que finalizaron educación primaria, secundaria y alfabetización en programas estatales.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/entrega-iseja-certificados-a-545-sinaloenses-que-concluyeron-sus-estudios-FH26566452",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Escuelas recurren a clases intermitentes por inseguridad en el sur",
+        "summary": "Instituciones educativas en comunidades del sur de Sinaloa adoptan modelo de clases esporádicas por situación de violencia.",
+        "zona": "Sur",
+        "source": "Sinaloa en Línea",
+        "url": "https://sinaloaenlinea.com/escuelas-recurren-a-clases-intermitentes-por-inseguridad-en-comunidades-del-sur-de-sinaloa/",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Estudiantes de 39 escuelas en clases virtuales por falla eléctrica",
+        "summary": "Cortes de energía eléctrica obligan a 39 planteles educativos a suspender clases presenciales en Sinaloa.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/estudiantes-de-39-escuelas-de-sinaloa-se-mantienen-en-clases-virtuales-por-fallas-en-energia-electrica-2026-10-16__1721903",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Gobernadora destaca importancia de alfabetización para adultos",
+        "summary": "Graciela Domínguez subraya que saber leer y escribir abre oportunidades para personas adultas y adultas mayores.",
+        "zona": "Sur",
+        "source": "Noticias Digitales Sinaloa",
+        "url": "https://noticiasdigitalessinaloa.mx/sinaloa/aprender-a-leer-y-escribir-abre-la-puerta-a-nuevas-oportunidades-para-personas-adultas-y-adultas-mayores-expresa-gobernadora-graciela-dominguez/",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Detectan mujer vulnerable afectada por marejadas en Guasave",
+        "summary": "Autoridades localizan a persona de avanzada edad con carencias extremas y problemas visuales impactada por oleaje.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/sin-ver-bien-y-con-carencias-extremas-detectan-a-mujer-vulnerable-afectada-por-marejadas-en-guasave-2026-10-16__1721953",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Daño en tubería afecta agua a once colonias del norte de Mazatlán",
+        "summary": "Trabajos de construcción fracturaron línea de conducción de 10 pulgadas, dejando sin agua potable a sectores de Mazatlán.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/danan-tuberia-por-obra-externa-y-se-quedan-sin-agua-potable-11-colonias-del-norte-de-mazatlan-AH26567304",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
+      {
+        "title": "Socavón en avenida Emilio Barragán cierra carril en Mazatlán",
+        "summary": "Colapso de colector en desuso provoca hundimiento asfáltico en vía importante de Mazatlán, afectando circulación.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/detectan-socavon-en-la-avenida-emilio-barragan-y-autoridades-cierran-un-carril-en-mazatlan-2026-10-16__1721769",
+        "_added_at": "2026-10-16T17:04:44.147899-07:00"
+      },
       {
         "title": "Rastro Municipal refuerza monitoreo ante gusano barrenador",
         "summary": "Autoridades sanitarias agrícolas implementan medidas preventivas en instalaciones de sacrificio animal.",
@@ -240,16 +464,8 @@
         "source": "Noroeste",
         "url": "https://www.noroeste.com.mx/culiacan/proteccion-civil-llama-a-aficionados-a-ubicar-cuerpos-de-auxilio-en-juegos-de-la-lmp-EF26547571",
         "_added_at": "2026-10-16T00:32:35.079445-07:00"
-      },
-      {
-        "title": "Aficionados denuncian reventa de boletos en Culiacán",
-        "summary": "Fans enfrentan cobros abusivos en estacionamiento e inflación de precios en inauguración de LMP.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/reportan-reventa-de-boletos-y-cobros-por-estacionarse-en-calles-junto-al-estadio-de-tomateros-NF26548306",
-        "_added_at": "2026-10-16T00:32:35.079445-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-16T10:45:31.804757-07:00"
+  "last_updated": "2026-10-16T17:04:44.147899-07:00"
 }
