@@ -1,359 +1,127 @@
 {
-  "date": "2026-10-17",
-  "run_count": 3,
+  "date": "2026-10-18",
+  "run_count": 1,
   "notes": {
     "politica": [
       {
-        "title": "Cinco aspirantes internos compiten por coordinación municipal de Morena en Culiacán",
-        "summary": "Jesús Ibarra y otros cuatro morenistas se registran para la coordinación municipal. Morena aplicará encuestas para definir al candidato con mejor posicionamiento.",
-        "zona": "Centro",
+        "title": "Alcalde de Ahome formaliza registro en proceso interno de Morena",
+        "summary": "Antonio Menéndez de Llano Bermúdez oficializó su inscripción en la contienda interna de Morena para los comités de la región.",
+        "zona": "Norte",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/cinco-morenistas-levantan-la-mano-por-la-alcaldia-de-culiacan-KI26590930",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
+        "url": "https://www.noroeste.com.mx/norte/formaliza-antonio-menendez-su-registro-para-encabezar-los-comites-de-la-4t-en-ahome-DI26594711",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Gobernadora advierte: funcionarios que aspiren a coordinaciones deben renunciar",
-        "summary": "Graciela Domínguez establece condición clara para servidores públicos que busquen participar en proceso interno de Morena rumbo a 2027.",
-        "zona": "Estatal",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-17/politica/graciela-dominguez-funcionarios-estatales-que-aspiren-a-coordinaciones-de-morena-deberan-renunciar/310412",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Estrella Palacios aplaza decisión sobre registro para coordinación en Mazatlán",
-        "summary": "Alcaldesa de Mazatlán no confirma si participará en proceso interno de Morena ni si pedirá licencia. Cierre de registro es inminente.",
-        "zona": "Sur",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/17/a-un-dia-del-cierre-del-registro-estrella-palacios-no-confirma-si-participara-ni-si-pedira-licencia/",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Claudia Valdez descarta separarse del cargo para contender en elecciones 2027",
-        "summary": "Alcaldesa de Rosario niega planes de renunciar para participar en próximos comicios electorales.",
+        "title": "Alcaldesa de Mazatlán no confirma participación en proceso interno",
+        "summary": "Estrella Palacios evita aclarar si buscará la coordinación municipal de Morena en el proceso electoral.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/descarta-alcaldesa-de-rosario-separarse-del-cargo-en-busca-de-contender-en-la-proximas-elecciones-AJ26586633",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Congreso de Sinaloa llama a frenar violencia política contra mujeres",
-        "summary": "Legislatura emite pronunciamiento sobre agresiones y violencia política que enfrentan mujeres en proceso electoral.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1I3MFp1SEZBVHFZdGFjWFlNbjBsZXYyR1I2NVVjYWVpQTRsdGNBd2VNdFYxVGpDU0Mwb2ZWQlJNeTJ2REhYbTh1SWc2bU9YaC0xcnp2SnZxTVM0QkZabHVKdGF6RnVxbTdYQmdDb01EQmZZR2pCLXh2VDNuajZ4Z3RJQmNHR2FaM1J2OGVPTTQ5RTJPaWswMkdlVWNRcjJLYTBsSkJ5NWN3eGcxQ29lRmczZ3VBcUFLdGJoN0tQeFM4RW5jc3B0SElIdnhyUQ?oc=5",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Nombran nueva directora del Instituto de Capacitación para el Trabajo",
-        "summary": "Francisca Abelló Jordan asume la dirección general del ICATSIN ante la Gobernadora Graciela Domínguez Nava.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/francisca-abello-asume-la-direccion-general-del-icatsin-AG26573715",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
-      },
-      {
-        "title": "Sancionan a funcionaria de Mazatlán por omisión administrativa",
-        "summary": "Claudia Magdalena Cárdenas recibe inhabilitación de tres meses por irregularidad en selección de titular del OIC.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/sancionan-con-inhabilitacion-de-3-meses-a-claudia-cardenas-por-omision-administrativa-en-mazatlan-MG26573780",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
-      },
-      {
-        "title": "SEPyC regulariza plazas de 25 prefectos en secundarias técnicas",
-        "summary": "La Secretaría de Educación estataliza la plaza laboral de prefectos de instituciones educativas en Sinaloa.",
-        "zona": "Estatal",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/regulariza-sepyc-a-25-trabajadores-como-prefectos-de-secundarias-tecnicas-en-sinaloa-PG26570078",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/estrella-palacios-evita-confirmar-si-buscara-la-coordinacion-municipal-de-morena-en-mazatlan-KI26592954",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       }
     ],
     "seguridad": [
       {
-        "title": "Tres detenidos enfrentarán caso de feminicidio de Renata en Escuinapa",
-        "summary": "Autoridades capturaron a tres hombres armados en Escuinapa. Se investiga su relación con el feminicidio de la estilista Renata.",
+        "title": "Escuinapa suma 20 homicidios desde junio",
+        "summary": "Mujer fue asesinada a balazos en colonia Centro, continuando patrón de violencia en la zona sur.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/tres-hombres-detenidos-armados-en-escuinapa-ahora-enfrentaran-el-caso-del-feminicidio-de-renata-OJ26585182",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
+        "url": "https://www.noroeste.com.mx/seguridad/asesinan-a-una-mujer-en-la-colonia-centro-de-escuinapa-suman-20-casos-desde-junio-HI26594232",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Se busca a desaparecido desde septiembre en Rosario; activan protocolo de localización",
-        "summary": "Jesús Antonio Hernández Patiño desapareció hace un mes en Las Habitas. Autoridades activaron protocolo de búsqueda.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/buscan-a-jesus-antonio-hernandez-patino-desaparecido-desde-septiembre-en-rosario-AJ26587227",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Continúan revisiones en penal El Castillo de Mazatlán; estrategia federal de traslados",
-        "summary": "Secretario de Seguridad informa sobre traslado de 49 reos y construcción de nuevo penal. No descartan cierre del actual.",
-        "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/continuan-las-revisiones-al-interior-del-penal-de-el-castillo-en-mazatlan-asegura-sinuhe-tellez-2026-10-17__1722429",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Gobierno de Sinaloa buscará actualizar padrón de familias desplazadas por violencia",
-        "summary": "Gobernadora estima más de tres mil familias desplazadas. Solicitará nuevo estudio a UAdeO para precisar cifras y coordinar apoyos.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/gobierno-de-sinaloa-buscara-actualizar-padron-de-familias-desplazadas-con-apoyo-de-la-uadeo-2026-10-17__1722317",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Gobernadora entrega 60 lotes con servicios a familias desplazadas en Mazatlán",
-        "summary": "Gobierno estatal entrega predios en fraccionamiento CVIVE. Acción dirigida a familias afectadas por la violencia.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/entrega-gobierno-de-sinaloa-60-lotes-con-servicios-a-familias-desplazadas-por-la-violencia-en-mazatlan-DJ26586216",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Detienen a dos por feminicidio agravado en Escuinapa",
-        "summary": "Autoridades capturaron a dos hombres acusados de feminicidio agravado en el municipio de Escuinapa.",
-        "zona": "Sur",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/17/detienen-a-dos-hombres-por-feminicidio-agravado-en-escuinapa/",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Hombre ejecutado y atado localizado en la Costerita, Culiacán",
-        "summary": "Peritos de la Fiscalía levantaron indicios en el sitio para integrar carpeta de investigación.",
-        "zona": "Centro",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/hallan-a-un-hombre-ejecutado-y-maniatado-a-orillas-de-la-costerita-en-culiacan-OG26578754",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Cuerpo con señas de tortura encontrado en El Ranchito",
-        "summary": "Localizaron cadáver con evidentes signos de tortura en Culiacán.",
-        "zona": "Centro",
-        "source": "Ríodoce",
-        "url": "https://riodoce.mx/2026/10/17/localizan-cuerpo-con-senas-de-tortura-en-el-ranchito-culiacan/",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Armas desaparecen tras riña que dejó 12 muertos en penal",
-        "summary": "Se reporta desaparición de armas largas usadas en enfrentamiento que causó 12 decesos en reclusorio de Mazatlán.",
-        "zona": "Sur",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/17/desaparecen-armas-largas-usadas-en-rina-que-dejo-12-muertos-en-penal-de-mazatlan/",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Familiares exigen avances en caso de María Fernanda Gastélum",
-        "summary": "Allegados se manifiestan ante Vicefiscalía Regional Zona Norte reclamando justicia por muerte de madre e hijo en Los Mochis.",
-        "zona": "Norte",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/norte/exigen-justicia-por-el-asesinato-de-maria-fernanda-y-su-bebe-en-los-mochis-EG26572969",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
-      },
-      {
-        "title": "Marina asegura nueve artefactos explosivos en El Walamo y Villa Unión",
-        "summary": "Personal naval localiza explosivos improvisados durante inspección en localidades de la región centro del estado.",
+        "title": "Abarrote atacado con armas largas en Culiacán",
+        "summary": "Comercio fue blanco de ataque armado en la colonia Adolfo López Mateos, nuevo incidente de violencia en la capital.",
         "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/detienen-a-2-armados-en-la-zona-dorada-de-mazatlan-aseguran-9-explosivos-en-villa-union-AG26572266",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
+        "url": "https://www.noroeste.com.mx/seguridad/atacan-con-armas-largas-abarrote-en-la-colonia-adolfo-lopez-mateos-en-culiacan-AI26595401",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Subsecretario de Prevención visitará Mazatlán para reforzar seguridad",
-        "summary": "Miguel Torruco Garza asistirá el 5 de noviembre en Mazatlán para impulsar medidas de prevención de violencia.",
+        "title": "Taller en Mazatlán sufre segundo ataque a balazos",
+        "summary": "Negocio fue atacado nuevamente con armas de fuego en colonia Salvador Allende, indicador de inseguridad persistente.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/anuncian-visita-de-miguel-torruco-a-mazatlan-para-reforzar-prevencion-de-la-violencia-IG26573759",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
+        "url": "https://www.noroeste.com.mx/seguridad/atacan-a-balazos-por-segunda-ocasion-un-taller-en-la-salvador-allende-en-mazatlan-II26594059",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       }
     ],
     "economia": [
       {
-        "title": "Culiacán encabeza pérdida de nueve mil empleos formales en Sinaloa",
-        "summary": "Capital del estado registra mayor desempleo formal. Cifra refleja impacto económico de crisis de seguridad y desaceleración.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/culiacan-encabeza-perdida-de-empleos-formales-en-sinaloa-KJ26585816",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Crisis comercial en centro de Culiacán: bajas ventas y costos elevados cierren negocios",
-        "summary": "Locatarios reportan caída de ventas y ausencia de clientes. Algunos cierran operaciones por insostenible situación económica.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZkYxVlltR0xmYlk0dmo4X3hyQmtadGZRNG1LUTV4RlgyNE15bWkyV0xuSHZnS0lrSmtwc1VORV9QR3kwR1JiZ1FhN2JhN2dMR2U0dHhqQmpITnFpaXlSRk5MOTc4b2U5N05TVXZJeUwxVXZLeC05dTNNSFNuem55RXNielBLN09ycUU0aWUwN1N4RTRDS2hvYXRxVi1IZUtGc251OTJqRjBhVWRQck5zT0EzZk4xek40Ml93b3ktVHV2M2pHWXBJVi0wTDFaZDFaemdGRWMtclg4ZXNXbnY0NWcwYlo5Zw?oc=5",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Trabajadores ganan el doble que hace dos años pero dinero no rinde: Canaco Guasave",
-        "summary": "Cámara de comercio reporta inflación severa. Salarios mayores no compran lo mismo; poder adquisitivo erosionado.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/trabajadores-ganan-el-doble-que-hace-2-anos-pero-el-dinero-no-rinde-canaco-guasave-2026-10-17__1722439",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Constructores de Culiacán esperan cerrar año con ocupación del 40% en obras públicas",
-        "summary": "Sector constructor proyecta baja ocupación para fin de año. Dependencia de proyectos gubernamentales genera incertidumbre.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/constructores-de-culiacan-esperan-cerrar-el-ano-con-una-ocupacion-del-40-en-obras-de-gobierno-2026-10-17__1722358",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Reserva de agua en presas de Sinaloa alcanza 8 mil 830 millones de metros cúbicos",
-        "summary": "Niveles actuales de agua en embalses del estado. Información relevante para agricultura y abastecimiento.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/la-reserva-de-agua-en-las-presas-de-sinaloa-es-de-8-mil-830-millones-de-metros-cubicos-2026-10-17__1722322",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Gobernadora y Canaco Mazatlán proponen conectar cámaras de comercio al C4 de seguridad",
-        "summary": "Reunion entre ejecutiva estatal y sector comercial. Se busca esquema de vigilancia integrado para proteger negocios.",
+        "title": "PRI pide mesa de diálogo entre empresarios y autoridades",
+        "summary": "Inseguridad afecta pequeños negocios en Mazatlán; delegado priista demanda estrategia coordinada para frenar cierres.",
         "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/gobernadora-se-reune-con-directiva-de-canaco-mazatlan-proponen-conectar-camaras-comerciales-a-c4-2026-10-17__1722369",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/urge-pri-a-instalar-mesa-de-dialogo-entre-empresarios-y-autoridades-para-frenar-cierre-de-negocios-en-mazatlan-BI26595501",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Congreso Internacional de Valuación recibirá 400 asistentes",
-        "summary": "Culiacán acogerá la edición LXI del evento con participantes de diversas regiones.",
-        "zona": "Centro",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/culiacan-recibira-a-400-asistentes-al-congreso-internacional-de-valuacion-KH26569892",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+        "title": "Rehabilitación de malecón en Mazatlán se extiende hasta 2027",
+        "summary": "Autoridades analizan opciones para reparar socavones, incluyendo refuerzo con pilotes en estructura del malecón.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/rehabilitacion-de-socavones-en-el-malecon-de-mazatlan-podria-extenderse-hasta-2027-AI26594040",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Gobierno de Culiacán capacita en instalación de cargadores eléctricos",
-        "summary": "Subsidia formación de 17 personas para instalar infraestructura de carga de vehículos eléctricos en la ciudad.",
+        "title": "Nueva estrategia de promoción turística para Culiacán",
+        "summary": "Secretaría de Turismo presentó iniciativa con representantes del sector empresarial y turístico.",
         "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/capacitan-a-17-personas-en-culiacan-para-instalar-cargadores-de-autos-electricos-HG26570061",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
+        "url": "https://www.noroeste.com.mx/hubnegocios/presentan-nueva-estrategia-de-promocion-turistica-para-proyectar-los-atractivos-de-culiacan-FI26594450",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Gobernadora refuerza acciones contra violencia hacia mujeres en Escuinapa",
-        "summary": "Gobierno estatal presenta iniciativas para prevención de violencia de género. Énfasis en municipios afectados.",
+        "title": "Paro en telebachilleratos por basificación de maestros",
+        "summary": "Docentes y estudiantes se manifestaron en 100 planteles exigiendo contratación permanente del personal educativo.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/refuerza-gobierno-de-sinaloa-acciones-contra-la-violencia-hacia-mujeres-en-escuinapa-HJ26589169",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
+        "url": "https://www.noroeste.com.mx/elsur/realizan-paro-en-100-planteles-de-telebachillerato-comunitario-en-sinaloa-DI26595521",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Conversatorio en Congreso subraya falta de fortalecimiento de derechos de las mujeres",
-        "summary": "Legisladores y especialistas debaten avances insuficientes en protección de derechos femeninos. Estrategia estructural aún pendiente.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/falta-mucho-para-fortalecer-los-derechos-de-las-mujeres-realizan-conversatorio-en-el-congreso-del-estado-2026-10-17__1722433",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Culiacán registra hasta 30 reportes diarios de agresiones contra mujeres",
-        "summary": "Capital estatal suma cifras alarmantes de violencia de género. Denuncias diarias evidencian magnitud del problema.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeVlVRjBqMi1PaE5qOFlLWm50R1RKaUt6ZDlqMjYwdVBuRXlvZE9TcG9yTUt5RjNPM0J6WWFjak84eERNT3VYZEZTMnVKWmtUSnNrOGEtV0diOE90OVRNdTZoYXlnVlpXNWJyM250RzJ3cnVMSTh5SUhDQ1hPUDROcV9WWkpHS216akRwZVRvdFJmb2tyZDZUVUd0VzAtdXhwNG5PakxiRDdCVEJ5a2E1bVF0ZUluMlY5YVJaYmwtc3RPYUotaF91NmNQZ3MzTUhYQU8xejU1OG9yY3JLY21z?oc=5",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Se duplican emergencias por fugas de gas en Guamúchil; alerta Bomberos",
-        "summary": "Aumento preocupante de reportes de escapes de gas en municipio de Salvador Alvarado. Riesgo de accidentes.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/se-duplican-emergencias-por-fugas-de-gas-en-guamuchil-alerta-bomberos-2026-10-17__1722289",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Contabilizan 300 accidentes automovilísticos en Culiacán durante septiembre",
-        "summary": "Cifra de siniestros viales en capital. Septiembre cerró con tasa elevada de percances de tránsito.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/contabilizan-300-accidentes-automovilisticos-en-culiacan-durante-septiembre-2026-10-17__1722391",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
-      },
-      {
-        "title": "Ofrecen apoyo psicológico y jurídico a familias de fallecidos en penal de Mazatlán",
-        "summary": "Semujeres pone servicios a disposición de parientes de mujeres que murieron en Penal El Castillo.",
+        "title": "Familias buscadoras organizan jornada de visibilización",
+        "summary": "Colectivos convocan a ciudadanía a participar en búsqueda y recordación de desaparecidos en Mazatlán.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/ofrece-semujeres-apoyo-psicologico-y-juridico-a-familias-de-fallecidos-en-penal-de-mazatlan-EJ26580015",
-        "_added_at": "2026-10-17T16:40:16.478189-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/recrearan-labores-de-busqueda-de-desaparecidos-frente-al-ayuntamiento-de-mazatlan-GI26594424",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Adolescentes de Guamúchil intoxicados por plumas de wax",
-        "summary": "Menores fueron atendidos en urgencias con convulsiones y alucinaciones tras consumo de wax.",
+        "title": "Aula móvil atiende estudiantes en fraccionamiento de desplazados",
+        "summary": "Se habilitó instalación temporal para primer grado en CVIVE Mazatlán; planean construir primaria permanente.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/preven-construir-primaria-en-mazatlan-para-garantizar-educacion-a-ninos-desplazados-AI26593939",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
+      },
+      {
+        "title": "Encuentro busca fortalecer paz a través del arte",
+        "summary": "Convocatoria reúne representantes de sectores diversos para dialogar sobre rol de la cultura ante violencia.",
         "zona": "Centro",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/plumas-de-wax-llevan-a-adolescentes-de-guamuchil-a-urgencias-reportan-convulsiones-y-alucinaciones-2026-10-17__1722253",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/invitan-a-encuentro-para-impulsar-la-paz-a-traves-del-arte-y-la-cultura-en-sinaloa-FI26593226",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       },
       {
-        "title": "Se esperan chubascos y olas hasta de 3 metros este fin de semana",
-        "summary": "Autoridades alertan sobre condiciones meteorológicas adversas en Sinaloa con lluvia y oleaje considerable.",
+        "title": "Culiacán registra más de 300 siniestros viales en septiembre",
+        "summary": "Mapasin reporta alta cifra de accidentes con víctimas mortales entre peatones y ciclistas en la capital.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/culiacan-registra-mas-de-300-siniestros-viales-en-septiembre-mueren-peaton-y-ciclista-mapasin-GI26592774",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
+      },
+      {
+        "title": "Refuerzan seguridad en estadios de béisbol de Sinaloa",
+        "summary": "Autoridades de tres niveles implementan esquema de vigilancia con múltiples círculos de protección.",
         "zona": "Estatal",
-        "source": "Línea Directa (Sur)",
-        "url": "https://lineadirectaportal.com/sinaloa/se-esperan-chubascos-y-olas-de-hasta-3-metros-en-sinaloa-este-fin-de-semana-atentos-2026-10-17__1722211",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "UAS lanza convocatoria Jornada Universitaria del Conocimiento",
-        "summary": "Universidad Autónoma de Sinaloa invita participación en jornada con focus en Odontología.",
-        "zona": "Centro",
-        "source": "Café Negro",
-        "url": "https://cafenegroportal.com/lanza-la-uas-convocatoria-para-la-jornada-universitaria-del-conocimiento-2026-en-odontologia/",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Teatro Ingenio reabre con concierto de piano y flauta",
-        "summary": "Recinto de Los Mochis inaugura su reapertura con presentación del Grupo Fúvola Trio.",
-        "zona": "Norte",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/se-reapertura-el-teatro-ingenio-de-los-mochis-con-grupo-fuvola-trio-de-piano-y-flauta-1150437/",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Cruz Roja reporta respuesta de cuatro minutos en emergencias",
-        "summary": "Organización humanitaria anuncia reducción de tiempo de atención en Culiacán.",
-        "zona": "Centro",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/17/cruz-roja-dice-reducir-a-cuatro-minutos-la-respuesta-a-emergencias-en-culiacan/",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Mazatlán inicia obras de pavimentación en colonias Ejidal y Jaripillo",
-        "summary": "Alcaldesa Estrella Palacios dio banderazo de salida a proyectos de infraestructura vial.",
-        "zona": "Sur",
-        "source": "Noroeste (Mazatlán)",
-        "url": "https://www.noroeste.com.mx/mazatlan/dan-banderazo-a-obras-de-pavimentacion-en-las-colonias-ejidal-y-jaripillo-de-mazatlan-MG26571481",
-        "_added_at": "2026-10-17T09:45:27.329336-07:00"
-      },
-      {
-        "title": "Universidad Politécnica inaugura Centro de Simulación Clínica en Elota",
-        "summary": "UPMYS abre nuevo centro de simulación médica para fortalecer formación de estudiantes de salud en el sur.",
-        "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/upmys-inaugura-en-elota-su-centro-de-simulacion-clinica-AG26573663",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
-      },
-      {
-        "title": "Mazatlán avanzan al 30% en construcción de centro comunitario México Imparable",
-        "summary": "Proyecto para atender causas de violencia en Mazatlán progresa en su ejecución según avance reportado.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/avanza-30-centro-comunitario-mexico-imparable-para-atender-las-causas-de-la-violencia-en-mazatlan-GG26571979",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
-      },
-      {
-        "title": "Restricción de acceso a escollera del Cerro del Crestón por riesgo de derrumbes",
-        "summary": "Ayuntamiento de Mazatlán cierra zona por medidas de prevención ante inestabilidad estructural del sitio.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/busca-ayuntamiento-de-mazatlan-solucion-al-cierre-de-la-escollera-del-cerro-del-creston-CG26573177",
-        "_added_at": "2026-10-17T00:12:39.126837-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/refuerzan-seguridad-en-estadios-de-beisbol-de-sinaloa-con-tres-circulos-de-vigilancia-DI26594362",
+        "_added_at": "2026-10-18T00:26:19.459447-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-17T16:40:16.478189-07:00"
+  "last_updated": "2026-10-18T00:26:19.459447-07:00"
 }
