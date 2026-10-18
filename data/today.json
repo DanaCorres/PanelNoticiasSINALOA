@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
       {
@@ -21,6 +21,38 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Balean a titular de Agencia de Investigación Criminal en Morelos",
+        "summary": "Elementos dispusieron en contra del jefe de la Agencia de Investigación Criminal en Morelos; resulta impactado por proyectiles.",
+        "zona": "Estatal",
+        "source": "Ríodoce",
+        "url": "https://riodoce.mx/2026/10/18/balean-a-titular-de-la-agencia-de-investigacion-criminal-en-morelos/",
+        "_added_at": "2026-10-18T10:01:17.518792-07:00"
+      },
+      {
+        "title": "Policía estatal muere en accidente de motocicleta en puente",
+        "summary": "Agente de la Policía Estatal Preventiva falleció al caer desde un puente vehicular en la Colonia Industrial El Palmito en Culiacán.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/muere-policia-estatal-tras-caer-en-moto-desde-puente-en-el-palmito-en-culiacan-HC26600575",
+        "_added_at": "2026-10-18T10:01:17.518792-07:00"
+      },
+      {
+        "title": "Hombre asesinado dentro de tienda de conveniencia en Culiacán",
+        "summary": "Dependiente fue ejecutado a balazos dentro de establecimiento comercial en la Colonia Estela Ortiz de Toledo en Culiacán.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/asesinan-a-balazos-a-dependiente-de-tienda-en-la-colonia-esthela-ortiz-en-culiacan-JI26599716",
+        "_added_at": "2026-10-18T10:01:17.518792-07:00"
+      },
+      {
+        "title": "Familias buscadoras recrean operativo de búsqueda en Mazatlán",
+        "summary": "Colectivos de desaparecidos convocan a ciudadanía para visibilizar a personas desaparecidas frente al Ayuntamiento de Mazatlán.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/recrearan-labores-de-busqueda-de-desaparecidos-frente-al-ayuntamiento-de-mazatlan-GI26594424",
+        "_added_at": "2026-10-18T10:01:17.518792-07:00"
+      },
       {
         "title": "Escuinapa suma 20 homicidios desde junio",
         "summary": "Mujer fue asesinada a balazos en colonia Centro, continuando patrón de violencia en la zona sur.",
@@ -123,5 +155,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-18T00:26:19.459447-07:00"
+  "last_updated": "2026-10-18T10:01:17.518792-07:00"
 }
