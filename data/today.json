@@ -1,8 +1,40 @@
 {
   "date": "2026-10-19",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "politica": [
+      {
+        "title": "Gobernadora pide a funcionarios separarse si buscan candidatura",
+        "summary": "Graciela Domínguez solicita que servidores públicos renuncien a sus cargos si desean participar en procesos internos de Morena para las elecciones 2027.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/pide-gobernadora-a-funcionarios-separarse-de-sus-cargos-si-buscan-contender-en-morena-JG26645387",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Juan Carlos Patrón continúa juramentación de Comités Ciudadanos",
+        "summary": "Toma de protesta de Comités Ciudadanos en defensa de la Cuarta Transformación avanza en diferentes distritos electorales del sur.",
+        "zona": "Sur",
+        "source": "Noticias Digitales Sinaloa",
+        "url": "https://noticiasdigitalessinaloa.mx/politica/continua-juan-carlos-patron-con-la-toma-de-protesta-de-comites-ciudadanos-en-defensa-de-la-4t/",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Exalcalde Martín Ahumada se registra por coordinación en Guasave",
+        "summary": "Martín Ahumada busca la coordinación municipal de Morena en Guasave para el próximo proceso electoral.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-19/politica/exalcalde-martin-ahumada-se-registra-para-coordinar-la-4t-en-guasave-/310766",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Feliciano Valle se registra para coordinación de Morena en Guasave",
+        "summary": "Feliciano \"Chano\" Valle se inscribe como aspirante a la coordinación municipal de Morena en Guasave.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-19/politica/feliciano-chano-valle-se-registra-para-buscar-la-coordinacion-municipal-de-morena-en-guasave/310764",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
       {
         "title": "Gobernadora confirma renuncias de funcionarios por proceso electoral",
         "summary": "Graciela Domínguez pide a servidores públicos separarse de cargos si buscan contender en Morena para elecciones 2027.",
@@ -90,41 +122,41 @@
         "source": "Línea Directa",
         "url": "https://lineadirectaportal.com/sinaloa/angelina-valenzuela-se-registra-como-aspirante-a-coordinar-la-4t-en-ahome-confia-en-el-proceso-2026-10-19__1723081",
         "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Antonio Menéndez asegura que aspiraciones en Morena no interfieren con labores",
-        "summary": "Alcalde de Ahome afirma que sus aspiraciones dentro de Morena no afectarán su desempeño como autoridad municipal.",
-        "zona": "Norte",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-19/politica/antonio-menendez-asegura-que-sus-aspiraciones-en-morena-no-interferiran-con-sus-labores-como-alcalde-de-ahome/310660",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Evangelina Llanes se registra con Morena para continuar en Juan José Ríos",
-        "summary": "Alcaldesa de Juan José Ríos busca reelección por Morena con su registro en el proceso interno del partido.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/evangelina-llanes-carreon-busca-continuar-en-la-alcaldia-de-juan-jose-rios-se-registra-con-morena-2026-10-19__1723105",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "CEDH pide distinguir gravedad de quejas contra Fiscalía y Educación",
-        "summary": "Comisión Estatal de Derechos Humanos urge priorizar y diferenciar la severidad de denuncias contra dependencias.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/pide-cedh-distinguir-gravedad-de-quejas-contra-fiscalia-y-educacion-FA26626883",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Estrella Palacios anuncia reelección para alcaldía de Mazatlán",
-        "summary": "Primera presidenta municipal electa de Mazatlán busca reelección para el trienio 2024-2027.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/anuncia-estrella-palacios-que-buscara-la-reeleccion-a-la-alcaldia-de-mazatlan-CD26617162",
-        "_added_at": "2026-10-19T01:05:59.557012-07:00"
       }
     ],
     "seguridad": [
+      {
+        "title": "Protesta en Los Mochis por feminicidio de Fernanda Gastélum",
+        "summary": "Familiares de María Fernanda se manifiestan ante Fiscalía de Sinaloa demandando justicia por su muerte y la de su bebé no nacido.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/vicefiscalia-comparte-con-familiares-a-puerta-cerrada-los-avances-del-feminicidio-de-maria-fernanda-tras-protesta-AB26634325",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Refuerzan seguridad en Mazatlán tras hechos violentos",
+        "summary": "Autoridades despliegan operativo de seguridad en zonas donde ocurrieron hechos violentos durante el fin de semana en Mazatlán.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/refuerzan-seguridad-en-areas-donde-ocurrieron-hechos-violentos-el-domingo-en-mazatlan-alcaldesa-CB26637731",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Decomisan 1.5 toneladas de droga en Mazatlán",
+        "summary": "Operativo asegura 1.5 toneladas de marihuana y metanfetamina en un inmueble de Mazatlán.",
+        "zona": "Sur",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUmN5V003QnZHWDh0bU1ybEZnbC0wV05HMERLSmszSUlQSGFKUEVxRk1yNzZCdE5UTkpBdnNKekllMDdHcVhQbHRfLUxsUC1HTWllcER0QkNBdzJka1g4WENZdzdVRTdVeWdJbDJySG5ISFY3N3NMYUFMbGdlYnFBaXp0TEp3cGU5d1hOMXFETWd3dkFuTVNEOUhXV0t5RHk0VmxrSmNRSWpXSWU1R1R1RGhzb1dnRi1ZckhUcmpXa2ZKaHp0dVE?oc=5",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Operativo en Mazatlán asegura armas y vehículos",
+        "summary": "Ejército realiza operativo en sector FOVISSSTE y asegura armamento, municiones y vehículos.",
+        "zona": "Sur",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZFJPOXEzUmJrckJoMVlhRGlBNDNIOWFrcm8wRTZhQmtqdHJBN2p5RW9sTlR2NldYb3lWWVJMcFBtU0Vjbm1IZy1rTEd1Szc2STBNWWZhbWczVlNKVlN3emF0SUVLMFc0Q1dKaFhfYWVlVUdoRXdEMjF2OGhOdGx4ME5oSkVySlhtTFJSV2ZJZ1UyV3ZNN3hWS1VfMVJNYUZIdzhLRGtkMHhmaHdkdWZ1TjZGNUtYQ2doUlQtdlVWX3hyQlhPbnRnWk1VODdDSFNpdGp2V3AyQzZaa3BzM3NkaUx1NU1Yd1NZVUtF?oc=5",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
       {
         "title": "Asesinan a mujer motociclista en Mazatlán",
         "summary": "Ejecutan a balazos a mujer en el fraccionamiento San Joaquín; refuerzan seguridad en zonas afectadas.",
@@ -212,41 +244,33 @@
         "source": "Línea Directa",
         "url": "https://lineadirectaportal.com/sinaloa/fiscalia-revela-a-familiares-de-maria-fernanda-avances-en-investigacion-de-su-feminicidio-en-los-mochis-2026-10-19__1723108",
         "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Detienen a cuatro personas con campamentos clandestinos en Rosario",
-        "summary": "Autoridades capturan a cuatro individuos entre ellos extranjero; aseguran tres campamentos ilegales en la comunidad.",
-        "zona": "Sur",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/policiaca/en-rosario-detienen-a-4-personas-entre-ellos-un-extranjero-aseguran-tres-campamentos-clandestinos/",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Descomponen 1.5 toneladas de droga en Mazatlán-Tepic",
-        "summary": "Autoridades aseguran marihuana y metanfetamina en operativo en carretera Mazatlán-Tepic.",
-        "zona": "Sur",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNmJ5bUFjOEJyYmVUTE5UdGxWOHNKdWZDWlJJMmNuSEVpd3IwUzlPWktKVll1Um01QjFDMjZ0dmNKZWpVcUM0eWRoVXVEeEpqWUlfWEpUNW91QUg4MkVJNF9IZDFCOEJYTy0yQ1l0ZkdJMUFvNFlmWjcxVjVMeFEtcXNHbUFONmQ1X3pKSzZsd2tCM3RPYkNuOTZiN0RzS1pQamsxZGdKVlZCNUN6ZG1NRllWaVpadkoxMG1tR19kODlzSjdhd2xyekhhMmlaZEZyeFp4eGd0UGlHcHlrSHppel9ybzA3Y3NHc0l6aFFicWVBUVlQMzU0YUJ6Wml4UHc?oc=5",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Guerreros Azules solicita patrullajes conjuntos por inseguridad a policías",
-        "summary": "Asociación pide coordinación interinstitucional de seguridad ante riesgos que enfrenta la policía municipal.",
-        "zona": "Estatal",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSklCRGxnVXRUbHA5MHdrRXpabVFBTzlOVTVfUFFmODNUNzgtU0NhRDljZFdUWktKdnF3eWg2X0c1bXRrWWRTU3U5eGEwV3RjdmNaLVlIV0V0MV9FOEI2ZDl1YmN3QUVTcFdjWmh0aEtCdUFnRWRsMC1QNW1hVkQzN1I4VERUWHhXTS1yNHQtQzYzbVE2VDZzbl9vazJ5XzhVUzVhV0xfSEZJOU43dDRWbUlwNktvUFZjMU8zTjV0UVNjM04zWWZxd0NYWlNMTC05SENON1lOaVViUQ?oc=5",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Cae célula delictiva vinculada a robos de mineros y turistas",
-        "summary": "Autoridades federales detienen grupo criminal presuntamente responsable de asaltos a trabajadores y visitantes.",
-        "zona": "Estatal",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/cae-celula-delictiva-la-vinculan-con-casos-de-mineros-y-turistas-DD26616410",
-        "_added_at": "2026-10-19T01:05:59.557012-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "UAS requiere más de mil 380 millones para aguinaldos y quincenas",
+        "summary": "Rector Jesús Madueña señala que la Universidad Autónoma de Sinaloa necesita financiamiento urgente para cubrir obligaciones salariales de diciembre.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/uas-necesita-mil-380-millones-de-pesos-para-cubrir-aguinaldos-y-quincenas-de-diciembre-jesus-maduena-1151602/",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Impulsan siembra de frijol con cosecha de trilla directa en Guasave",
+        "summary": "Productores de Guasave exploran alternativa de cultivo de frijol con técnica de trilla directa para mejorar rendimiento.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/buscan-impulsar-la-siembra-de-frijol-con-cosecha-de-trilla-directa-como-alternativa-en-guasave-2026-10-19__1723355",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Mazatlán prevé cierre de año a la alza en pasajeros aéreos",
+        "summary": "Aeropuerto de Mazatlán espera incremento de pasajeros durante el cierre del año fiscal.",
+        "zona": "Sur",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGRabFJKU2UydHd5aVgzbi13Mm1KYk03QXNzM3dRQ09PT01sT25Jdlo3X1FsZW9jc2NVeXljQ0tHRTNyaE94YnFMMlc4UDFxQjNqWFBHUnBiSFFFVWJlM2RRcHZMX2hxZGgzclcyaFprX3JBUFNVTGxLcGF5OG9wdUdDZmtoeWlLTmNPeVY0cFNTUkdSZVpLSHNGclZUam55Y1M5NlZkY2J5ajdQT1AtSS13?oc=5",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
       {
         "title": "UAS necesita mil 300 millones para cierre de año",
         "summary": "Rector continúa gestiones ante Federación para obtener presupuesto extraordinario que complemente ejercicio fiscal.",
@@ -342,33 +366,57 @@
         "source": "Línea Directa",
         "url": "https://lineadirectaportal.com/sinaloa/empleados-jubilados-y-activos-de-pemex-mazatlan-protestan-por-falta-de-servicios-medicos-y-medicamento-2026-10-19__1723060",
         "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Empresa de Serapio Vargas recibió descuentos fiscales del 100%",
-        "summary": "Revista Espejo documenta exenciones tributarias otorgadas a firma de político durante gobierno anterior.",
-        "zona": "Centro",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/19/las-ceprofies-para-serapio-group-evidencia-de-exenciones-fiscales-a-politicos/",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Sindicato del Ayuntamiento de Salvador Alvarado para labores por adeudos",
-        "summary": "Trabajadores municipales paralizan actividades por falta de pago de 3.18 millones de pesos en prestaciones.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/sindicato-del-ayuntamiento-de-salvador-alvarado-para-labores-por-adeudos-de-3-18-millones-de-pesos-1151072/",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Prevén cierre de año al alza en pasajeros aéreos de Mazatlán",
-        "summary": "Puerto turístico de Sinaloa espera incremento en llegada de viajeros para cierre de temporada.",
-        "zona": "Sur",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDdMYWkxWE5yYlk0NWdmRTlaZHhFTUFDcFItczkwMU8zTm0yc3czLVVKcWQ1RDQtcmNibjBIdHBlclBwb3F5S2hQTWptQTc2R1BFaFQ4aVpKZHZ5NnZBcU9GN05BWVR6bHNlaHBsNWdIN01aRVVqbTFCOEM1eHlrSkJieEZsNnZtc0FuajREX2RHRkxPZ0RKVkNUaElEa2ZJdW5XRWc1NzBONUdVZnprVVZFTWxRSXoxTXc?oc=5",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
       }
     ],
     "sociedad": [
+      {
+        "title": "Diputada del PVEM propone prisión por falsa atribución de paternidad",
+        "summary": "Legisladora presenta iniciativa para aumentar penas contra quien falsamente atribuya obligaciones de paternidad en Sinaloa.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/diputada-del-pvem-propone-prision-por-atribuir-falsamente-obligaciones-de-paternidad-en-sinaloa-2026-10-19__1723350",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Mocorito lidera casos de dengue en Sinaloa con 107 contagios",
+        "summary": "Municipio del centro registra mayor número de casos de dengue en la entidad durante el período de vigilancia epidemiológica.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/mocorito-es-el-municipio-con-mas-casos-de-dengue-en-sinaloa-suma-107-casos-2026-10-19__1723321",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Mazatlán se suma a estrategia estatal de prevención del delito",
+        "summary": "Gobierno municipal firma compromiso para fortalecer la prevención de violencia desde escuelas y comunidades.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/19/mazatlan-se-suma-a-la-estrategia-sinaloa-previene-para-construir-paz/",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Gobernadora destaca aporte de sociología en 44 aniversario de Filosofía",
+        "summary": "Graciela Domínguez reconoce la importancia de profesionales de humanidades en las decisiones de gobierno durante celebración de la UAS.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/gobernadora-de-sinaloa-asiste-a-festejo-de-aniversario-de-la-facultad-de-filosofia-de-la-uas-2026-10-19__1723466",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Regresan a clases presenciales más escuelas del norte y centro",
+        "summary": "Planteles educativos de Sinaloa normalizan actividades presenciales tras resolver problemas de infraestructura.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/regresan-a-clases-presenciales-mas-escuelas-del-centro-y-norte-de-sinaloa-tras-problemas-en-planteles-2026-10-19__1723365",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
+      {
+        "title": "Comercios de Culiacán se sumarán al C4 y C5 para prevención",
+        "summary": "Cámara de comercio apoya vinculación de cámaras privadas de negocios con sistemas de seguridad estatal.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/comercios-de-culiacan-se-sumaran-al-c4-y-c5-adecem-apoya-vincular-camaras-privadas-para-prevenir-delitos-1151549/",
+        "_added_at": "2026-10-19T20:39:44.038743-07:00"
+      },
       {
         "title": "Mocorito encabeza casos de dengue; Salud destina recursos",
         "summary": "Municipio suma 107 casos confirmados de dengue; autoridad sanitaria asigna fondos extraordinarios para contención.",
@@ -440,56 +488,8 @@
         "source": "Los Noticieristas",
         "url": "https://losnoticieristas.com/sinaloa/2026/10/paran-labores-trabajadores-de-la-uaim-en-los-mochis-exigen-igualacion-salarial-y-advierten-posible-huelga-de-hambre-1151128/",
         "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Hospital Regional de Especialidades en Culiacán avanza favorablemente",
-        "summary": "Gobernador Cuitláhuac González destaca progreso de proyecto de infraestructura sanitaria estatal.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/hospital-regional-de-especialidades-en-culiacan-avanza-bien-es-un-proyecto-muy-grande-cuitlahuac-gonzalez-1151186/",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Bomberos Culiacán atiende hasta 45 fugas de gas al mes",
-        "summary": "Dependencia de seguridad alerta sobre peligro de cilindros con fugas y ofrece medidas preventivas.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/bomberos-culiacan-atiende-al-mes-hasta-45-fugas-en-cilindros-de-gas-como-prevenirlas-o-detectarlas-2026-10-19__1723127",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Gobernación implementa estrategia Sinaloa Previene en Mazatlán",
-        "summary": "Autoridades lanzan programa de proximidad y construcción de paz en municipio del sur.",
-        "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/ponen-en-marcha-sinaloa-previene-proximidad-que-construye-paz-en-mazatlan-2026-10-19__1723128",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Gobierno de Mazatlán entrega aulas rehabilitadas en primaria rural",
-        "summary": "Escuela de El Castillo recibe remodelación con inversión de 570 mil pesos.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/gobierno-de-mazatlan-entrega-remodelacion-de-aulas-en-primaria-de-el-castillo-AB26631331",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "Conmemoran Día de Lucha contra Cáncer de Mama con marcha en Rosario",
-        "summary": "Gobierno local organiza actividades de prevención y sensibilización sobre salud de la mujer.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/conmemoraron-en-rosario-el-dia-mundial-de-la-lucha-contra-el-cancer-de-mama-KA26628301",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
-      },
-      {
-        "title": "IMSS Sinaloa promueve detección oportuna del cáncer de mama",
-        "summary": "Instituto de Salud lanza campaña de autocuidado y diagnóstico temprano de enfermedad oncológica.",
-        "zona": "Estatal",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzBZbG13aDZubGtGUnA1RmRYa2R0VlQySUdfNUxsVUs3RjdXN192aGpTSXdmbmpDaWRYa2RzVVo1M2dvLVYtZFBoUnc0WE16NC1CclJRV1Z3bjJENkZTdlJURkJweldYTGNFZXJtVnhuNnRvcUJXbUZnU1RNWGU4RVNBZndGNlNqQVVJekphMFl3OW1WSDk4d0VCd2Zncjg4TExmTlhkZG1MT0VITXZEcVNVUWVvQ1ZVRnJiaGZPXzNLLXgtOTU3RmNxWFh3d1Js?oc=5",
-        "_added_at": "2026-10-19T12:35:22.065725-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-19T17:50:38.213044-07:00"
+  "last_updated": "2026-10-19T20:39:44.038743-07:00"
 }
