@@ -1,8 +1,56 @@
 {
   "date": "2026-10-21",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
+      {
+        "title": "Alonso Ramírez propone debate entre aspirantes de Morena en Culiacán",
+        "summary": "Aspirante a coordinación de Morena en Culiacán plantea organizar debate público entre los cinco precandidatos para elegir liderazgo.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/alonso-ramirez-pide-debate-entre-aspirantes-de-morena-en-culiacan-GL26690732",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Movimiento Ciudadano rechaza alianza para elecciones 2027 en Sinaloa",
+        "summary": "Movimiento Ciudadano decide contender de forma independiente sin alianzas en los comicios estatales del próximo año.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/movimiento-ciudadano-no-ira-en-alianza-en-sinaloa-en-2027/",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Roxana Rubio advierte que competir sin alianza favorece a Morena",
+        "summary": "Dirigente de MC sostiene que la decisión de ir solo debilita al bloque opositor y fortalece las posibilidades del partido en el poder.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/roxana-rubio-llama-a-mc-a-reconsiderar-no-ir-solo-en-las-elecciones-de-2027-en-sinaloa/",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Serapio Vargas busca coordinación de Morena en Culiacán",
+        "summary": "Aspira a liderazgo civil de la capital del estado, prometiendo cercanía y atención a demandas ciudadanas.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/serapio-vargas-busca-ser-el-proximo-liderazgo-civil-de-culiacan-garantiza-cercania-con-poblacion-2026-10-21__1724378",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Antonio Menéndez destaca coordinación con gobernadora Domínguez",
+        "summary": "Presidente municipal de Ahome resalta trabajo conjunto con la administración estatal en segundo informe próximo a rendirse.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-21/politica/antonio-menendez-destaca-coordinacion-y-cercania-con-la-gobernadora-graciela-dominguez-nava/311060",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Guadalupe López reporta 113 mdp en obras en Salvador Alvarado",
+        "summary": "Alcaldesa presenta avances de gestión con inversión importante en infraestructura durante segundo informe de gobierno.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/mas-de-113-mdp-en-obras-guadalupe-lopez-entrega-su-segundo-informe-en-salvador-alvarado-2026-10-21__1724435",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
       {
         "title": "PRI acusa a Morena de presiones con programas sociales",
         "summary": "El PRI Sinaloa denuncia uso indebido de programas sociales y campaña anticipada de Morena, exigiendo al INE intervenir.",
@@ -13,6 +61,38 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Detienen presunto feminicida de adulta mayor en Guasave",
+        "summary": "Capturan en Sonora al responsable del asesinato de mujer mayor en Guasave; lo recluyen en penal de Angostura.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/detienen-en-sonora-a-presunto-feminicida-de-adulta-mayor-de-guasave-EK26683755",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Van 113 mujeres asesinadas en Sinaloa durante 2026",
+        "summary": "Cifra alarmante de feminicidios refleja crisis de inseguridad y violencia contra mujeres en el estado.",
+        "zona": "Estatal",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/21/cual-seguridad-publica-en-sinaloa-van-113-mujeres-asesinadas-en-2026/",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Ejército inhabilita zonas de concentración de metanfetaminas en Culiacán",
+        "summary": "Operativo militar desactiva dos áreas de acopio de drogas en Corral Viejo como parte de estrategia antinarcotráfico.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/inhabilita-el-ejercito-dos-areas-de-concentracion-de-drogas-en-corral-viejo-culiacan-FK26688409",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Persecución y detención de dos armados en Mazatlán",
+        "summary": "Ejército persigue y captura a dos individuos armados tras enfrentamiento en Pradera Dorada IV.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/mazatlan-ataque-armado-en-pradera-dorada-iv-desata-persecucion-ejercito-detiene-a-dos-hombres-PK26685956",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
       {
         "title": "Secretaría de Mujeres analiza patrones de feminicidios",
         "summary": "La Secretaría de las Mujeres busca esclarecer patrones y causas detrás de los feminicidios ocurridos en Sinaloa.",
@@ -46,8 +126,89 @@
         "_added_at": "2026-10-21T01:00:24.285243-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Productores de trigo amenazan bloqueo de carretera internacional",
+        "summary": "Sector agrícola advierte tomar la internacional si no llegan estímulos prometidos al cultivo de trigo para el 3 de noviembre.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/de-no-llegar-los-estimulos-al-trigo-el-3-de-noviembre-los-productores-toman-la-carretera-internacional-2026-10-21__1724438",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Mazatlán mantiene presencia en rutas de cruceros internacionales",
+        "summary": "El puerto registra paso del crucero Norwegian Encore, consolidando su importancia como destino turístico internacional.",
+        "zona": "Sur",
+        "source": "Noticias Digitales Sinaloa",
+        "url": "https://noticiasdigitalessinaloa.mx/el-sur/mantiene-mazatlan-presencia-en-las-rutas-de-cruceros-internacionales-con-el-norwegian-encore/",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Sinaloa gana batalla por reconocimiento oficial del mezcal",
+        "summary": "Municipios sinaloenses obtienen denominación de origen del mezcal tras disputa legal contra otros productores.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/sinaloa-gana-batalla-por-el-mezcal-estos-municipios-obtienen-reconocimiento-oficial-tras-disputa-legal-2026-10-21__1724325",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Sistema de presas en Sinaloa al 55.6% de capacidad",
+        "summary": "Nivel de almacenamiento de agua en represas del estado refleja disponibilidad moderada para riego y consumo.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-21/agro/sistema-de-presas-en-sinaloa-al-556--de-su-capacidad-de-conservacion-este-21-de-octubre/311073",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Rector de la UAS negocia recursos de fin de año con SEP",
+        "summary": "Máximo responsable universitario intensifica gestiones ante subsecretario federal para asegurar financiamiento del cierre anual.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/rector-de-la-uas-intensifica-ante-la-sep-gestiones-sobre-recursos-de-fin-de-ano-se-reune-con-subsecretario-2026-10-21__1724397",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Padres de familia toman secundaria técnica en Guasave por cuotas",
+        "summary": "Protesta en escuela por falta de transparencia en destino de 1.3 millones de pesos recaudados; directora se deslinda.",
+        "zona": "Norte",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/toman-padres-de-familia-la-eti-28-en-guasave-exigen-cuentas-de-cuotas-escolares-1152431/",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Angostura intensifica campaña vial tras cuatro muertes en motos",
+        "summary": "Autoridades municipal anuncia aseguramiento de motocicletas y refuerzo educativo tras accidentes fatales en 72 horas.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/tras-accidentes-fatales-en-moto-angostura-anuncia-campana-vial-y-advierte-sanciones-2026-10-21__1724411",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Fuga de gas en Los Mochis obliga evacuar 30 viviendas",
+        "summary": "Incidente en colonia 75 genera pánico y movilización de emergencia; gasera permanece suspendida.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-21/policiaca/fuga-de-gas-en-los-mochis-provoca-evacuacion-de-30-viviendas-y-suspension-de-gasera/311067",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "Arranca pavimentación de calle De las Rosas en Mazatlán",
+        "summary": "Inversión de 2.39 millones de pesos en mejora de infraestructura vial del puerto.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/arranca-pavimentacion-de-calle-de-las-rosas-en-mazatlan-invertiran-2-39-millones-de-pesos-1152428/",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
+      {
+        "title": "JAPAC avanza 30% en rehabilitación del Emisor Rubí",
+        "summary": "Proyecto de infraestructura hidráulica en Culiacán va en etapa intermedia con avances en modernización.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/japac-registra-30-de-avance-en-rehabilitacion-del-emisor-rubi/",
+        "_added_at": "2026-10-21T11:19:29.607463-07:00"
+      },
       {
         "title": "Denuncian discriminación en secundaria de Rosario",
         "summary": "Padres acusan presunta discriminación en escuela de Agua Verde, Rosario; dirección niega los señalamientos.",
@@ -74,5 +235,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-21T01:00:24.285243-07:00"
+  "last_updated": "2026-10-21T11:19:29.607463-07:00"
 }
