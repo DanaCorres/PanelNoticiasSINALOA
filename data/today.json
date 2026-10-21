@@ -1,463 +1,78 @@
 {
-  "date": "2026-10-20",
-  "run_count": 3,
+  "date": "2026-10-21",
+  "run_count": 1,
   "notes": {
     "politica": [
       {
-        "title": "Senadora denuncia abandono de Sinaloa en presupuesto 2027",
-        "summary": "Paloma Sánchez critica reducción de recursos federales que limita capacidad estatal para seguridad, empleo y actividades productivas.",
-        "zona": "Estatal",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/senadora-acusa-abandono-de-sinaloa-en-el-presupuesto-2027-para-enfrentar-crisis-de-seguridad-y-economica-MF26673971",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Trabajadores del IMSS exigen modificar contrato colectivo",
-        "summary": "Personal demanda Congreso Extraordinario para cambios contractuales y destitución de líder sindical.",
-        "zona": "Estatal",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWNndDJjaU1uMWJHcWNyZ1BiMXV1dF9ZM2p3U2RrX3dMN1M0SEFlTFNpbmtsS0hUcUhTWmhBbjlFNl9DYUVmb1p4UktlTHBNaTlDNDZ6X0RkaFhTWDFpRTgwTVJ4RXZQVFM4WWxnSnp0SnpaMldScExUZnp5aE0yOTB4MXliY2dCNnlod2pLM28xT2xiUEcyMktOTTJQcGswMElUZ1E2azVCOHlFbUlRRkRRTVNDR3l3V2pSYnJsN0h6ZF9zQTAtMm1rTFZHYzdhVnVSeA",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Se reúnen Estrada Ferreiro, Lizárraga y Cuén en Culiacán",
-        "summary": "Encuentro de actores políticos relevantes en la capital estatal.",
-        "zona": "Centro",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-20/politica/se-reunen-estrada-ferreiro-robespierre-lizarraga-y-cuen-diaz-en-culiacan/310870",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "PAN advierte a MC sobre alianza rumbo a 2027",
-        "summary": "Panistas advierten que candidatura independiente de Movimiento Ciudadano beneficiaría a Morena.",
-        "zona": "Estatal",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/pan-pide-a-mc-recapacitar-quien-va-solo-le-esta-haciendo-el-trabajo-por-abajo-del-agua-a-morena-2026-10-20__1723928",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Congreso recibe informe anual de la CEDH sin observaciones",
-        "summary": "Organismo de derechos humanos presenta balance con cero señalamientos de la auditoría.",
-        "zona": "Centro",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/congreso-de-sinaloa-recibe-el-informe-anual-de-la-cedh-destaca-cero-observaciones-por-la-ase-2026-10-20__1723978",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Congreso recibe dictámenes sobre reformas constitucionales",
-        "summary": "Legisladores leen propuestas que modifican Constitución local y Ley de Gobierno Municipal.",
-        "zona": "Estatal",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/sinaloa/dan-lectura-a-dos-dictamenes-que-reforman-constitucion-local-y-ley-de-gobierno-municipal/",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Culiacán autoriza evento de Merary Villegas",
-        "summary": "Cabildo aprueba acto pese a registro tardío de solicitud.",
-        "zona": "Centro",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQVVqU29WdGUxczQ4Ykd2Qld5TnRjb3ZNRkVxZDF0aFRmaVllZmtmVi01NUhrRFV3eXdWWG4xZ2tOR2lVOF80VjI1VGd5cUtlbHBzNEtLSUFobnNjaG9hRzZfNzZ5bzlJbWRpd1dENFJZdkF0R1VISk5VTzNJWHg5N1hNWWNlOHd5akkyR2hVQ1RwTkhLSXZVdFcwWHROSUlrRFk0RDVqdF9xX0F3RzFsZU5zSFlGQ3FGZFRjbjdZZW95c2FPOGNCOGh3UHEwVW1ZbFppTQ",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Omar Gill busca regresar a alcaldía de Choix con Morena",
-        "summary": "Expresidente municipal de Choix se registra como candidato por Morena rumbo a las elecciones 2027.",
+        "title": "PRI acusa a Morena de presiones con programas sociales",
+        "summary": "El PRI Sinaloa denuncia uso indebido de programas sociales y campaña anticipada de Morena, exigiendo al INE intervenir.",
         "zona": "Norte",
-        "source": "Línea Directa (Norte)",
-        "url": "https://lineadirectaportal.com/sinaloa/el-expresidente-municipal-omar-gill-buscara-regresar-a-la-alcaldia-de-choix-se-registra-con-morena-2026-10-20__1723723",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Diez aspirantes compiten por coordinar Morena en Mazatlán",
-        "summary": "Candidatos buscan la coordinación de la 4T en Mazatlán para competir por la alcaldía en 2027.",
-        "zona": "Sur",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-20/politica/diez-aspirantes-a-coordinar-la-4t-en-mazatlan-para-la-alcaldia-de-2027/310818",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Tres aspirantes se registran para coordinación de Morena en Rosario",
-        "summary": "Candidatos hacen públicos sus registros en el proceso interno de Morena para la alcaldía de Rosario.",
-        "zona": "Sur",
-        "source": "Noroeste (El Sur)",
-        "url": "https://www.noroeste.com.mx/elsur/suman-en-rosario-tres-registros-de-aspirantes-a-la-coordinacion-de-morena-DH26657958",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Transparencia detecta fallas en portales municipales de Sinaloa",
-        "summary": "Dependencia estatal identifica deficiencias en los sistemas de transparencia de varios ayuntamientos.",
-        "zona": "Estatal",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/transparencia-en-sinaloa-detecta-fallas-en-portales-de-transparencia-de-municipios-GH26657652",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Congreso recibe informe anual de Comisión de Derechos Humanos",
-        "summary": "CEDHES presenta su reporte anual ante el Congreso del Estado con evaluación de casos y acciones.",
-        "zona": "Estatal",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/sinaloa/recibe-congreso-del-estado-informe-anual-de-la-comision-estatal-de-los-derechos-humanos-de-sinaloa/",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Comisión aprueba dictámenes sobre vivienda y confidencialidad",
-        "summary": "Puntos Constitucionales aprueba dos dictámenes: uno garantiza vivienda adecuada, otro preserva confidencialidad.",
-        "zona": "Estatal",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/sinaloa/comision-de-puntos-constitucionales-aprueba-dos-dictamenes-uno-garantiza-vivienda-adecuada-y-el-otro-para-preservar-confidencialidad-de-informacion/",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/acusa-pri-sinaloa-presiones-con-programas-sociales-y-exige-frenar-presuntas-campanas-anticipadas-de-morena-HF26679284",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       }
     ],
     "seguridad": [
       {
-        "title": "Cifras diarias de delitos durante ola de violencia en Sinaloa",
-        "summary": "Registro acumulado muestra 5 homicidios, 2 feminicidios y 9 vehículos robados en el período.",
+        "title": "Secretaría de Mujeres analiza patrones de feminicidios",
+        "summary": "La Secretaría de las Mujeres busca esclarecer patrones y causas detrás de los feminicidios ocurridos en Sinaloa.",
         "zona": "Estatal",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-matan-a-2-mujeres-mas-en-mazatlan-5-homicidios-2-feminicidios-y-9-vehiculos-robados-JH26659660",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/espera-secretaria-de-las-mujeres-analisis-para-esclarecer-patrones-de-violencia-detras-feminicidios-en-sinaloa-OF26676228",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       },
       {
-        "title": "Atacan a militares con explosivos en límite Sinaloa-Nayarit",
-        "summary": "Enfrentamiento ocurrió entre las 7 y 8 horas en zona fronteriza.",
+        "title": "Posponen audiencia de detenidos por asesinato en Escuinapa",
+        "summary": "Se difiere audiencia inicial de imputados en caso de coordinador municipal de Protección Civil asesinado en Escuinapa.",
         "zona": "Sur",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/elsur/atacan-a-militares-con-explosivos-en-los-limites-de-sinaloa-y-nayarit-IF26672965",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
+        "url": "https://www.noroeste.com.mx/mazatlan/posponen-audiencia-inicial-a-detenidos-por-asesinato-de-coordinador-municipal-de-proteccion-civil-de-escuinapa-FF26675761",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       },
       {
-        "title": "Sentencian a hombres a 9 y 12 años por portación de armas",
-        "summary": "Tribunal condena a detenidos en Aguamitas por armas de uso exclusivo de Fuerzas Armadas.",
+        "title": "Refuerzan vigilancia en penal de Aguaruto tras revisión",
+        "summary": "Guardia Nacional, Ejército y Policía Estatal intensifican seguridad en Aguaruto después de revisión penitenciaria.",
         "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/sentencian-a-9-y-12-anos-de-prision-a-hombres-detenidos-por-portacion-de-armas-en-las-aguamitas-en-culiacan-HF26674333",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
+        "url": "https://www.noroeste.com.mx/seguridad/reportan-motin-en-el-penal-de-aguaruto-fue-una-revision-informa-sspe-AF26679687",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       },
       {
-        "title": "Vinculan a proceso a presuntos responsables de feminicidio",
-        "summary": "Juez fija plazo de cuatro meses para investigación complementaria en caso de Escuinapa.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/vinculan-a-proceso-a-presuntos-responsables-de-feminicidio-en-estetica-en-el-centro-de-escuinapa-DF26673536",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Aseguran 13 mil litros de combustible robado en Mazatlán-Tepic",
-        "summary": "Denuncia al 089 deriva en detención de dos y recuperación de gasolina.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/detienen-a-dos-hombres-y-aseguran-13-mil-litros-de-combustible-en-la-mazatlan-tepic-BF26671725",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Abogado critica que autoridades \"no hacen bien\" contra violencia",
-        "summary": "Jesús Enrique Alcaraz cuestiona efectividad institucional ante persistencia de hechos delictivos.",
-        "zona": "Sur",
-        "source": "Sinaloa en Línea",
-        "url": "https://sinaloaenlinea.com/sigue-la-violencia-algo-no-estan-haciendo-bien-las-autoridades-afirma-el-abogado-jesus-enrique-alcaraz/",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Sinaloa ocupa segundo lugar nacional en homicidios dolosos",
-        "summary": "Estado registra cifras preocupantes de homicidios, posicionándose en segundo lugar a nivel nacional.",
+        "title": "Detienen en Zapopan a operador del Cártel de Sinaloa",
+        "summary": "\"El Nenuco\", identificado como operador del Cártel de Sinaloa, fue capturado en Jalisco.",
         "zona": "Estatal",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-20/sinaloa/sinaloa-en-el-segundo-lugar-nacional-de-homicidios-dolosos-este-lunes-19-de-octubre/310819",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "FGE registra 15 feminicidios en octubre; Semujeres refuerza atención",
-        "summary": "Fiscalía contabiliza 15 feminicidios en lo que va del mes; Secretaría de las Mujeres intensifica apoyo a víctimas.",
-        "zona": "Estatal",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/fge-registra-15-feminicidios-en-octubre-secretaria-de-las-mujeres-refuerza-atencion-a-victimas-1151800/",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Detienen a cuatro civiles armados con cocaína en El Rosario",
-        "summary": "Grupo institucional asegura armas, cargadores, cartuchos y 315 dosis de cocaína tras operativo en Rosario.",
-        "zona": "Sur",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/detienen-a-cuatro-personas-con-armas-y-droga-en-chilillos-rosario-DE26660047",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Enfrentamiento en La Palma deja dos abatidos y armas aseguradas",
-        "summary": "Militares abaten a dos civiles armados en Navolato; se recuperan rifles, municiones y una Tacoma.",
-        "zona": "Centro",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/enfrentamiento-entre-militares-y-civiles-armados-deja-dos-abatidos-en-la-palma-navolato-JH26652038",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Fiscalía detiene a tres hombres por asesinato de oficial en Escuinapa",
-        "summary": "FGE ejecuta órdenes de aprehensión contra tres sospechosos del homicidio del coordinador de Protección Civil.",
-        "zona": "Sur",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/ejecuta-fge-tres-ordenes-de-aprehension-por-el-homicidio-del-jefe-de-proteccion-civil-de-escuinapa-KH26654196",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Movimiento Ciudadano exige transparencia en cifras de feminicidios",
-        "summary": "MC cuestiona las estadísticas oficiales de feminicidios y demanda mayor claridad y protección a mujeres.",
-        "zona": "Centro",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/mc-pide-mayor-claridad-en-cifras-de-feminicidios-y-reforzar-la-proteccion-a-mujeres-en-sinaloa-2026-10-20__1723712",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Buscan a pareja desaparecida en Culiacán la misma noche",
-        "summary": "Colectivos buscan a Carla y Jadiel, quienes desaparecieron simultáneamente de sus domicilios en Culiacán.",
-        "zona": "Centro",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/salieron-de-sus-casas-la-misma-noche-y-no-han-vuelto-buscan-a-carla-y-jadiel-en-culiacan-2026-10-20__1723702",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Escuinapa: localizan campamento con vehículos blindados artesanalmente",
-        "summary": "Autoridades aseguran cuatro vehículos en campamento de Escuinapa, uno con blindaje improvisado.",
-        "zona": "Sur",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/policiaca/en-escuinapa-localizan-campamento-aseguran-4-vehiculos-uno-de-ellos-con-blindaje-artesanal/",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Policía estatal muere en accidente de motocicleta cerca del aeropuerto",
-        "summary": "Agente Humberto N. de la SSPE falleció al derrapar en moto. La Secretaría de Seguridad confirmó su estatus activo.",
-        "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/muere-un-policia-estatal-tras-derrapar-en-motocicleta-cerca-del-aeropuerto-de-culiacan-PG26649789",
-        "_added_at": "2026-10-20T00:56:16.352693-07:00"
+        "url": "https://www.noroeste.com.mx/nacional/detienen-en-zapopan-a-el-nenuco-operador-del-cartel-de-sinaloa-JF26677385",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Productores de Culiacán podrían dejar tierras sin sembrar",
-        "summary": "Baja rentabilidad desalienta inversión agrícola en la región.",
-        "zona": "Centro",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzg3cVYzLXNSM1M4YXVIdFdhU2F3Mm5MTUM3bDJqQ2E5dmtCdTlmbU16WC1lTEpuRUMzekpVY0ZXRW4zWG9Kd0UzSjB1V0Fya3hISlpVX1ltZC1SUjk4dE1kM0FuMVotMDlJLVhKRWZBeFRLY3dTNk9uWkZZaGJNbldEZ1h3SWRZZmUwemFYTlN6Z1JYc1FmVXpxM0JabHhEMHpRMV9yVFVNYXFCV1FLM2c3cVM4UmZXb2pDcmZhRERPdlN2dzF3",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Comercio de Culiacán espera impulso del Buen Fin",
-        "summary": "Sector confía en repunte de ventas tras inversión de 8 mil millones en nueve meses.",
-        "zona": "Centro",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWNXVmNnU2duYkZ1NVRRdlRKUGhsVmtIZGZNNVV2OGI3dUp6Q2p0NGNfdGppQnlkR3pKZFNXVHEtNUZ1Z1dzYzNMTkdXTEtqQ3pmZlNqTFgwTy1rbm4yTlNzM3Q0YnZZcVVsVmMzbnlMMGtWOG5TVDh0T1dvYVVkSkF4VERXb3gxaG9lUUFqb2FyRUlFTWZORnRlcnlIU0Y4Wlg4XzBQa0cxaXgzN2ZxRTFaWE5rYWFsMURlZXAzODF0YUJadjdVVmdRSWlWSEhHcE5Ba05EaTJXV3RYTEJR",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Generación de empleo es principal reto económico de Culiacán",
-        "summary": "Secretaría de Economía reconoce disminuciones en comercio, construcción y otros sectores.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/generacion-de-empleo-es-el-principal-reto-economico-de-culiacan-sedecom-FF26671206",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Feria de Financiamiento busca apoyar a mipymes de Culiacán",
-        "summary": "Secretaría de Economía presenta alternativas crediticias para empresas y emprendedores.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/presentan-alternativas-de-financiamiento-para-empresas-y-emprendedores-en-la-feria-capital-en-culiacan-sinaloa-1152139/",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Restaurantes de Culiacán esperan aumento de 30% en ventas",
-        "summary": "Cámara estima incremento gracias a actividades que generan movimiento en la ciudad.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/estima-canirac-culiacan-que-restaurantes-aumenten-30-ventas-al-cierre-de-2026-DF26673770",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Costo de sembrío de frijol y maíz supera los 60 mil pesos",
-        "summary": "Inversión por hectárea alcanza niveles altos en Sinaloa.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/cuanto-cuesta-sembrar-frijol-y-maiz-en-sinaloa-inversion-podria-superar-los-60-mil-por-hectarea-2026-10-20__1723955",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Productores denuncian demora en apoyos de FIRA para maíz",
-        "summary": "Asociación agrícola señala que falta de recursos causa desesperación entre cultivadores.",
-        "zona": "Norte",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/desesperacion-de-los-productores-es-porque-no-llega-el-apoyo-de-fira-para-el-maiz-aarfs-2026-10-20__1723945",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Sindicato de Salvador Alvarado prepara emplazamiento a huelga",
-        "summary": "Organización laboral alista emplazamiento por deuda de 3.18 millones de pesos a trabajadores.",
-        "zona": "Centro",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/sindicato-de-salvador-alvarado-alista-emplazamiento-a-huelga-por-deuda-de-3-18-millones-de-pesos-2026-10-20__1723731",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Mazatlán recibe crucero Discovery Princess con 3,500 pasajeros",
-        "summary": "Arriba a puerto turístico crucero con miles de viajeros, reactivando movimiento en sector de hospedaje.",
-        "zona": "Sur",
-        "source": "Línea Directa (Sur)",
-        "url": "https://lineadirectaportal.com/sinaloa/arriba-a-mazatlan-el-crucero-discovery-princess-con-mas-de-3-mil-500-pasajeros-2026-10-20__1723691",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Sin zafra en Eldorado: adeudo deja a cañeros sin capital para sembrar",
-        "summary": "Serapio Group debe dinero a productores de caña; agricultores carecen de recursos para nueva siembra.",
-        "zona": "Centro",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/20/sin-zafra-en-eldorado-adeudo-de-serapio-group-deja-a-caneros-sin-dinero-para-sembrar/",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "UAS requiere mil 380 millones para cerrar año fiscal",
-        "summary": "Universidad Autónoma de Sinaloa busca apoyo federal para completar presupuesto antes de cierre anual.",
-        "zona": "Estatal",
-        "source": "El Sol de Sinaloa",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0JPZmpuWGZ1RFNNblNDbllia1lHdzFsLWJyVEt5QWR6ZEltdFIxdjhIODV3NG1tMEZIU0hCaUdHLUt1eXV6dldQX2NxRURUZEJUUklGeWFHakFoQnZQYlBqaVBTN2JOX2lrdmVUUXYyQTdPMW9admFYczVWOUJzNXlPSUZwN3hNeDdCWDc2V2pmTm9Qb3Y2b2V4T3dXU1JweS1hak9CVF9nYmg0WjB4dGFmQXQ1d1c2MGVLV2ZfSV9jcmJ3MmFYVXhXVk55REU",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Elota adjudica 7.6 millones para techos firmes y parques",
-        "summary": "Municipio adjudica recursos para infraestructura social; cada licitación fue ganada por una sola empresa.",
-        "zona": "Sur",
-        "source": "Noroeste (El Sur)",
-        "url": "https://www.noroeste.com.mx/elsur/adjudica-elota-76-millones-para-techos-firmes-y-dos-parques-publicos-cada-licitacion-solo-tuvo-una-empresa-participante-CH26656004",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Mazatlán: crisis política y urbana agita puerto turístico",
-        "summary": "Mazatlán enfrenta conflictos políticos e infraestructura urbana deteriorada que afectan economía local.",
-        "zona": "Sur",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmwwZDk4OXhwZmNUSVk3b3JpOHQtaU95bnhjZXdfcjlqNXY2bG54ZVNXN194NnF4SUN5LUIydUlCS2JGM2x4VWlDdGQzSUlRaFV1blh5bW53U09JelJMZjBlYzlmRXNLeUtnY09xVjJNamZCbU15bEw5SVEyUW1XbTBJRldRVDJsdDJ6VkU2N3EwYXlCdy1BWnVwZmpBNG5NTlNHWWx0M3RrazdRMGc3SXp3",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Mazatlán estratégico para conectar agroindustria con mercados",
-        "summary": "Puerto de Mazatlán refuerza su papel como conexión logística para productos agrícolas de Sinaloa.",
-        "zona": "Sur",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRG1HeTRuaGU3cWQwRy03SXVMcmlPUnJnTE44c2lJNjVmb2hfQ0RadzZpOEJhNE1jTUxsbGFWSWdSb3kxdFhXQlpZeDFUODNqSTlfTDJsaGprSHVua2ZfQ0VCZWNsd3BmT01xUW1taG9VWVEyZVZ0bm9qWVBaU1FqLWdmcXp2RlpBbFJOcklMN3lDTE1OdWozSkprM25Ob2E3UF96TE9rSTlVX2Z4SFFmZldjQWN1OG5RMVZsQkZTSElPRlZvcS1NOThXWTJjekFocDRKR1ZVM3NNRjE3Q01PMkNnRmRIaHJoSEI3cg",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      }
-    ],
+    "economia": [],
     "sociedad": [
       {
-        "title": "CEDH gestiona apoyos para víctimas de violencia en Sinaloa",
-        "summary": "Presidente del organismo informa sobre asistencia a familias afectadas por hechos violentos.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/cedh-apoya-a-familia-de-mujer-asesinada-en-heladeria-para-cubrir-gastos-funerarios-GE26661043",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Alcaldesa de Culiacán entrega 20 sillas de ruedas a ciudadanía",
-        "summary": "Ana Miriam Ramos responde gestiones de familias en jornadas de salud.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/alcaldesa-de-culiacan-ana-miriam-ramos-villarreal-encabeza-entrega-sillas-de-ruedas-CF26673908",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "DIF Rosario entrega sillas de ruedas y de baño a 52 personas",
-        "summary": "Organismo atiende necesidades de población con discapacidad en municipio sureño.",
+        "title": "Denuncian discriminación en secundaria de Rosario",
+        "summary": "Padres acusan presunta discriminación en escuela de Agua Verde, Rosario; dirección niega los señalamientos.",
         "zona": "Sur",
-        "source": "Noticias Digitales Sinaloa",
-        "url": "https://noticiasdigitalessinaloa.mx/el-sur/dif-rosario-entrega-sillas-de-ruedas-y-de-bano-a-52-rosarenses/",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Mazatlán refuerza acciones contra violencia de género",
-        "summary": "Semujeres y Ayuntamiento coordinan estrategias de protección.",
-        "zona": "Sur",
-        "source": "Línea Directa",
-        "url": "https://lineadirectaportal.com/sinaloa/semujeres-y-ayuntamiento-de-mazatlan-van-por-fortalecimiento-de-acciones-contra-violencia-de-genero-2026-10-20__1724022",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "SEPyC entrega 109 becas a docentes para posgrados",
-        "summary": "Programa de comisiones permite capacitación de maestros de educación básica.",
-        "zona": "Estatal",
-        "source": "Café Negro",
-        "url": "https://cafenegroportal.com/entrega-sepyc-109-becas-comision-a-docentes-de-educacion-basica-para-estudios-de-posgrado/",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Culiacán avanza en limpieza de panteones para Día de Muertos",
-        "summary": "Ayuntamiento registra 80% de avance en mantenimiento previo a festividades.",
-        "zona": "Centro",
-        "source": "Revista Espejo",
-        "url": "https://revistaespejo.com/2026/10/20/registra-ayuntamiento-de-culiacan-80-por-ciento-de-avance-en-la-limpieza-y-el-mantenimiento-de-panteones-municipales/",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
-      },
-      {
-        "title": "Autoridades alertan sobre extorsiones con imágenes falsas de IA",
-        "summary": "Colectivo de búsqueda advierte a familias de desaparecidos sobre fraudes tecnológicos.",
-        "zona": "Centro",
         "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/alertan-a-familias-de-desaparecidos-por-extorsiones-con-imagenes-falsas-creadas-con-ia-PE26668722",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
+        "url": "https://www.noroeste.com.mx/elsur/denuncian-presunta-discriminacion-en-secundaria-de-agua-verde-rosario-direccion-niega-senalamientos-FF26677662",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       },
       {
-        "title": "DIF Salvador Alvarado elabora pelucas oncológicas gratuitas",
-        "summary": "Programa ha entregado más de 20 pelucas a mujeres con cáncer este año.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/dif-salvador-alvarado-elabora-pelucas-oncologicas-gratuitas-para-mujeres-con-cancer-este-ano-se-han-dado-mas-de-20-1152105/",
-        "_added_at": "2026-10-20T17:15:51.975920-07:00"
+        "title": "Vecinos de Escuinapa exigen reparación de vialidad",
+        "summary": "Residentes de calle Pino Suárez en Escuinapa demandan rehabilitación de infraestructura vial dañada.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/vecinos-de-la-calle-pino-suarez-en-escuinapa-exigen-la-reparacion-de-la-vialidad-FF26675990",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       },
       {
-        "title": "Semujeres recibe más de 6 mil llamadas en Línea Mujer Segura",
-        "summary": "Secretaría de las Mujeres atiende miles de llamadas; violencia psicológica destaca como principal problema.",
-        "zona": "Estatal",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/semujeres-recibe-mas-de-6-mil-llamadas-en-linea-mujer-segura-destaca-violencia-psicologica-2026-10-20__1723678",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Revisión de 120 taxis en Guamúchil busca mejorar servicio",
-        "summary": "Autoridades inspeccionan taxis en Salvador Alvarado; conductores sin seguro vigente son sacados del servicio.",
-        "zona": "Centro",
-        "source": "Los Noticieristas",
-        "url": "https://losnoticieristas.com/sinaloa/2026/10/someten-a-revision-a-120-taxis-en-guamuchil-para-garantizar-condiciones-optimas-de-servicio-quien-no-tenga-el-seguro-vigente-sale-del-servicio-1151811/",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Japama suspende servicio de planta Benito Juárez en Los Mochis",
-        "summary": "Corte de agua afecta colonias y comunidades de Ahome por mantenimiento en planta potabilizadora.",
+        "title": "Fuga de gas moviliza emergencias en Los Mochis",
+        "summary": "Incidente de fuga de gas en colonia 75 de Los Mochis activa operativo de cuerpos de emergencia.",
         "zona": "Norte",
-        "source": "Línea Directa (Norte)",
-        "url": "https://lineadirectaportal.com/sinaloa/japama-suspende-servicio-de-la-planta-benito-juarez-y-afecta-a-colonias-y-comunidades-de-los-mochis-2026-10-20__1723700",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Estado analiza obras para Plan Sinaloa; piden plantas de tratamiento",
-        "summary": "Gobierno estatal revisa proyectos de infraestructura; municipios solicitan plantas de tratamiento de agua.",
-        "zona": "Estatal",
-        "source": "Línea Directa (Centro)",
-        "url": "https://lineadirectaportal.com/sinaloa/estado-analiza-obras-a-integrar-al-plan-sinaloa-hay-peticiones-para-plantas-de-tratamiento-de-agua-2026-10-20__1723676",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "Mazatlán inicia campaña de Canje para Desarme Voluntario",
-        "summary": "Puerto turístico arranca programa de canje de armas; Sinaloa ha canjeado cerca de 670 armas este año.",
-        "zona": "Sur",
-        "source": "Luz Noticias",
-        "url": "https://www.luznoticias.mx/2026-10-20/sinaloa/mazatlan-recibe-programa-de-desarme-voluntario-sinaloa-suma-cerca-de-670-armas-canjeadas-este-ano/310836",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
-      },
-      {
-        "title": "SUADEC capacita en herramientas de inteligencia artificial",
-        "summary": "Dependencia ofrece tres días de capacitación tecnológica gratuita en Culiacán sobre IA y herramientas audiovisuales.",
-        "zona": "Centro",
-        "source": "El Debate",
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQYWdzbC1VcFZ4MHVVZE9rcFBwY05pc2hQQzd6cXN0Q0F5cDBkNVVuWHdoZ1dCb3ZnVjVuMHBmZGdmaEExb3Z1NklRNnJ3M2V6QXpac3htaGQ0dDlGMDRwbXF4WjBQVTVMcHRVenhiTDVtYnJhQk96dEc1RHR6cjl1RGdyZ2J3RWlOMk1EYW44SjBuMWY0bUhidlRGaFp3OS1JSWUxQjNQVGRKQVo0bVhUTU1lbWdVekYwcEFoN1dyZG9wNFZrbnVJYktmUnJNejJqOFVJTjQ5a0gtNHlHbjJrb3BKbXJQZDd4R1hPUjNoNHFEM0Y5SllvVVQ3dThmbFRDWDhYZkpCY3Myak5RT3RkeDI1eHNSSU1BSm4yckZqVXNCUUJaTEE?oc=5",
-        "_added_at": "2026-10-20T11:12:37.173377-07:00"
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/fuga-de-gas-moviliza-a-los-cuerpos-de-emergencia-en-la-colonia-75-en-los-mochis-FF26679378",
+        "_added_at": "2026-10-21T01:00:24.285243-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-20T17:15:51.975920-07:00"
+  "last_updated": "2026-10-21T01:00:24.285243-07:00"
 }
