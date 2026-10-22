@@ -1,8 +1,40 @@
 {
   "date": "2026-10-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
+      {
+        "title": "PT nombra a Jesús Ibarra coordinador de afiliación en Culiacán",
+        "summary": "El diputado Jesús Ibarra recibe nombramiento del PT como coordinador de afiliación en Culiacán en medio del proceso interno de Morena rumbo a 2027.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/nombra-el-pt-al-diputado-jesus-ibarra-como-coordinador-de-afiliacion-en-culiacan-2026-10-22__1725145",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Alcaldesa Ramos presentará informe ante Cabildo de Culiacán",
+        "summary": "Ana Miriam Ramos presentará su informe de gobierno ante el Cabildo de Culiacán la próxima semana, aunque falta definir la fecha exacta.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/ana-miriam-ramos-presentara-su-informe-ante-el-cabildo-de-culiacan-la-proxima-semana-2026-10-22__1725210",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Ambrocio Chávez se compromete a respetar encuesta en Salvador Alvarado",
+        "summary": "Candidato a coordinación municipal de Morena en Salvador Alvarado se compromete a respetar resultado de encuesta en el proceso de selección.",
+        "zona": "Centro",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-22/politica/ambrocio-chavez-se-compromete-a-respetar-resultado-de-encuesta-por-la-coordinacion-de-salvador-alvarado/311266",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Sinaloa recibirá 68 mil millones de pesos del presupuesto federal 2027",
+        "summary": "Gobierno estatal destaca que más del 80% de ingresos de Sinaloa provienen del Gobierno Federal según presupuesto asignado para 2027.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-22/sinaloa/sinaloa-recibira-68-mil-millones-de-pesos-como-parte-del-presupuesto-federal-2027/311264",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
       {
         "title": "Gobernadora Domínguez revisa avances de IMSS Bienestar con Sheinbaum",
         "summary": "Graciela Domínguez se reunió con la presidenta para evaluar el programa de IMSS Bienestar junto a otros gobernadores incorporados.",
@@ -21,6 +53,62 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Ataque a transporte urbano en Escuinapa deja estudiantes en riesgo",
+        "summary": "Chofer de camión urbano es baleado en Escuinapa mientras trasladaba estudiantes; alertó a menores de disparos durante ruta escolar.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/atacan-a-chofer-de-transporte-urbano-en-escuinapa-cuando-trasladaba-a-alumnos-CC26719319",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "CEDH acredita negligencia del municipio de Guasave por muerte de profesor",
+        "summary": "Comisión de Derechos Humanos acredita negligencia del Ayuntamiento de Guasave tras muerte de docente que cayó en socavón.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/cedh-acredita-negligencia-del-ayuntamiento-de-guasave-por-muerte-de-profesor-que-cayo-en-socavon-MB26720396",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Informe diario: violencia continúa con múltiples incidentes en el estado",
+        "summary": "Registro de cifras acumuladas de delitos incluye homicidios en Mazatlán y Rosario, además de robo de vehículos durante miércoles.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-matan-a-otro-en-plaza-de-mazatlan-3-homicidios-1-cuerpo-en-rosario-y-12-vehiculos-robados-el-miercoles-MB26723087",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Asesinan a hombre frente a Facultad de Medicina de la UAS en Culiacán",
+        "summary": "Hombre es ejecutado a balazos ante cientos de automovilistas junto a instalaciones de la Facultad de Medicina de la UAS.",
+        "zona": "Centro",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-22/policiaca/asesinan-a-hombre-frente-a-cientos-de-automovilistas-a-un-costado-de-la-facultad-de-medicina-de-la-uas-en-culiacan/311244",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Asesinan a hombre identificado como El Bebé en Guasave",
+        "summary": "Hombre de 35 años es asesinado a balazos en emboscada en Las Ladrilleras de Ocoro, Guasave.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/asesinan-a-balazos-a-el-bebe-durante-emboscada-en-guasave-GB26721711",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Tren embiste a tráiler de doble remolque en sur de Culiacán",
+        "summary": "Accidente ferroviario ocurre al sur de Culiacán cuando tren colisiona con vehículo de carga de gran tamaño.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/tren-embiste-a-trailer-de-doble-remolque-en-el-sur-de-culiacan-FB26723969",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Muere joven de 15 años en accidente en carretera Los Mochis-El Fuerte",
+        "summary": "Adolescente fallece en vaguada que se calcina tras chocar contra árbol en carretera del norte de Sinaloa.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/muere-joven-de-15-anos-en-accidente-en-carretera-los-mochis-el-fuerte-vagoneta-se-parte-en-dos-y-se-calcina-HC26717066",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
       {
         "title": "Tres detenidos enfrentan cargos por homicidio de coordinador de PC en Escuinapa",
         "summary": "Detenciones por muerte de Jesús Francisco López, coordinador de Protección Civil, y feminicidio de Renata Isabel. Testigos y evidencia registrada respaldan acusaciones.",
@@ -56,6 +144,38 @@
     ],
     "economia": [
       {
+        "title": "Gobierno prevé adelantar 50% del aguinaldo en noviembre",
+        "summary": "Gobierno estatal planea entregar adelanto de aguinaldo a trabajadores durante el mes de noviembre como medida de apoyo económico.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/gobierno-preve-adelantar-el-50-del-aguinaldo-a-trabajadores-en-noviembre/",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Extracciones en presas alcanzan nivel más alto de la temporada",
+        "summary": "Presas de Sinaloa registran extracciones superiores a 700 metros cúbicos por segundo para riegos agrícolas y trasvases de agua.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-22/agro/extracciones-en-presas-de-sinaloa-alcanzan-su-nivel-mas-alto-sacan-mas-de-700-ms-para-riegos-y-trasvases/311270",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Sinaloa obtiene denominación de origen para producción de mezcal",
+        "summary": "Cuatro municipios sinaloenses logran certificación para producir mezcal con denominación de origen protegida.",
+        "zona": "Estatal",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/22/sinaloa-entra-al-mapa-del-mezcal-cuatro-municipios-podran-producirlo-con-denominacion-de-origen/",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Crisis económica frena expectativas de ventas por festividades",
+        "summary": "Comercios de Culiacán enfrentan desaceleración en ventas para Halloween y Día de Muertos por situación económica adversa.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/22/crisis-economica-culiacan-ventas-halloween-dia-de-muertos/",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
         "title": "Mazatlán inaugura Expo Proveedores con expectativa de 2 mil asistentes",
         "summary": "Centro de Convenciones recibe primera edición del evento con participación de autoridades y organizadores empresariales.",
         "zona": "Sur",
@@ -82,6 +202,54 @@
     ],
     "sociedad": [
       {
+        "title": "Jubilados de la UAS realizan tercera concentración por descuentos a pensiones",
+        "summary": "Pensionados de la Universidad Autónoma de Sinaloa protestan en Palacio de Gobierno contra reingeniera financiera y descuentos aplicados.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/jubilados-de-la-uas-realizan-tercera-concentracion-en-palacio-de-gobierno-por-descuentos-a-sus-pensiones-1153152/",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Especialistas de UAS advierten rezago en educación especial",
+        "summary": "Académicos de la Universidad Autónoma de Sinaloa alertan sobre atraso significativo en atención a educación especial en el estado.",
+        "zona": "Estatal",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/22/especialistas-de-la-uas-advierten-rezago-en-educacion-especial-en-sinaloa/",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Reanudan clases en Secundaria Técnica 28 de Guasave",
+        "summary": "Actividades escolares se normalizan en ETI 28 de Guasave tras protestas de padres; aún pendiente aclaración de cuotas.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/reanudan-clases-en-la-secundaria-tecnica-28-de-guasave-padres-siguen-en-protesta-2026-10-22__1725155",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Vivienda y prevención de violencia son clave para paz en Culiacán",
+        "summary": "Funcionaria Tere Guerra destaca que acceso a vivienda y prevención de violencia son fundamentales para construir paz en la capital.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/vivienda-y-prevencion-de-la-violencia-claves-para-construir-la-paz-en-culiacan-tere-guerra-2026-10-22__1725152",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Mazatlán y destinos participan en Feria de Despegar en Cancún",
+        "summary": "Atractivos turísticos de Mazatlán se promocionan en Feria de Destinos de plataforma Despegar realizada en Quintana Roo.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/mazatlan-y-sus-atractivos-participan-en-la-feria-de-destinos-de-despegar-en-cancun-quintana-roo-2026-10-22__1725194",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
+        "title": "Exponen cementos ecológicos de investigadora de la UAS",
+        "summary": "Investigadora de la Universidad Autónoma de Sinaloa busca llevar al mercado cementos con componentes ecológicos innovadores.",
+        "zona": "Centro",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeC1vQk9ZRlE3Z1c2cVZOYzNZME15OERoZWQ4YkgwNVNSSUplTlRBNnA1RlA3RGRuSWoyUnZrRzdDQU5FSkZKcmkxMWZEck4wMTlPWWtBN3djWVUtblB1RnlZdWpqQnpmTG4wZFk4cnJBcDg4LW1Rb2dzMUh3R29CZUN3UDRaQXNibVNfeWFPVkoyRFlBRjFYS0dQdE5rUFVxajV1WGtHaWpvLTRBMUhLdURZVENMWGFpaXM2TjMxNA?oc=5",
+        "_added_at": "2026-10-22T11:13:25.110682-07:00"
+      },
+      {
         "title": "UAS intensifica gestiones ante SEP por recursos de fin de año",
         "summary": "Universidad Autónoma de Sinaloa realiza trámites para asegurar financiamiento ante dependencia federal.",
         "zona": "Centro",
@@ -107,5 +275,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-22T00:58:41.320053-07:00"
+  "last_updated": "2026-10-22T11:13:25.110682-07:00"
 }
