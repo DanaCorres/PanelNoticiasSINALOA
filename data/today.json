@@ -1,8 +1,48 @@
 {
   "date": "2026-10-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
+      {
+        "title": "Gobernadora anuncia cambios en gabinete; asegura coordinación con Congreso",
+        "summary": "Graciela Domínguez confirma nuevos nombramientos en gobierno estatal y adelanta que habrá más cambios en el gabinete. Afirma trabajo coordinado con el Poder Legislativo.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-23/politica/graciela-dominguez-tras-nuevos-nombramientos-en-el-gobierno-de-sinaloa-seguiran-mas-cambios-en-el-gabinete/311469",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "IEES capacita ciudadanos para participar en elecciones 2027",
+        "summary": "Instituto Estatal Electoral capacita en Mazatlán a ciudadanos interesados en participar en el proceso electoral de 2027.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/iees-capacita-en-mazatlan-sinaloa-a-ciudadanos-que-buscan-participar-en-las-elecciones-de-2027-1153818/",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Alcalde Menéndez entrega segundo informe en Ahome",
+        "summary": "Antonio Menéndez presenta su segundo informe de gobierno ante el Cabildo de Ahome.",
+        "zona": "Norte",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-23/sinaloa/alcalde-antonio-menendez-entrega-su-segundo-informe-de-gobierno-al-cabildo-de-ahome/311506",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Alcaldesa Ramos entregará segundo informe en Culiacán",
+        "summary": "Ana Miriam Ramos Villarreal presentará lunes su segundo informe de gobierno ante Cabildo de Culiacán.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/entregara-ana-miriam-ramos-villarreal-segundo-informe-de-gobierno-ante-cabildo-el-lunes-FH26747121",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Cabildo de Mazatlán aprueba aumento a impuesto predial",
+        "summary": "Sesión de Cabildo aprueba por mayoría solicitar al Congreso incremento en cobro del Impuesto Predial en Mazatlán.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/colegio-de-abogados-en-mazatlan-pide-rechazar-propuesta-de-incremento-al-impuesto-predial-AH26748686",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
       {
         "title": "Alcaldesa de Mazatlán responde críticas sobre su registro en Morena",
         "summary": "Estrella Palacios defiende su participación en proceso interno de Morena frente a cuestionamientos de la oposición rumbo a reelección.",
@@ -54,6 +94,62 @@
     ],
     "seguridad": [
       {
+        "title": "Mazatlán supera a Culiacán en percepción de inseguridad",
+        "summary": "Según INEGI, Mazatlán sube a 85.8% en percepción de inseguridad, colocándose tercera a nivel nacional. Culiacán desciende a 81.6%.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/mazatlan-tercera-ciudad-donde-la-poblacion-se-siente-mas-insegura-culiacan-en-el-lugar-siete-EH26744257",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "SSPE reporta 10 ataques a viviendas en Culiacán y Mazatlán",
+        "summary": "Durante la semana se registraron diez ataques a domicilios en Culiacán y Mazatlán, reportó la Secretaría de Seguridad Pública Estatal.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/sspe-reporta-10-ataques-a-viviendas-durante-la-semana-en-culiacan-y-mazatlan-2026-10-23__1725913",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Remueven director del penal de Mazatlán tras riñas",
+        "summary": "SSPE confirma remoción de director del penal mazatleco para no entorpecer investigaciones sobre riñas que dejaron 12 muertos.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/remueven-al-director-del-penal-de-mazatlan-para-no-entorpecer-investigaciones-tras-rinas-confirma-sspe-2026-10-23__1725931",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "CEDH investiga ataque a camión con estudiantes en Escuinapa",
+        "summary": "Comisión Estatal de Derechos Humanos inicia investigación sobre ataque a vehículo con estudiantes en Escuinapa.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/23/cedh-sinaloa-investiga-ataque-a-camion-con-estudiantes-en-escuinapa/",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Secundaria en Escuinapa suspende clases presenciales por violencia",
+        "summary": "Secundaria SNTE Sección 53 de Escuinapa implementa clases virtuales ante situación de violencia en el municipio.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/secundaria-en-escuinapa-decide-ir-a-clases-virtuales-ante-hechos-de-violencia-en-el-municipio-MH26748433",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Nuevo penal de máxima seguridad para delitos federales en Sinaloa",
+        "summary": "SSPE confirma construcción de nuevo penal estatal con clasificación de máxima seguridad destinado a delitos federales.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/nuevo-penal-de-sinaloa-sera-de-maxima-seguridad-para-delitos-federales-sspe-LH26749367",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Transportistas anuncian paro nacional por inseguridad en carreteras",
+        "summary": "Gremio de transportistas convoca paro nacional denunciando robos, extorsiones y falta de seguridad en vías federales de Sinaloa.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/paro-nacional-de-transporte-exigen-seguridad-en-carreteras-operan-indefensos-ante-violencia-2026-10-23__1725830",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
         "title": "Capturan a El Coco Ranas, vinculado a emboscada de 2016",
         "summary": "Gabinete de Seguridad confirma detención de Orlando N., acusado de ataque que dejó cinco militares muertos hace ocho años.",
         "zona": "Centro",
@@ -96,6 +192,30 @@
     ],
     "economia": [
       {
+        "title": "Gobernadora garantiza pagos pendientes a productores de maíz",
+        "summary": "Graciela Domínguez asegura que productores de maíz recibirán pagos adeudados en los próximos días.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/gobernadora-garantiza-que-productores-de-maiz-recibiran-pagos-pendientes-en-los-proximos-dias-2026-10-23__1725908",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Costos de producción afectan arranque de temporada agrícola",
+        "summary": "Altos costos de insumos y producción complican el inicio de la siembra en Sinaloa.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/costos-trastocan-el-arranque-de-la-temporada-agricola-en-sinaloa-2026-10-23__1725902",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Empleo en Sinaloa acumula dos años de retroceso",
+        "summary": "Mientras el país crece en empleo, Sinaloa mantiene tendencia negativa durante dos años consecutivos.",
+        "zona": "Estatal",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/23/mientras-empleo-crece-en-el-pais-sinaloa-acumula-dos-anos-de-retroceso/",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
         "title": "Secretaría destaca potencial de minería para empleo en Sinaloa",
         "summary": "Diego Armando Aguerrebere señala oportunidades de inversión en sector minero del estado.",
         "zona": "Sur",
@@ -122,6 +242,62 @@
     ],
     "sociedad": [
       {
+        "title": "Marquesina colapsa en primaria de Batamote, Guasave",
+        "summary": "Desplome de marquesina en escuela primaria de Batamote genera riesgos. Autoridades acuerdonan zona; padres exigen reparaciones.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/se-desploma-marquesina-en-primaria-de-batamote-guasave-acordonan-la-zona-para-proteger-a-alumnos-2026-10-23__1725915",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Centro de Investigación UAS celebra 44 años de servicios de salud",
+        "summary": "Centro de Investigación de la Universidad Autónoma de Sinaloa conmemora cuatro décadas brindando atención médica de bajo costo.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/el-centro-de-investigacion-uas-celebra-44-anos-sirviendo-a-sinaloa-con-atencion-medica-a-bajo-costo-2026-10-23__1725925",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Gobernadora anuncia resolución de situación laboral de personal de salud",
+        "summary": "Graciela Domínguez asegura certeza de resolver en enero la condición de personal de salud en régimen precario.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-23/sinaloa/hay-certeza-que-en-enero-se-resuelva-la-situacion-laboral-del-personal-de-salud-precario-gobernadora-graciela-dominguez/311476",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Alcalde de Escuinapa ofrece apoyo psicológico a estudiantes",
+        "summary": "Tras ataque a estudiantes, autoridades de Escuinapa ofrecen servicios de apoyo psicológico a menores afectados.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/secundaria-snte-se-fueron-a-la-virtualidad-alcalde-de-escuinapa-ofrece-apoyos-psicologicos-a-alumnos-tras-experiencia-armada-1153784/",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "UAS advierte sobre uso pedagógico de inteligencia artificial",
+        "summary": "Especialistas de la Universidad Autónoma de Sinaloa advierten que IA debe apoyar educación, nunca reemplazar razonamiento humano.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/especialistas-de-la-uas-advierten-que-la-inteligencia-artificial-debe-ser-un-apoyo-pedagogico-y-jamas-un-reemplazo-del-razonamiento-humano/",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Ingenieros Civiles urgen reglamento técnico de construcción en Sinaloa",
+        "summary": "Colegio de Ingenieros Civiles demanda se elabore reglamento técnico de construcción para regular y mejorar estándares en el estado.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/23/urge-que-sinaloa-tenga-un-reglamente-tecnico-de-construccion-ingenieros-civiles/",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
+        "title": "Reparación de socavón en Mazatlán por daños de oleaje",
+        "summary": "Inician trabajos de reparación en socavón junto a monumento de la Mujer Mazatleca tras daños por fuerte oleaje.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-23/sinaloa/inician-reparacion-del-socavon-junto-a-la-mujer-mazatleca-tras-danos-por-fuerte-oleaje/311507",
+        "_added_at": "2026-10-23T11:02:29.977209-07:00"
+      },
+      {
         "title": "Jornada de prevención de cáncer de mama en Culiacán",
         "summary": "Secretaría de las Mujeres ofrece taller de autocuidado y detección temprana en Centro de Justicia.",
         "zona": "Centro",
@@ -131,5 +307,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-23T00:57:22.670271-07:00"
+  "last_updated": "2026-10-23T11:02:29.977209-07:00"
 }
