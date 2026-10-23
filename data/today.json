@@ -1,8 +1,72 @@
 {
   "date": "2026-10-22",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "politica": [
+      {
+        "title": "Gobernadora Domínguez realiza cambios en cinco áreas de gabinete",
+        "summary": "Graciela Domínguez Nava designó a cinco nuevos funcionarios en su gabinete, incluyendo Coordinación de Comunicación Social y Registro Civil.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/designa-graciela-dominguez-a-cinco-integrantes-de-su-gabinete-estatal-MA26733492",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Congreso aprueba reforma para garantizar derecho a vivienda adecuada",
+        "summary": "El Congreso de Sinaloa aprobó reforma constitucional que garantiza el derecho a una vivienda adecuada en el estado.",
+        "zona": "Estatal",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/aprueba-congreso-de-sinaloa-garantizar-el-derecho-a-una-vivienda-adecuada-HB26729196",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Regidora pide a alcaldesa de Mazatlán solicitar licencia por proceso interno Morena",
+        "summary": "Regidora del PAN Wendy Barajas pide a Estrella Palacios solicitar licencia mientras participa en proceso interno morenista.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/solicita-regidora-a-alcaldesa-de-mazatlan-que-pida-licencia-mientras-participa-en-proceso-interno-de-morena-FA26737442",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Mazatlán aprueba aumento de 3.94% al valor catastral de zonas comerciales",
+        "summary": "Cabildo de Mazatlán aprobó actualización de predial con incremento de 3.94% para zonas comerciales y turísticas.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/aprueban-entre-polemica-solicitar-al-congreso-del-estado-actualizacion-del-394-al-predial-en-mazatlan-FA26734607",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Cabildo Mazatlán aprueba donación de terrenos para primaria y preescolar",
+        "summary": "Se aprobó donación de terrenos en fraccionamiento CVIVE para construcción de jardín de niños y primaria.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/aprueba-cabildo-de-mazatlan-donacion-de-terrenos-para-jardin-de-ninos-y-primaria-en-fraccionamiento-cvive-BA26733750",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Jubilados UAS protestan contra reingeniera financiera en Palacio",
+        "summary": "Jubilados de la UAS se manifestaron en Palacio de Gobierno exigiendo que cese la reingenería financiera y los descuentos a pensiones.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/jubilados-de-la-uas-denuncian-robo-a-sus-pensiones-por-reingenieria-financiera-en-palacio-de-gobierno-KB26726590",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Diputados critican modificaciones a Modalidad 40 del IMSS",
+        "summary": "Legisladores del PRI y Movimiento Ciudadano se oponen a cambios en pensiones por Modalidad 40 del Instituto Mexicano del Seguro Social.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/diputados-del-pri-y-mc-se-oponen-a-las-modificaciones-a-la-modalidad-40-del-imss-2026-10-22__1725344",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Morena descarta debates entre candidatos en proceso interno",
+        "summary": "Morena ha descartado realizar debates entre candidatos durante su proceso de selección interno en Sinaloa.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/morena-descarta-debates-entre-candidatos/",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
       {
         "title": "PT nombra a Jesús Ibarra coordinador de afiliación en Culiacán",
         "summary": "El diputado Jesús Ibarra recibe nombramiento del PT como coordinador de afiliación en Culiacán en medio del proceso interno de Morena rumbo a 2027.",
@@ -53,6 +117,54 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Detienen a 'Coco Ranas' y tres hombres más en Culiacán",
+        "summary": "Operativo en Lomas del Sol capturó a Orlando Castañeda, presunto líder de Los Ranas, brazo armado del Cártel de Sinaloa, más tres cómplices.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/22/detienen-en-culiacan-a-orlando-castaneda-el-coco-presunto-lider-de-los-ranas-brazo-armado-de-los-chapitos/",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Atacan a balazos camión con estudiantes en Escuinapa",
+        "summary": "Chofer de transporte urbano fue baleado mientras trasladaba estudiantes de secundaria en ruta El Robalito-Escuinapa; menores salieron ilesos.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/confirman-ataque-a-balazos-contra-chofer-de-autobus-en-escuinapa-estudiantes-salieron-ilesos-NA26733806",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Gabinete de Seguridad Federal investiga ataque a camión en Escuinapa",
+        "summary": "Por instrucción de la presidenta Sheinbaum, gabinete federal atiende investigación del ataque a transporte escolar que afectó a menores.",
+        "zona": "Sur",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/gabinete-de-seguridad-federal-pendiente-de-ataque-a-camion-en-escuinapa-sinaloa-se-investiga-por-instruccion-de-sheinbaum-1153403/",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Hallan restos óseos junto a canal de riego en Angostura",
+        "summary": "Colectivo Sabuesos Guerreras localizó restos óseos en zona de Gato de Lara, Angostura; Fiscalía investiga hallazgo.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/hallan-restos-oseos-junto-a-un-canal-de-riego-en-gato-de-lara-en-angostura-HA26735389",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Hombre asesinado en negocio de comida en Mazatlán",
+        "summary": "Un hombre fue baleado dentro de un negocio de comida en la colonia Francisco Villa de Mazatlán; investigación en curso.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/asesinan-a-balazos-a-un-hombre-dentro-de-un-negocio-de-comida-en-la-colonia-francisco-villa-de-mazatlan-EA26734918",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Violencia alcanza entornos escolares en Culiacán y Escuinapa",
+        "summary": "Ataques violentos afectaron espacios educativos en Culiacán y Escuinapa; sin detenidos reportados en estos casos.",
+        "zona": "Estatal",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTRBa0lLN3hjWWJQRDdGN0FtQXJ0S2V4a2VqRlBRclE0ck5hdlZGOFEzZURnNksyd0dIRnAyVDRvUVczd2R1UFlEZXRCbHE5OUNrdTM2NlhFMmhTcWdaNG96dTh6MTlCbFRLVWswOTRQSkJXemswa2g0Y1ZUT2gzd3MwakdFS01hTWRhZ2hVMlN0RUhFanlzQnFNT3I1RjdobVRCU2ZCck52cURUU3dCdl9mS2hYVVRUZXRLclZnaXZzNnNMemIySXZ5WmxMQ0hKVm02czVldG5ENC1uRFlON1B3?oc=5",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
       {
         "title": "Ataque a transporte urbano en Escuinapa deja estudiantes en riesgo",
         "summary": "Chofer de camión urbano es baleado en Escuinapa mientras trasladaba estudiantes; alertó a menores de disparos durante ruta escolar.",
@@ -124,25 +236,73 @@
         "source": "Noroeste (Seguridad)",
         "url": "https://www.noroeste.com.mx/seguridad/muere-joven-tras-dos-semanas-internada-por-ataque-armado-en-culiacan-MC26714190",
         "_added_at": "2026-10-22T00:58:41.320053-07:00"
-      },
-      {
-        "title": "Vendedor de hot dogs herido por disparos en avenida del Mar, Mazatlán",
-        "summary": "Atacan a comerciante ambulante a balazos; vehículo impactó árbol tras el incidente.",
-        "zona": "Sur",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/hieren-de-bala-a-vendedor-de-hot-dogs-en-la-avenida-del-mar-en-mazatlan-EC26714213",
-        "_added_at": "2026-10-22T00:58:41.320053-07:00"
-      },
-      {
-        "title": "Mujer recibe disparos en avenida Santa Rosa de Mazatlán",
-        "summary": "Elementos de emergencia auxiliaron a víctima herida por ataque armado en zona de terracería.",
-        "zona": "Sur",
-        "source": "Noroeste (Seguridad)",
-        "url": "https://www.noroeste.com.mx/seguridad/atacan-a-balazos-a-mujer-en-la-avenida-santa-rosa-en-mazatlan-BC26714162",
-        "_added_at": "2026-10-22T00:58:41.320053-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "ADECEM advierte fondos públicos insuficientes para 125 mil negocios",
+        "summary": "Asociación de empresarios señala que apoyos gubernamentales son insuficientes para sostener operaciones de negocios en Sinaloa.",
+        "zona": "Estatal",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWS1mX3BseGt3anpMTGNCaHhseWFERGw2VU5CcVJwMGtzYXV2Ty1TdVZkMEpjTUFYSzdQUGtEajNROGJaUDlNcEVEUnl5M1RTanhrT2lnZG5hRjc4dEI3WUNSOWhId1FKMUVZbXZyQWZXeUs1R0I2TDBpZUs5MkMwQmZvWWhHdFlUQ2JaYjRtdkJvcFIwN3pNUGhxdkxIeFZvU0tPVFF1OVNCaGR3UGh1ZGFCTXR6WmpLT3NLS1hWOTl3M1BlbDNMajNqMkFHVEF6aUpZR0lJdkRJTUZM?oc=5",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Gobierno suspende pagos del Programa de Motores Marinos",
+        "summary": "Pescadores piden intervención de gobernadora tras suspensión de pagos del programa de apoyo para motores de embarcaciones.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/gobierno-suspende-los-pagos-del-programa-de-motores-marinos-pescadores-piden-intervencion-de-gobernadora-2026-10-22__1725350",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Agua y precios marcarán decisiones de siembra en Guasave",
+        "summary": "Productores de Guasave señalan que disponibilidad de agua e incertidumbre en precios definirán volumen de siembra para ciclo otoño-invierno.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/agua-y-precios-marcaran-las-decisiones-de-siembra-en-guasave-para-el-ciclo-otono-invierno-2026-10-22__1725440",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Siembra de maíz recibirá riegos necesarios: Módulo Guasave",
+        "summary": "Autoridades agrícolas confirman que la siembra de maíz en Guasave contará con el agua requerida para su desarrollo.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/la-siembra-de-maiz-recibira-los-riegos-que-necesita-para-su-buen-desarrollo-modulo-guasave-2026-10-22__1725374",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Economía Sinaloa lanza Feria de Financiamiento con 30 bancos",
+        "summary": "Se iniciará en Mazatlán feria de financiamiento con participación de 30 instituciones bancarias y financieras del estado.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/economia-sinaloa-pone-en-marcha-la-feria-del-financiamiento-con-30-bancos-y-financieras-en-mazatlan-2026-10-22__1725403",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Codesin prepara proyecto de denominación de origen para mezcal",
+        "summary": "Consejo de Desarrollo Económico impulsa en el sur de Sinaloa proyecto para obtener denominación de origen en producción de mezcal.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/con-denominacion-de-origen-para-mezcal-codesin-prepara-proyecto-desde-cero-para-el-sur-de-sinaloa-2026-10-22__1725434",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Inflación en Sinaloa sube 0.03% en primera quincena de octubre",
+        "summary": "Índice inflacionario estatal registra ligero aumento de 0.03% durante la primera mitad de octubre de 2026.",
+        "zona": "Estatal",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2pNYXM3MHA5LUw1UUdMaExONmtEQjNSZ3NJQWV4V0ZUbWpVV2tIdGtUcDQ1eUFrZDJ6R292eGJkS1o5cnBic1pBVURCVWR6dzdNbWQ1dmtFVmMwYk5jSGczYzZ0Rm9zWFBFcHhxV3VtRHJZWWhxR215NWNCS08tcjlZaGh0cTdRWlptU3pnNkRNdzMyZlVZZWt4SzFndDYzN3djeDBwbUkzYS14S0IzMktNR0M3SXZaVEtqS0ZIWm5VWUpsc3M0aVJR?oc=5",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Investigadora UAS busca llevar cementos ecológicos al mercado",
+        "summary": "Académica de la Universidad Autónoma de Sinaloa desarrolla proyecto para comercializar cementos sustentables y amigables con el ambiente.",
+        "zona": "Centro",
+        "source": "El Sol de Sinaloa",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeC1vQk9ZRlE3Z1c2cVZOYzNZME15OERoZWQ4YkgwNVNSSUplTlRBNnA1RlA3RGRuSWoyUnZrRzdDQU5FSkZKcmkxMWZEck4wMTlPWWtBN3djWVUtblB1RnlZdWpqQnpmTG4wZFk4cnJBcDg4LW1Rb2dzMUh3R29CZUN3UDRaQXNibVNfeWFPVkoyRFlBRjFYS0dQdE5rUFVxajV1WGtHaWpvLTRBMUhLdURZVENMWGFpaXM2TjMxNA?oc=5",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
       {
         "title": "Gobierno prevé adelantar 50% del aguinaldo en noviembre",
         "summary": "Gobierno estatal planea entregar adelanto de aguinaldo a trabajadores durante el mes de noviembre como medida de apoyo económico.",
@@ -201,6 +361,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Liberarán 250 tortugas golfinas en Mazatlán este viernes",
+        "summary": "Gobierno de Mazatlán invita a ciudadanía a actividad de liberación de 250 crías de tortuga golfina en playa del puerto.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/liberaran-250-tortugas-golfinas-en-mazatlan-conoce-donde-y-a-que-hora-sera-este-viernes-2026-10-22__1725492",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Padres bloquean escuela Nueva Creación en Mazatlán; se reabre",
+        "summary": "Padres de familia bloquearon escuela Nueva Creación por demandas; autoridades atendieron protesta y se logró reapertura.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/padres-bloquean-escuela-nueva-creacion-en-mazatlan-autoridades-atienden-protesta-y-logran-reapertura-2026-10-22__1725429",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Imdis Ahome entrega 50 sillas de ruedas todoterreno a discapacitados",
+        "summary": "Instituto Municipal para Personas con Discapacidad de Ahome distribuyó 50 sillas de ruedas especializadas a población con discapacidad motriz.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/imdis-ahome-entrega-50-sillas-de-ruedas-todoterreno-a-personas-con-discapacidad-motriz-2026-10-22__1725486",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Campañas contra dengue dan resultados en Mazatlán y Elota",
+        "summary": "Acciones de prevención mantienen bajo control casos de dengue en Mazatlán y Elota sin registrar repuntes significativos.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/campanas-dan-resultados-dengue-se-mantiene-sin-repunte-en-mazatlan-y-elota-2026-10-22__1725421",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Conalep Sinaloa busca alianza con SAS para formación en datos e IA",
+        "summary": "Colegio Nacional de Educación Profesional Técnica explora convenio con SAS para capacitar alumnos y docentes en ciencia de datos e inteligencia artificial.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/conalep-sinaloa-busca-aliarse-con-sas-para-formar-a-alumnos-y-docentes-en-ciencia-de-datos-e-ia-2026-10-22__1725387",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Apagón en municipios del sur por mantenimiento de torres CFE",
+        "summary": "Mantenimiento a torres de Comisión Federal de Electricidad en Villa Unión provocó apagón en municipios del sur de Sinaloa.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/mantenimiento-a-torres-de-cfe-en-villa-union-provoca-apagon-en-municipios-del-sur-alcaldesa-2026-10-22__1725490",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
+      {
+        "title": "Inicia campaña de vacunación contra virus del papiloma humano en Mazatlán",
+        "summary": "Secretaría de Salud inicia aplicación de vacunas contra VPH en escuelas primarias de Mazatlán con meta de 4 mil dosis.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/inicia-la-campana-de-vacunacion-contra-el-virus-del-papiloma-humano-en-escuelas-primarias-de-mazatlan-2026-10-22__1725263",
+        "_added_at": "2026-10-22T17:16:51.560895-07:00"
+      },
       {
         "title": "Jubilados de la UAS realizan tercera concentración por descuentos a pensiones",
         "summary": "Pensionados de la Universidad Autónoma de Sinaloa protestan en Palacio de Gobierno contra reingeniera financiera y descuentos aplicados.",
@@ -264,16 +480,8 @@
         "source": "Noroeste (El Sur)",
         "url": "https://www.noroeste.com.mx/elsur/apagon-afecta-a-municipios-del-sur-de-sinaloa-durante-varias-horas-CC26711298",
         "_added_at": "2026-10-22T00:58:41.320053-07:00"
-      },
-      {
-        "title": "IMSS Sinaloa exhorta a mastografía para detección temprana de cáncer",
-        "summary": "Instituto recomienda tamizaje cada dos años en mujeres de 40 a 69 años sin síntomas.",
-        "zona": "Centro",
-        "source": "Noroeste (Culiacán)",
-        "url": "https://www.noroeste.com.mx/culiacan/tocarse-para-protegerse-imss-sinaloa-exhorta-a-realizarse-mastografia-para-deteccion-temprana-de-cancer-PD26706584",
-        "_added_at": "2026-10-22T00:58:41.320053-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-22T11:13:25.110682-07:00"
+  "last_updated": "2026-10-22T17:16:51.560895-07:00"
 }
