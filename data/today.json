@@ -1,8 +1,72 @@
 {
   "date": "2026-10-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "politica": [
+      {
+        "title": "Alcalde de Ahome rinde segundo informe ante cabildo",
+        "summary": "Antonio Menéndez de Llano presentó su segundo informe de gobierno en sesión de cabildo, reconociendo retos pendientes en servicios públicos.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/alcalde-de-ahome-rinde-su-segundo-informe-de-gobierno-y-reconoce-retos-pendientes-en-servicios-publicos-MG26759674",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "PVEM fortalece estructura rumbo a elecciones 2027",
+        "summary": "El Partido Verde en Sinaloa refuerza su organización con Ricardo Madrid priorizando a la ciudadanía de cara al proceso electoral.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/pvem-en-sinaloa-fortalece-estructura-rumbo-a-elecciones-ricardo-madrid-pone-a-ciudadania-al-centro-2026-10-23__1726201",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Jóvenes pueden tramitar INE con anticipación para votar 2027",
+        "summary": "Menores que cumplan 18 años en 2027 tienen plazo hasta 25 de enero para solicitar credencial de elector ante el INE.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/jovenes-que-cumpliran-18-en-2027-tienen-hasta-el-25-de-enero-para-tramitar-su-credencial-del-ine-2026-10-23__1726111",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "INE prohibirá propaganda gubernamental a partir de abril 2027",
+        "summary": "El Instituto Nacional Electoral ordenará suspensión de propaganda oficial en Sinaloa desde el 4 de abril por inicio de campañas electorales.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/ine-prohibiran-propaganda-gubernamental-en-sinaloa-a-partir-del-4-de-abril-de-2027-por-campanas-2026-10-23__1726051",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Manifestantes interrumpen sesión solemne de cabildo en Ahome",
+        "summary": "Grupo de ciudadanos ingresó a recinto municipal de Ahome para presentar peticiones durante sesión previa al segundo informe.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/manifestantes-irrumpen-en-sesion-solemne-de-cabildo-de-ahome-previa-al-segundo-informe-de-gobierno-NG26758948",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Regidor cuestiona segundo informe de alcalde de Ahome",
+        "summary": "Regidor del PRI solicita revisión minuciosa del informe de gobierno de Ahome tras detectar presuntas irregularidades administrativas.",
+        "zona": "Norte",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/norte/exige-regidor-por-el-pri-revision-con-lupa-al-informe-de-gobierno-en-ahome-detecta-presuntas-irregularidades-BG26758854",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Alcaldesa de Guasave reconoce falta de acciones para lograr objetivos",
+        "summary": "Alcaldesa de Guasave admite que faltaron acciones para concretar metas de gobierno rumbo a presentación de segundo informe.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/faltaron-acciones-para-concretar-objetivos-reconoce-alcaldesa-de-guasave-rumbo-a-segundo-informe-2026-10-23__1726174",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Gobernadora descarta más cambios en gabinete por ahora",
+        "summary": "Graciela Domínguez Nava indica que no realizará cambios adicionales en su equipo de trabajo en el corto plazo.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/no-mas-cambios-por-ahora-graciela-dominguez-nava/",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
       {
         "title": "Gobernadora anuncia cambios en gabinete; asegura coordinación con Congreso",
         "summary": "Graciela Domínguez confirma nuevos nombramientos en gobierno estatal y adelanta que habrá más cambios en el gabinete. Afirma trabajo coordinado con el Poder Legislativo.",
@@ -58,41 +122,57 @@
         "source": "Noroeste",
         "url": "https://www.noroeste.com.mx/culiacan/sube-de-tono-coqueteo-del-pas-con-mario-zamora-cuen-diaz-repostea-video-de-su-padre-y-manda-mensaje-directo-CH26740057",
         "_added_at": "2026-10-23T00:57:22.670271-07:00"
-      },
-      {
-        "title": "Diputado Zamora alerta por falta de fondos para Tren El Sinaloense",
-        "summary": "Mario Zamora cuestiona insuficiencia de recursos federales para proyectos de infraestructura en presupuesto 2025.",
-        "zona": "Estatal",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/alerta-mario-zamora-por-falta-de-fondos-para-tren-el-sinaloense-en-presupuesto-federal-BA26739998",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
-      },
-      {
-        "title": "Ayuntamiento de Culiacán descarta aumento salarial de 15% al Stasac",
-        "summary": "Ana Miriam Ramos prevé cerrar negociaciones con sindicato de trabajadores en próxima semana.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/descarta-ayuntamiento-de-culiacan-aumento-salarial-del-15-al-stasac-KH26740138",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
-      },
-      {
-        "title": "Regidora cuestiona gastos en difusión personal de alcaldesa",
-        "summary": "Maribel Chollet denuncia que gobierno de Mazatlán invierte 188 millones en promoción personal de autoridad.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/invierte-gobierno-de-mazatlan-188-millones-en-difusion-personal-de-la-alcaldesa-chollet-moran-IA26738189",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
-      },
-      {
-        "title": "Concejala propone prohibir licencias de alcohol cerca de escuelas",
-        "summary": "Erika Sánchez busca frenar nuevos permisos para establecimientos alcohólicos en zonas de instituciones educativas.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/propone-erika-sanchez-frenar-nuevas-licencias-de-alcohol-cerca-de-escuelas-para-proteger-a-menores-JH26740018",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
       }
     ],
     "seguridad": [
+      {
+        "title": "Cae El Coco Ranas en Culiacán; siete homicidios registrados",
+        "summary": "Detención de presunto líder criminal en Culiacán genera expectativa sobre reducción de violencia; se registraron 7 homicidios y 2 feminicidios.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/informe-diario-cae-el-coco-ranas-de-los-chapitos-en-culiacan-7-homicidios-2-feminicidios-y-10-vehiculos-robados-LG26752328",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Separan temporalmente director del penal de Mazatlán",
+        "summary": "Gobernadora ordena remover director del penal tras riña que dejó 12 muertos; se abre investigación sobre seguridad en la cárcel.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/separaran-temporalmente-al-director-del-penal-de-mazatlan-gobernadora-OG26759043",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Vinculan a proceso a cuatro detenidos en Concordia",
+        "summary": "Cuatro personas fueron vinculadas a proceso tras asegurárseles armas, cartuchos y metanfetamina en Concordia.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/vinculan-a-proceso-a-cuatro-detenidos-con-armas-y-metanfetamina-en-concordia-PG26753682",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Autoridades cierran laboratorio de droga en Culiacán rural",
+        "summary": "Fuerzas federales aseguran equipo e insumos para elaborar metanfetamina en comunidades de la zona rural de Culiacán.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/seguridad/inhabilitan-laboratorio-clandestino-y-centros-de-acopio-de-quimicos-en-la-zona-rural-de-culiacan-GG26752747",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "SSPE prohíbe disfraces de violencia en Halloween",
+        "summary": "Secretaría de Seguridad Pública instruye a ciudadanía no usar disfraces que hagan apología al delito durante celebración de Halloween.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/sspe-prohibira-disfraces-que-hagan-apologia-a-la-violencia-durante-halloween-en-sinaloa-2026-10-23__1726132",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Gobernadora atribuye baja de inseguridad a estrategia de seguridad",
+        "summary": "Graciela Domínguez destaca que reducción en percepción de inseguridad en Culiacán es resultado de acciones focalizadas de su gobierno.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/culiacan-se-percibe-mas-seguro-resultado-de-la-estrategia-de-seguridad-dice-gobernadora-de-sinaloa-KG26758626",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
       {
         "title": "Mazatlán supera a Culiacán en percepción de inseguridad",
         "summary": "Según INEGI, Mazatlán sube a 85.8% en percepción de inseguridad, colocándose tercera a nivel nacional. Culiacán desciende a 81.6%.",
@@ -164,33 +244,73 @@
         "source": "Noroeste",
         "url": "https://www.noroeste.com.mx/seguridad/asesinan-a-una-mujer-en-el-centro-de-escuinapa-sumen-21-casos-desde-junio-PH26741860",
         "_added_at": "2026-10-23T00:57:22.670271-07:00"
-      },
-      {
-        "title": "Detienen a hombre armado en El Barrio de Culiacán",
-        "summary": "Policía Estatal Preventiva asegura armas y dos vehículos en operativo.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/detienen-a-un-hombre-armado-y-aseguran-dos-vehiculos-en-culiacan-EH26741104",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
-      },
-      {
-        "title": "Hallan cadáver con impacto de bala en Los Pozos, Rosario",
-        "summary": "Hombre sin vida localizado en comunidad del sur del estado.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/seguridad/reportan-hallazgo-de-hombre-sin-vida-y-con-impacto-de-bala-en-los-pozos-rosario-FA26737938",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
-      },
-      {
-        "title": "Asesinato de mujeres en Mazatlán requiere atención urgente",
-        "summary": "Regidora Mylai Quintero advierte contra normalizacion de feminicidios en la ciudad.",
-        "zona": "Sur",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/mazatlan/no-se-debe-permitir-que-asesinato-de-mujeres-en-mazatlan-se-conviertan-en-una-cifra-mas-mylai-quintero-LA26739839",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
       }
     ],
     "economia": [
+      {
+        "title": "Infonavit vende mil 480 casas en dos semanas en Mazatlán",
+        "summary": "Desarrollo Las Terrazas se agota en quincena; Infonavit planifica entregar 300 viviendas adicionales antes de terminar 2026.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/infonavit-vende-todo-en-las-terrazas-y-explora-nuevos-desarrollos-en-mazatlan-EG26758378",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Comercialización de granos no está en presupuesto 2027",
+        "summary": "Mario Zamora busca impulsar inclusión de programa de comercialización de granos sinaloenses en presupuesto federal 2027.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/comercializacion-de-granos-sinaloenses-no-esta-en-pef-de-2027-mario-zamora-busca-impulsarlo-2026-10-23__1726191",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Topolobampo clave en estrategia de fertilizantes: Ebrard",
+        "summary": "Secretario de Economía destaca importancia de Topolobampo en plan para ampliar producción de fertilizantes en México.",
+        "zona": "Norte",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/23/ebrard-destaca-a-topolobampo-en-estrategia-para-ampliar-produccion-de-fertilizantes/",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Cultivos de hortalizas avanzan en Villa Unión, Mazatlán",
+        "summary": "Avanzan trabajos agrícolas de hortalizas en sindicatura de Villa Unión como parte de diversificación productiva en la región.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/avanzan-cultivos-de-hortalizas-en-la-sindicatura-de-villa-union-mazatlan-2026-10-23__1726127",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Productores de maíz urgem cobro de apoyo estatal",
+        "summary": "Asociación de agricultores reclama pago de subsidio estatal de 400 pesos por tonelada para comercialización de maíz.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/a-productores-de-maiz-les-urge-pago-de-apoyo-estatal-de-400-pesos-a-la-comercializacion-aarfs-2026-10-23__1726126",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Hoteleros de Mazatlán apuestan a puentes escolares",
+        "summary": "Empresarios hoteleros del puerto buscan aumentar ocupación a través de caravanas y aprovechamiento de puentes vacacionales.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/empresarios-hoteleros-de-mazatlan-apuestan-a-caravanas-y-puentes-escolares-para-aumentar-ocupacion-2026-10-23__1726085",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Pesca alerta sobre entrada desmedida de camarón importado",
+        "summary": "Autoridades pesqueras reportan que operativos en bodegas resultan insuficientes para contener importación excesiva de camarón extranjero.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/operativos-en-bodegas-no-son-suficientes-para-detener-entrada-desmedida-de-camaron-a-mexico-pesca-2026-10-23__1726149",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Descapitalización golpea campo en Guasave",
+        "summary": "Productores de Guasave venden maquinaria agrícola por falta de capital; prevén ciclo productivo incierto para próximo año.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/descapitalizacion-golpea-al-campo-en-guasave-productores-venden-maquinaria-y-preven-otro-ciclo-incierto-2026-10-23__1726047",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
       {
         "title": "Gobernadora garantiza pagos pendientes a productores de maíz",
         "summary": "Graciela Domínguez asegura que productores de maíz recibirán pagos adeudados en los próximos días.",
@@ -241,6 +361,70 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Feria de empleo agrícola ofrece 710 empleos en Navolato",
+        "summary": "Autoridades organizan feria laboral en Villa Juárez con vacantes que alcanzan salarios de hasta 24 mil pesos mensuales.",
+        "zona": "Centro",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/culiacan/ofertan-710-empleos-en-villa-juarez-con-salarios-de-hasta-24-mil-pesos-FG26755022",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Culiacán invierte 51 millones en espacios deportivos",
+        "summary": "Municipio de Culiacán destina 51.1 millones de pesos para construcción de infraestructura deportiva y otorgamiento de becas.",
+        "zona": "Centro",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/23/culiacan-invierte-51-millones-de-pesos-en-espacios-deportivos/",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Incrementa influenza en Sinaloa; reportan 180 casos",
+        "summary": "Secretaría de Salud registra aumento de casos de influenza en todo el estado; activa campaña de vacunación gratuita.",
+        "zona": "Estatal",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/incrementa-la-presencia-de-influenza-en-sinaloa-salud-reporta-180-casos-en-todo-el-estado-2026-10-23__1726000",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Se disparan casos de dengue en norte de Sinaloa",
+        "summary": "Secretaría de Salud alerta sobre aumento acelerado de casos de dengue en municipios de la región norte del estado.",
+        "zona": "Norte",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/se-disparan-los-casos-de-dengue-en-los-ultimos-dias-en-el-norte-de-sinaloa-reporta-salud-2026-10-23__1726115",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Escuinapa implementa clases virtuales por violencia",
+        "summary": "Secundaria de Escuinapa adopta modalidad virtual de clases ante situación de inseguridad prevaleciente en el municipio.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/elsur/secundaria-en-escuinapa-decide-ir-a-clases-virtuales-ante-hechos-de-violencia-en-el-municipio-MH26748433",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Espera festival de Día de Muertos en Guamúchil más de 100 mil",
+        "summary": "Gobierno de Salvador Alvarado organiza celebración de Día de Muertos en Guamúchil esperando atraer más de 100 mil visitantes.",
+        "zona": "Centro",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/esperan-mas-de-100-mil-personas-en-el-recorrido-de-dia-de-muertos-en-guamuchil-2026-10-23__1726095",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "CIDOCS de la UAS conmemora 44 años de servicio",
+        "summary": "Centro de Investigación y Docencia en Ciencias de la Salud de la Universidad Autónoma celebra cuatro décadas como pilar de medicina e investigación.",
+        "zona": "Centro",
+        "source": "Los Noticieristas",
+        "url": "https://losnoticieristas.com/sinaloa/2026/10/consolidado-como-pilar-de-la-medicina-y-la-investigacion-en-sinaloa-el-cidocs-de-la-uas-conmemora-44-anos-de-servicio-1154163/",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
+      {
+        "title": "Escala con Causa impulsa habilidades de personas con discapacidad",
+        "summary": "Programa en Mazatlán busca fortalecer destrezas productivas y autoempleo en personas con discapacidad mediante talleres especializados.",
+        "zona": "Sur",
+        "source": "Línea Directa",
+        "url": "https://lineadirectaportal.com/sinaloa/en-mazatlan-escala-con-causa-busca-fortalecer-habilidades-productivas-de-personas-con-discapacidad-2026-10-23__1726160",
+        "_added_at": "2026-10-23T17:10:17.174664-07:00"
+      },
       {
         "title": "Marquesina colapsa en primaria de Batamote, Guasave",
         "summary": "Desplome de marquesina en escuela primaria de Batamote genera riesgos. Autoridades acuerdonan zona; padres exigen reparaciones.",
@@ -296,16 +480,8 @@
         "source": "Luz Noticias",
         "url": "https://www.luznoticias.mx/2026-10-23/sinaloa/inician-reparacion-del-socavon-junto-a-la-mujer-mazatleca-tras-danos-por-fuerte-oleaje/311507",
         "_added_at": "2026-10-23T11:02:29.977209-07:00"
-      },
-      {
-        "title": "Jornada de prevención de cáncer de mama en Culiacán",
-        "summary": "Secretaría de las Mujeres ofrece taller de autocuidado y detección temprana en Centro de Justicia.",
-        "zona": "Centro",
-        "source": "Noroeste",
-        "url": "https://www.noroeste.com.mx/culiacan/impulsan-la-prevencion-de-cancer-de-mama-con-taller-en-centro-de-justicia-para-las-mujeres-GA26739953",
-        "_added_at": "2026-10-23T00:57:22.670271-07:00"
       }
     ]
   },
-  "last_updated": "2026-10-23T11:02:29.977209-07:00"
+  "last_updated": "2026-10-23T17:10:17.174664-07:00"
 }
