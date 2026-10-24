@@ -1,8 +1,32 @@
 {
   "date": "2026-10-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "politica": [
+      {
+        "title": "Imelda Castro convoca a fortalecer transformación desde territorios",
+        "summary": "Funcionaria hace llamado a seguir consolidando la 4T en el estado, enfatizando participación local y movilización territorial.",
+        "zona": "Estatal",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/imelda-castro-llama-a-seguir-fortaleciendo-la-4t-desde-el-territorio/",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
+      {
+        "title": "Jesús Ibarra se suma al PT ratificando militancia con Morena",
+        "summary": "Militante político se integra al Partido del Trabajo, reafirmando su alineación con la coalición morenista.",
+        "zona": "Estatal",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-24/politica/jesus-ibarra-se-suma-al-pt-y-ratifica-su-militancia-con-morena/311686",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
+      {
+        "title": "Exsíndica procuradora de Mazatlán busca defender la transformación",
+        "summary": "Funcionaria inhabilitada continúa promoviendo agendas de cambio institucional pese a medidas en su contra.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/24/con-inhabilitacion-incluida-exsindica-procuradora-de-mazatlan-busca-defender-la-transformacion/",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
       {
         "title": "Regidores cuestionan informe del alcalde de Escuinapa",
         "summary": "Regidores de Escuinapa criticaron los resultados presentados por el alcalde Víctor Manuel Díaz por falta de obras realizadas.",
@@ -13,6 +37,22 @@
       }
     ],
     "seguridad": [
+      {
+        "title": "Empleado del C4I asesinado a balazos en Mazatlán",
+        "summary": "Hombre que trabajaba en centro de control fue atacado y muerto en San Fernando, Mazatlán.",
+        "zona": "Sur",
+        "source": "Luz Noticias",
+        "url": "https://www.luznoticias.mx/2026-10-24/policiaca/identifican-a-hombre-asesinado-a-balazos-en-san-fernando-trabajaba-en-el-c4i-en-mazatlan/311679",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
+      {
+        "title": "Escuinapa suma 20 mujeres asesinadas en 2026",
+        "summary": "Cifra crítica de feminicidios en municipio sureño evidencia persistencia de violencia contra mujeres.",
+        "zona": "Sur",
+        "source": "Revista Espejo",
+        "url": "https://revistaespejo.com/2026/10/24/en-escuinapa-20-mujeres-han-sido-asesinadas-en-lo-que-va-de-2026/",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
       {
         "title": "Jóvenes armados protagonizan riña en Goros Pueblo",
         "summary": "Enfrentamiento entre grupos armados con machetes y piedras en motocicletas fue registrado por vecinos en Ahome.",
@@ -54,8 +94,41 @@
         "_added_at": "2026-10-24T00:37:48.189804-07:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Transportistas de Mazatlán denuncian 300 permisos provisionales irregulares",
+        "summary": "Sector exige audiencia con gobernadora para resolver conflicto por documentación fraudulenta de autotransporte.",
+        "zona": "Sur",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOckxUaEZfQUVTT2NYZEw5dURUb3l2ZFVXSFNvYnQ3ZnF0Q0dVQjFUY1lpYjRRX0VfU2lmd2FCd0RWMmp3YzBJaG41dWZFRUNGS1pKWTk1RFhvOE5hTXRGV1JOVjBiMFlybEZqUmFueFpNLTR1Mk1qUUJVb0VtRnl2b0ZDdkRuSGljWE5qaW1sLXpNdmJtMVljeWZ0YlhkX0lSWUx1Vm9GRnJxUlNTTkhmS29mRDk3TWNzVFNZY2hBc1ExTmZqbDNXelNVTUZCUTlDWF9zaXBVaFNVaWVCeHFYVmRuOGdILWlxdDlhbDlXSmFkQ1pONFNqTjEzU1BFOGhfQU5makZ2aDFSdnBLVnc",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Especialistas urgen priorizar mastografía ante cáncer de mama",
+        "summary": "Académicos de la UAS advierten que más del 60% de casos se detectan tardíamente y recomiendan autoexploración.",
+        "zona": "Centro",
+        "source": "Café Negro",
+        "url": "https://cafenegroportal.com/deteccion-tardia-en-mas-del-60-de-los-casos-especialistas-de-la-uas-urgen-a-priorizar-la-mastografia-y-la-autoexploracion-frente-al-cancer-de-mama/",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
+      {
+        "title": "Operativo de seguridad en panteones de Mazatlán por Día de Muertos",
+        "summary": "Autoridades preparan dispositivo de tres días en cementerios durante festividades de difuntos.",
+        "zona": "Sur",
+        "source": "Noroeste",
+        "url": "https://www.noroeste.com.mx/mazatlan/preparan-operativo-de-tres-dias-en-panteones-de-mazatlan-por-el-dia-de-muertos-NF26761873",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
+      {
+        "title": "UAdeO Guamúchil gradúa 90 nuevos profesionistas",
+        "summary": "Universidad autónoma del estado completa generación de egresados en campus de Salvador Alvarado.",
+        "zona": "Centro",
+        "source": "El Debate",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmh5RElrMXlNemUzWXZudk0wMFhwWlprM01ZeEZZOVl0N1JhWEwzYnhwVzVrUjRoSzNWTE5HcUVpSzU3aUNTSHR0ekZPTHk4TkM1VEpsLU9SeXR0a2tuUXlVSE5UTWZGeWxwNlJlNXJUZDZORkVUVUV6VVo0NzA0WktHS0xnNDVtU0oxbjRYWkRpZEM4bXU5VV85VDNKenRWY0dic3QwR1lqanVRNnk0dl85MWRpUQ",
+        "_added_at": "2026-10-24T10:07:22.878944-07:00"
+      },
       {
         "title": "Panel sobre cultura y paz en encuentro Sinaloa Transforma",
         "summary": "Artistas, empresarios y sociedad civil participaron en foro sobre arte como herramienta para reconstruir paz.",
@@ -82,5 +155,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-24T00:37:48.189804-07:00"
+  "last_updated": "2026-10-24T10:07:22.878944-07:00"
 }
